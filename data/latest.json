@@ -1,6 +1,6 @@
 {
   "date": "2026-03-30",
-  "generated_at": "2026-03-30 15:26:01",
+  "generated_at": "2026-03-30 16:22:57",
   "lead_text": "今日样本中趋势分布较为分散，建议关注高频词与高分报道的交叉区域。",
   "top_keywords": [],
   "items": [
@@ -18,6 +18,18 @@
       "manual_pick": true,
       "score": 10000,
       "cn_summary": "关注点：Miu Miu 2026春夏秀场中的复古运动风重构。聚焦廓形、材质与商业化潜力。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "‘The Devil Wears Prada’ Is the Next Focus of the Vogue Book Club",
+      "link": "https://www.vogue.com/article/vogue-book-club-the-devil-wears-prada-announcement",
+      "summary": "Ahead of the theatrical release of “The Devil Wears Prada 2,” we’re revisiting the 2003 novel that started it all.",
+      "published": "Mon, 30 Mar 2026 16:00:08 +000",
+      "source": "Vogue",
+      "tags": [
+        "品牌:Prada"
+      ],
+      "score": 1,
+      "cn_summary": "关注点：‘The Devil Wears Prada’ Is the Next Focus of the Vogue Book Club。Ahead of the theatrical release of “The Devil Wears Prada 2,” we’re revisiting the 2003 novel that started it all.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
       "title": "Anya Taylor-Joy and Brie Larson Channel Whimsy in Dior and Rodarte",
@@ -44,18 +56,6 @@
       "cn_summary": "关注点：Feng Chen Wang Bags Top Honor at Dior- and Moncler-backed Fashion Prize。The designer took home the Visionary of the Year award, while Chen Sifan and Moto Guo scored the Public Impa。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "EXCLUSIVE: Prada Frames’ 2026 Edition to Discuss Image-making",
-      "link": "https://wwd.com/home-design/architecture/prada-frames-2026-edition-image-making-milan-design-week-1238664491/",
-      "summary": "Design duo Formafantasma sheds light on the 2026 edition of the Prada Frames symposium, titled “In Sight” and to be held April 19 to 21 in Milan.",
-      "published": "Mon, 30 Mar 2026 04:01:00 +000",
-      "source": "WWD",
-      "tags": [
-        "品牌:Prada"
-      ],
-      "score": 1,
-      "cn_summary": "关注点：EXCLUSIVE: Prada Frames’ 2026 Edition to Discuss Image-making。Design duo Formafantasma sheds light on the 2026 edition of the Prada Frames symposium, titled “In Sight” and to be he。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
       "title": "Should Luxury Stop Worrying and Learn to Love AI Imagery?",
       "link": "https://www.businessoffashion.com/briefings/technology/should-luxury-stop-worrying-and-learn-to-love-ai-imagery/",
       "summary": "From Warhol to Jordan Wolfson, art is often driven by the tools that once terrified it. Prada’s polarising Wolfson campaign makes the case that AI is no different.",
@@ -66,6 +66,16 @@
       ],
       "score": 1,
       "cn_summary": "关注点：Should Luxury Stop Worrying and Learn to Love AI Imagery?。From Warhol to Jordan Wolfson, art is often driven by the tools that once terrified it. Prada’s polarising Wolfson campaig。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Halle Berry’s French Bob Is Perfect for Spring",
+      "link": "https://www.vogue.com/article/halle-berry-bob-spring-2026",
+      "summary": "Strolling through Paris with her fiancé, the actor's new French bob was on full display.",
+      "published": "Mon, 30 Mar 2026 16:03:45 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Halle Berry’s French Bob Is Perfect for Spring。Strolling through Paris with her fiancé, the actor's new French bob was on full display.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
       "title": "5 Fresh Bobs To Inspire Your Spring Chop",
@@ -111,7 +121,7 @@
       "title": "Yirantian Shanghai Fall 2026",
       "link": "https://www.vogue.com/fashion-shows/shanghai-fall-2026/yirantian",
       "summary": "",
-      "published": "Mon, 30 Mar 2026 15:24:29 +000",
+      "published": "Mon, 30 Mar 2026 16:22:06 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
@@ -121,7 +131,7 @@
       "title": "Jacques Wei Shanghai Fall 2026",
       "link": "https://www.vogue.com/fashion-shows/shanghai-fall-2026/jacques-wei",
       "summary": "",
-      "published": "Mon, 30 Mar 2026 15:24:29 +000",
+      "published": "Mon, 30 Mar 2026 16:22:06 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
@@ -131,7 +141,7 @@
       "title": "8ON8 Shanghai Fall 2026",
       "link": "https://www.vogue.com/fashion-shows/shanghai-fall-2026/8on8",
       "summary": "",
-      "published": "Mon, 30 Mar 2026 15:24:29 +000",
+      "published": "Mon, 30 Mar 2026 16:22:06 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
@@ -141,7 +151,7 @@
       "title": "AO Yes Shanghai Fall 2026",
       "link": "https://www.vogue.com/fashion-shows/shanghai-fall-2026/ao-yes",
       "summary": "",
-      "published": "Mon, 30 Mar 2026 15:24:29 +000",
+      "published": "Mon, 30 Mar 2026 16:22:06 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
@@ -211,7 +221,7 @@
       "title": "Tao Tokyo Fall 2026",
       "link": "https://www.vogue.com/fashion-shows/tokyo-fall-2026/tao",
       "summary": "",
-      "published": "Mon, 30 Mar 2026 15:24:29 +000",
+      "published": "Mon, 30 Mar 2026 16:22:06 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
@@ -306,16 +316,6 @@
       "tags": [],
       "score": 0,
       "cn_summary": "关注点：Anya Taylor-Joy Goes Hell for Vintage Leather at the F1 Grand Prix。“The Super Mario Galaxy Movie” actor took a break from the Japan press tour (and her Princess Peach-y method dres。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "25 Best Hotels in Mexico City, From Art Deco Guesthouses to Minimalist Hideouts",
-      "link": "https://www.vogue.com/article/best-hotels-in-mexico-city",
-      "summary": "Whether you’re drawn to the contemporary art, music, or food scene, the are the best hotels in Mexico City to book.",
-      "published": "Sun, 29 Mar 2026 10:00:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：25 Best Hotels in Mexico City, From Art Deco Guesthouses to Minimalist Hideouts。Whether you’re drawn to the contemporary art, music, or food scene, the are the best hotels in Mexic。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     }
   ]
 }
