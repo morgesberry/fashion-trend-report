@@ -1,8 +1,13 @@
 {
-  "date": "2026-04-10",
-  "generated_at": "2026-04-10 04:08:42",
-  "lead_text": "今日样本中趋势分布较为分散，建议关注高频词与高分报道的交叉区域。",
-  "top_keywords": [],
+  "date": "2026-04-11",
+  "generated_at": "2026-04-11 03:37:55",
+  "lead_text": "从今日样本看，Y2K热度靠前；建议优先跟踪相关品牌动作、秀场叙事与商业转化信号。",
+  "top_keywords": [
+    [
+      "Y2K",
+      1
+    ]
+  ],
   "items": [
     {
       "title": "Miu Miu 2026春夏秀场中的复古运动风重构",
@@ -20,52 +25,41 @@
       "cn_summary": "关注点：Miu Miu 2026春夏秀场中的复古运动风重构。聚焦廓形、材质与商业化潜力。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "9 Spring Outfits to Try—Straight From the Runways",
-      "link": "https://www.vogue.com/article/transitional-spring-outfits-runway",
-      "summary": "What to wear when it’s neither hot nor cold—but stuck in between? From Celine to Bottega, here are 9 spring outfits that bridge the space between both.",
-      "published": "Thu, 09 Apr 2026 18:08:50 +000",
+      "title": "Eli Wants You, Too, to Believe in the Power of Pop",
+      "link": "https://www.vogue.com/article/eli-musician-stage-girl-deluxe-interview",
+      "summary": "The rising musician with a rapidly growing cult following tells Vogue about the upcoming deluxe version of her album “Stage Girl,” Y2K style, and why the world needs a trans main pop girl.",
+      "published": "Fri, 10 Apr 2026 16:00:00 +000",
       "source": "Vogue",
       "tags": [
-        "品牌:Celine"
+        "趋势:Y2K",
+        "风格:Y2K"
       ],
-      "score": 1,
-      "cn_summary": "关注点：9 Spring Outfits to Try—Straight From the Runways。What to wear when it’s neither hot nor cold—but stuck in between? From Celine to Bottega, here are 9 spring outfits that bridge th。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "score": 4,
+      "cn_summary": "关注点：Eli Wants You, Too, to Believe in the Power of Pop。The rising musician with a rapidly growing cult following tells Vogue about the upcoming deluxe version of her album “Stage Girl,。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Calling All Vogue Book Club Members: We’re Hosting a Special Screening of ‘The Devil Wears Prada 2’!",
-      "link": "https://www.vogue.com/article/the-devil-wears-prada-2-screening-announcement",
-      "summary": "The screening, held with support from Samsung and Tiffany & Co., will be accompanied by a reception and discussion—the latter to be recorded for “The Run-Through.”",
-      "published": "Thu, 09 Apr 2026 16:00:00 +000",
+      "title": "How to Style the Runway-Approved Sneakerina for Spring",
+      "link": "https://www.vogue.com/article/how-to-style-sneakerinas",
+      "summary": "The runway-approved sneaker and ballet hybrid is trending for spring. Here’s how to style our favorite pairs, from Dries Van Noten, Prada, and more.",
+      "published": "Fri, 10 Apr 2026 16:57:22 +000",
       "source": "Vogue",
       "tags": [
         "品牌:Prada"
       ],
       "score": 1,
-      "cn_summary": "关注点：Calling All Vogue Book Club Members: We’re Hosting a Special Screening of ‘The Devil Wears Prada 2’!。The screening, held with support from Samsung and Tiffany & Co., will be accomp。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：How to Style the Runway-Approved Sneakerina for Spring。The runway-approved sneaker and ballet hybrid is trending for spring. Here’s how to style our favorite pairs, from Dries Van 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Aline Brosh McKenna on Adapting ‘The Devil Wears Prada’ Into Not One, But Two Major Hollywood Scripts",
-      "link": "https://www.vogue.com/article/aline-brosh-mckenna-the-devil-wears-prada-adaptation",
-      "summary": "The screenwriter behind “The Devil Wears Prada” is back for the sequel, and she’s answering all our questions about turning the aughts’ biggest roman à clef into movie magic.",
-      "published": "Thu, 09 Apr 2026 16:00:00 +000",
+      "title": "All of the Devil Wears Prada 2 Premiere Fashions So Far",
+      "link": "https://www.vogue.com/slideshow/the-devil-wears-prada-2-press-tour-fashions-red-carpet",
+      "summary": "See what stars Meryl Streep, Anne Hathaway, and more are wearing on the buzzy film’s fashion-filled press tour.",
+      "published": "Fri, 10 Apr 2026 15:45:47 +000",
       "source": "Vogue",
       "tags": [
         "品牌:Prada"
       ],
       "score": 1,
-      "cn_summary": "关注点：Aline Brosh McKenna on Adapting ‘The Devil Wears Prada’ Into Not One, But Two Major Hollywood Scripts。The screenwriter behind “The Devil Wears Prada” is back for the sequel, and sh。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Anna Wintour’s Former Assistants Debunk ‘The Devil Wears Prada’: On the Podcast",
-      "link": "https://www.vogue.com/article/on-the-podcast-anna-wintours-former-assistants-debunk-the-devil-wears-prada",
-      "summary": "On this Thursday’s episode of “The Run-Through,” three of Anna Wintour’s former assistants discuss what “The Devil Wears Prada” got right (and wrong) about the job.",
-      "published": "Thu, 09 Apr 2026 10:30:00 +000",
-      "source": "Vogue",
-      "tags": [
-        "品牌:Prada"
-      ],
-      "score": 1,
-      "cn_summary": "关注点：Anna Wintour’s Former Assistants Debunk ‘The Devil Wears Prada’: On the Podcast。On this Thursday’s episode of “The Run-Through,” three of Anna Wintour’s former assistants discuss w。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：All of the Devil Wears Prada 2 Premiere Fashions So Far。See what stars Meryl Streep, Anne Hathaway, and more are wearing on the buzzy film’s fashion-filled press tour.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
       "title": "Kering Will Name Former Chanel Executive, Hotel CEO to Board",
@@ -104,224 +98,234 @@
       "cn_summary": "关注点：Is AI Antithetical to Luxury?。The reaction to Prada’s unsettling new campaign reveals an emerging sentiment in online audiences who see AI and luxury as incompatible.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Shop Our Favorite Looks of the Week | Vogue",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "published": "Fri, 10 Apr 2026 01:35:48 +000",
+      "title": "79 Thoughts I Had While Watching 'You, Me & Tuscany'",
+      "link": "https://www.vogue.com/article/78-thoughts-i-had-while-watching-you-me-and-tuscany",
+      "summary": "Not Duolingo yelling at me to do my Italian lesson during this specific film!",
+      "published": "Sat, 11 Apr 2026 02:48:40 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Shop Our Favorite Looks of the Week | Vogue。Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：79 Thoughts I Had While Watching 'You, Me & Tuscany'。Not Duolingo yelling at me to do my Italian lesson during this specific film!。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "6 Flannel Shirt Outfits to Tackle the Transitional Season in Style",
-      "link": "https://www.vogue.com/article/flannel-shirt-outfits",
-      "summary": "Can’t get enough of plaid and check patterns? Here are six flannel shirt outfits that have the runway seal of approval.",
-      "published": "Fri, 10 Apr 2026 01:20:27 +000",
+      "title": "18 Travel Outfits for Women Inspired by Celebs in 2026 | Vogue",
+      "link": "https://www.vogue.com/article/airport-outfits-celebrity-style",
+      "summary": "Wheel’s up! Shop 18 chic airport looks inspired by celebrities such as Zoë Kravitz, Gigi Hadid, and Zendeya, to make your upcoming trip all the more stylish.",
+      "published": "Fri, 10 Apr 2026 22:15:32 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：6 Flannel Shirt Outfits to Tackle the Transitional Season in Style。Can’t get enough of plaid and check patterns? Here are six flannel shirt outfits that have the runway seal of app。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：18 Travel Outfits for Women Inspired by Celebs in 2026 | Vogue。Wheel’s up! Shop 18 chic airport looks inspired by celebrities such as Zoë Kravitz, Gigi Hadid, and Zendeya, to make 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "‘I’ve Always Been a Decorator’: Why Pamela Anderson Is Turning Her Hand to Furniture Design",
-      "link": "https://www.vogue.com/article/pamela-anderson-olive-ateliers-furniture-collection",
-      "summary": "The actor tells Vogue why she’s launching her first furniture collection in partnership with the cult-favorite interiors studio Olive Ateliers.",
-      "published": "Thu, 09 Apr 2026 21:05:51 +000",
+      "title": "A Guide to the Best Travel Makeup Brush Sets",
+      "link": "https://www.vogue.com/article/travel-makeup-brush-sets",
+      "summary": "The pros weigh in on the best travel makeup brush sets to pack for your next jet-setting holiday—we included options at every price point.",
+      "published": "Fri, 10 Apr 2026 21:50:01 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：‘I’ve Always Been a Decorator’: Why Pamela Anderson Is Turning Her Hand to Furniture Design。The actor tells Vogue why she’s launching her first furniture collection in partnership 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：A Guide to the Best Travel Makeup Brush Sets。The pros weigh in on the best travel makeup brush sets to pack for your next jet-setting holiday—we included options at every price poi。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "An Ode to Cherry Blossom Season, As Captured by 11 Photographers",
-      "link": "https://www.vogue.com/article/cherry-blossom-ode",
-      "summary": "In celebration of the fleeting beauty of cherry blossoms, we asked some of our favorite photographers to share their best snapshots of the trees in bloom.",
-      "published": "Thu, 09 Apr 2026 20:36:16 +000",
+      "title": "The CFDA Celebrated Springtime in Los Angeles",
+      "link": "https://www.vogue.com/slideshow/cfda-los-angeles-cocktail-party",
+      "summary": "The CFDA raised a glass to a new season with the fashion and accessory designers of Los Angeles at The Oliver House in Silver Lake.",
+      "published": "Fri, 10 Apr 2026 21:26:32 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：An Ode to Cherry Blossom Season, As Captured by 11 Photographers。In celebration of the fleeting beauty of cherry blossoms, we asked some of our favorite photographers to share thei。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：The CFDA Celebrated Springtime in Los Angeles。The CFDA raised a glass to a new season with the fashion and accessory designers of Los Angeles at The Oliver House in Silver Lake.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "10 Spring 2026 Shoe Trends to Shop Now",
-      "link": "https://www.vogue.com/article/spring-2026-shoe-trends",
-      "summary": "From fancy footwear for your inner child to minimalist glove pumps and slimmed-down sneakers, these are the spring 2026 shoe trends to shop now.",
-      "published": "Thu, 09 Apr 2026 20:21:46 +000",
+      "title": "9 Best Sunscreens Under Makeup That Never Pill",
+      "link": "https://www.vogue.com/article/sunscreen-under-makeup",
+      "summary": "To find the best sunscreen under makeup, the experts suggest formulas that are lightweight and fast absorbing. From Coola to Kosas, shop our favorite formulas here.",
+      "published": "Fri, 10 Apr 2026 20:13:27 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：10 Spring 2026 Shoe Trends to Shop Now。From fancy footwear for your inner child to minimalist glove pumps and slimmed-down sneakers, these are the spring 2026 shoe trends to shop n。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：9 Best Sunscreens Under Makeup That Never Pill。To find the best sunscreen under makeup, the experts suggest formulas that are lightweight and fast absorbing. From Coola to Kosas, s。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "How Much Collagen in Coffee, Creamer, Matcha, and More Actually Makes a Difference",
-      "link": "https://www.vogue.com/article/collagen-coffee-creamer-matcha",
-      "summary": "Experts say collagen in coffee or matcha can be a morning pick-me-up that can improve skin, hair, nails, joints, bones, gut health, and more for a radiant glow.",
-      "published": "Thu, 09 Apr 2026 18:31:03 +000",
+      "title": "Nicole Kidman’s Fluffy Curtain Bangs Are Universally Flattering For All",
+      "link": "https://www.vogue.com/article/nicole-kidmans-fluffy-curtain-bangs",
+      "summary": "The actor's stylish updo at the 'Margo's Got Money Troubles' premiere is a masterclass on how to grow out your bangs with no awkward phase.",
+      "published": "Fri, 10 Apr 2026 19:56:00 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：How Much Collagen in Coffee, Creamer, Matcha, and More Actually Makes a Difference。Experts say collagen in coffee or matcha can be a morning pick-me-up that can improve skin, hair,。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Nicole Kidman’s Fluffy Curtain Bangs Are Universally Flattering For All。The actor's stylish updo at the 'Margo's Got Money Troubles' premiere is a masterclass on how to grow out yo。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "The Rise of GLP-1 Wedding Weight Loss",
-      "link": "https://www.vogue.com/article/the-rise-of-glp-1-wedding-weight-loss",
-      "summary": "The months leading up to a wedding have long been framed as a period of transformation—but as couples turn to GLP-1s as part of their timeline, that transformation is increasingly medicalized.",
-      "published": "Thu, 09 Apr 2026 18:26:53 +000",
+      "title": "The Best Celebrity Coachella Outfits of 2026 So Far: Kylie Jenner, Becky G & More",
+      "link": "https://www.vogue.com/slideshow/best-celebrity-coachella-outfits-2026",
+      "summary": "From the headliners to the VIP guests, Coachella is always a star-studded affair. See the best sightings and fashions from the 2026 music festival here.",
+      "published": "Fri, 10 Apr 2026 19:44:43 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：The Rise of GLP-1 Wedding Weight Loss。The months leading up to a wedding have long been framed as a period of transformation—but as couples turn to GLP-1s as part of their timeline。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：The Best Celebrity Coachella Outfits of 2026 So Far: Kylie Jenner, Becky G & More。From the headliners to the VIP guests, Coachella is always a star-studded affair. See the best sig。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Everyone Flocked to the Unveiling of Athena Calderone’s Tribeca Apartment",
-      "link": "https://www.vogue.com/slideshow/athena-calderone-tribeca-apartment-housewarming-furniture-line",
-      "summary": "There’s a regular housewarming—and then there’s the kind that comes in conjunction with an Architectural Digest cover story and a debut furniture collection to extend said home’s signature style to shoppers around the world.",
-      "published": "Thu, 09 Apr 2026 18:25:32 +000",
+      "title": "Anyma and Lisa on Creativity, Technology, and Collaborating on “Bad Angel”",
+      "link": "https://www.vogue.com/article/anyma-lisa-bad-angel-interview",
+      "summary": "In an exclusive interview, the two artists discuss their first meetings, the points of connection between their creative paths, and the graphic T-shirt that helped inspire their club-ready new song.",
+      "published": "Fri, 10 Apr 2026 16:11:02 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Everyone Flocked to the Unveiling of Athena Calderone’s Tribeca Apartment。There’s a regular housewarming—and then there’s the kind that comes in conjunction with an Architectural D。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Anyma and Lisa on Creativity, Technology, and Collaborating on “Bad Angel”。In an exclusive interview, the two artists discuss their first meetings, the points of connection between。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "The 3 Best Dermarollers for Hair Growth, According to the Pros",
-      "link": "https://www.vogue.com/article/dermarollers-for-hair-growth",
-      "summary": "By creating tiny scalp punctures, a dermaroller for hair growth stimulates collagen production and enhances absorption of topical hair serums and treatments.",
-      "published": "Thu, 09 Apr 2026 16:45:36 +000",
+      "title": "Taylor Swift Takes Carolyn Bessette-Kennedy-Core for a Test Drive",
+      "link": "https://www.vogue.com/article/taylor-swift-carolyn-bessette-kennedy-style-new-york",
+      "summary": "Have Taylor Swift and Travis Kelce been hooked on “Love Story” like the rest of us? Out and about in New York, Swift’s latest looks seems to confirm, yes.",
+      "published": "Fri, 10 Apr 2026 16:01:00 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：The 3 Best Dermarollers for Hair Growth, According to the Pros。By creating tiny scalp punctures, a dermaroller for hair growth stimulates collagen production and enhances absorptio。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Taylor Swift Takes Carolyn Bessette-Kennedy-Core for a Test Drive。Have Taylor Swift and Travis Kelce been hooked on “Love Story” like the rest of us? Out and about in New York, Swi。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Sarah Pidgeon on the Unlikely Inspiration for Her Dewy Spring Eye Makeup",
-      "link": "https://www.vogue.com/article/beauty-secrets-sarah-pidgeon",
-      "summary": "The “Love Story” actor shares how her approach to beauty has changed since playing Carolyn Bessette-Kennedy.",
-      "published": "Thu, 09 Apr 2026 16:00:00 +000",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+      "published": "Fri, 10 Apr 2026 15:31:05 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Sarah Pidgeon on the Unlikely Inspiration for Her Dewy Spring Eye Makeup。The “Love Story” actor shares how her approach to beauty has changed since playing Carolyn Bessette-Kennedy。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：The Vogue Business People Moves Tracker。Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "‘Euphoria’’s Ambitious Season 3 Bites Off a Little More Than It Can Chew",
-      "link": "https://www.vogue.com/article/euphoria-season-3-review",
-      "summary": "Did we need another installment of the HBO hit? The jury’s still out.",
-      "published": "Thu, 09 Apr 2026 16:00:00 +000",
+      "title": "For a Truly Remote Getaway, Book an Airbnb in the Azores",
+      "link": "https://www.vogue.com/article/best-airbnbs-azores",
+      "summary": "Craving a remote vacation? These Airbnbs in the Azores will help you experience the most of the archipelago’s wild natural landscape.",
+      "published": "Fri, 10 Apr 2026 15:25:43 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：‘Euphoria’’s Ambitious Season 3 Bites Off a Little More Than It Can Chew。Did we need another installment of the HBO hit? The jury’s still out.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：For a Truly Remote Getaway, Book an Airbnb in the Azores。Craving a remote vacation? These Airbnbs in the Azores will help you experience the most of the archipelago’s wild natural 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Meet the New Cast of ‘Bridgerton’ Season 5",
-      "link": "https://www.vogue.com/article/first-teaser-for-bridgerton-season-5",
-      "summary": "These eight new, glorious, scintillating, swoon-worthy episodes honestly can’t come soon enough.",
-      "published": "Thu, 09 Apr 2026 16:00:00 +000",
+      "title": "15 Best Airbnbs in Porto, from Charming Studios to Light-Filled Villas",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-porto",
+      "summary": "Heading to Portugal? Stay in one of the best Airbnbs in Porto—between tiny studios and sprawling apartments, these 15 properties have something for everyone.",
+      "published": "Fri, 10 Apr 2026 14:29:20 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Meet the New Cast of ‘Bridgerton’ Season 5。These eight new, glorious, scintillating, swoon-worthy episodes honestly can’t come soon enough.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：15 Best Airbnbs in Porto, from Charming Studios to Light-Filled Villas。Heading to Portugal? Stay in one of the best Airbnbs in Porto—between tiny studios and sprawling apartments, 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Lee Mathews Fall 2026 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/lee-mathews",
-      "summary": "",
-      "published": "Fri, 10 Apr 2026 04:06:12 +000",
+      "title": "Laurie Metcalf Requests Your Attention",
+      "link": "https://www.vogue.com/article/laurie-metcalf-death-of-a-salesman-big-mistakes",
+      "summary": "On the eve of two major premieres—and just months after opening in Samuel D. Hunter’s “Little Bear Ridge Road” this same Broadway season—Metcalf spoke to Vogue about the joys of being miscast and what it takes for her to feel comfortable in front of a camera.",
+      "published": "Fri, 10 Apr 2026 13:20:13 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Lee Mathews Fall 2026 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Laurie Metcalf Requests Your Attention。On the eve of two major premieres—and just months after opening in Samuel D. Hunter’s “Little Bear Ridge Road” this same Broadway season—Metc。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Zendaya and Law Roach Tell Us All About Their New Womenswear Collection for On",
-      "link": "https://www.vogue.com/article/zendaya-and-law-roach-tell-us-all-about-their-new-womenswear-collection-for-on",
-      "summary": "“The idea is that anything is interchangeable—it’s just an endless combination of things that you can put together for yourself,” Zendaya says of the ethos behind her new womenswear capsule for On. “That’s sometimes what I need in my real life: easy pieces tha",
-      "published": "Thu, 09 Apr 2026 13:30:00 +000",
+      "title": "Lykke Li Is Ready to Rage",
+      "link": "https://www.vogue.com/article/lykke-li-the-afterparty-coachella-interview",
+      "summary": "“It’s almost like it came from this hallucinatory state, which motherhood does to you,” the Swedish singer-songwriter says of her sixth album, “The Afterparty,“ out next month.",
+      "published": "Fri, 10 Apr 2026 12:00:00 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Zendaya and Law Roach Tell Us All About Their New Womenswear Collection for On。“The idea is that anything is interchangeable—it’s just an endless combination of things that you can。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Lykke Li Is Ready to Rage。“It’s almost like it came from this hallucinatory state, which motherhood does to you,” the Swedish singer-songwriter says of her sixth album, “The Afterp。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Ahead of the 2026 Met Gala, Vogue Staffers Share Their Favorite Pieces of Clothing in Art",
-      "link": "https://www.vogue.com/article/clothing-in-art-2026-met-gala",
-      "summary": "From the sheer marigold dress in “Flaming June” to the gleaming robes of “The Kiss,” fashion in art is one of our favorite forms of window-shopping.",
-      "published": "Thu, 09 Apr 2026 10:00:00 +000",
+      "title": "Can Amomento Become Korea’s Next Big Fashion Export?",
+      "link": "https://www.vogue.com/article/can-amomento-become-koreas-next-big-fashion-export",
+      "summary": "By betting on a more timeless aesthetic that goes against Korea’s trend cycle, the Lee siblings have built a mini fashion empire that’s ripe for expansion.",
+      "published": "Fri, 10 Apr 2026 11:03:11 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Ahead of the 2026 Met Gala, Vogue Staffers Share Their Favorite Pieces of Clothing in Art。From the sheer marigold dress in “Flaming June” to the gleaming robes of “The Kiss,” fashi。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Can Amomento Become Korea’s Next Big Fashion Export?。By betting on a more timeless aesthetic that goes against Korea’s trend cycle, the Lee siblings have built a mini fashion empir。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "The Best Zara New Arrivals to Shop for Spring 2026 | Vogue",
-      "link": "https://www.vogue.com/article/best-zara-finds",
-      "summary": "Funnel-neck outerwear, slip skirts, and lace-trimmed shorts are a few of the best Zara new arrival finds we’re eyeing this week.",
-      "published": "Thu, 09 Apr 2026 10:00:00 +000",
+      "title": "How Salter House's Sandeep Salter Packs for Vacation",
+      "link": "https://www.vogue.com/article/packing-style-sandeep-salter",
+      "summary": "Take a peek inside Salter House founder Sandeep Salter’s travel bag—as well as the packing tips she swears by.",
+      "published": "Fri, 10 Apr 2026 10:00:00 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：The Best Zara New Arrivals to Shop for Spring 2026 | Vogue。Funnel-neck outerwear, slip skirts, and lace-trimmed shorts are a few of the best Zara new arrival finds we’re eyeing thi。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：How Salter House's Sandeep Salter Packs for Vacation。Take a peek inside Salter House founder Sandeep Salter’s travel bag—as well as the packing tips she swears by.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "‘I Hope the Joy Comes Across’: On Set (and on the Water) With the Cast of ‘The Other Bennet Sister’",
-      "link": "https://www.vogue.com/article/the-other-bennet-sister-behind-the-scenes",
-      "summary": "“The Other Bennet Sister”—exploring the perspective of the oft-overlooked “Pride and Prejudice” character Mary Bennet—premieres exclusively on BritBox in the US and Canada on May 6.",
-      "published": "Thu, 09 Apr 2026 10:00:00 +000",
+      "title": "The Scoop With Martha Mosse: On the Paul Smith’s Foundation’s Next Moves",
+      "link": "https://www.vogue.com/article/the-scoop-with-martha-mosse-on-the-paul-smiths-foundations-next-moves",
+      "summary": "This week’s guest is Paul Smith’s Foundation director, Martha Mosse. The foundation was set up in 2020 to help build business resilience for emerging creatives, including but not limited to fashion designers.",
+      "published": "Fri, 10 Apr 2026 09:46:12 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：‘I Hope the Joy Comes Across’: On Set (and on the Water) With the Cast of ‘The Other Bennet Sister’。“The Other Bennet Sister”—exploring the perspective of the oft-overlooked “Pride。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：The Scoop With Martha Mosse: On the Paul Smith’s Foundation’s Next Moves。This week’s guest is Paul Smith’s Foundation director, Martha Mosse. The foundation was set up in 2020 to h。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "28 Personalized Wedding Gifts They’ll Remember Forever",
-      "link": "https://www.vogue.com/slideshow/personalized-wedding-gift-ideas",
-      "summary": "From custom champagne ice buckets to sleek stationery, any newlyweds-to-be are sure to love these personalized wedding gift ideas.",
-      "published": "Thu, 09 Apr 2026 10:00:00 +000",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "published": "Fri, 10 Apr 2026 09:30:00 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：28 Personalized Wedding Gifts They’ll Remember Forever。From custom champagne ice buckets to sleek stationery, any newlyweds-to-be are sure to love these personalized wedding gift i。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：The Vogue Business Beauty Trend Tracker。Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Sustainable Fashion: How to Get Fashion to Change Its Ways",
-      "link": "https://www.vogue.com/article/how-to-get-fashion-to-change-its-ways",
-      "summary": "For an industry that prizes novelty and constant reinvention, fashion is notoriously rigid when it comes to sustainability. Here, seasoned activists and advocacy organizations share their theories of change.",
-      "published": "Thu, 09 Apr 2026 09:30:00 +000",
+      "title": "Stefano Gabbana Isn’t Leaving Dolce & Gabbana",
+      "link": "https://www.vogue.com/article/stefano-gabbana-isnt-leaving-dolce-and-gabbana",
+      "summary": "Gabbana’s resignations from his management positions within the group “have no impact whatsoever on the creative activities carried out by Stefano Gabbana,” the company said on Friday.",
+      "published": "Fri, 10 Apr 2026 09:00:26 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Sustainable Fashion: How to Get Fashion to Change Its Ways。For an industry that prizes novelty and constant reinvention, fashion is notoriously rigid when it comes to sustainabilit。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Stefano Gabbana Isn’t Leaving Dolce & Gabbana。Gabbana’s resignations from his management positions within the group “have no impact whatsoever on the creative activities carried ou。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Reformation Wanted to Become Climate Positive. Did It Work?",
-      "link": "https://www.vogue.com/article/reformation-wanted-to-become-climate-positive-did-it-work",
-      "summary": "Five years ago, Reformation set a bold goal to become climate positive by 2025. The results say a lot about the state of sustainability at scale.",
-      "published": "Thu, 09 Apr 2026 09:30:00 +000",
+      "title": "Keeping the PhotoVogue spirit alive! The PhotoVogue Monday Story",
+      "link": "https://www.vogue.com/article/keeping-the-spirit-alive-more-than-a-month-in-pictures-the-pvmonday-story",
+      "summary": "Join us in celebrating the pics of the day since June 2025 until today",
+      "published": "Fri, 10 Apr 2026 08:00:35 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Reformation Wanted to Become Climate Positive. Did It Work?。Five years ago, Reformation set a bold goal to become climate positive by 2025. The results say a lot about the state of。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Keeping the PhotoVogue spirit alive! The PhotoVogue Monday Story。Join us in celebrating the pics of the day since June 2025 until today。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Nicole Kidman Updates the Naked Dressing Trend How Only Nicole Kidman Can",
-      "link": "https://www.vogue.com/article/nicole-kidman-updates-naked-dressing-trend-schiaparelli",
-      "summary": "“Margot’s Got Money Troubles” star Nicole Kidman takes a turn in Schiaparelli, showing us how to twist up an overwrought trend and make it feel fresh.",
-      "published": "Thu, 09 Apr 2026 07:20:20 +000",
+      "title": "How Elle Fanning Gets Her Perfect Red Lip Right Every Time",
+      "link": "https://www.vogue.com/article/how-elle-fanning-gets-her-perfect-red-lip-every-time",
+      "summary": "Stepping out for the “Margo’s Got Money Troubles” premiere, Elle Fanning—who was also celebrating her 28th birthday—sported her signature, precise red lip. Here’s how she does it.",
+      "published": "Fri, 10 Apr 2026 06:59:24 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Nicole Kidman Updates the Naked Dressing Trend How Only Nicole Kidman Can。“Margot’s Got Money Troubles” star Nicole Kidman takes a turn in Schiaparelli, showing us how to twist up 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：How Elle Fanning Gets Her Perfect Red Lip Right Every Time。Stepping out for the “Margo’s Got Money Troubles” premiere, Elle Fanning—who was also celebrating her 28th birthday—sport。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "What Saks’s Bankruptcy Exit Plan Means For Brands",
-      "link": "https://www.vogue.com/article/what-sakss-bankruptcy-exit-plan-means-for-brands",
-      "summary": "Saks has filed its Chapter 11 exit plan. Here’s what brands should expect from the retailer ahead of summer.",
-      "published": "Thu, 09 Apr 2026 04:34:33 +000",
+      "title": "How Fara Homidi Is Building a Global Beauty Brand",
+      "link": "https://www.vogue.com/article/how-fara-homidi-is-building-a-global-beauty-brand",
+      "summary": "The beauty brand is entering Australia and New Zealand as part of its growth strategy and has secured a second round of funding from Sandbridge Capital.",
+      "published": "Fri, 10 Apr 2026 05:00:00 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：What Saks’s Bankruptcy Exit Plan Means For Brands。Saks has filed its Chapter 11 exit plan. Here’s what brands should expect from the retailer ahead of summer.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：How Fara Homidi Is Building a Global Beauty Brand。The beauty brand is entering Australia and New Zealand as part of its growth strategy and has secured a second round of funding fr。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "In LA, TV Shows Are Lifting Up Local Fashion Brands",
+      "link": "https://www.vogue.com/article/in-la-tv-shows-are-lifting-up-local-fashion-brands",
+      "summary": "Euphoria, I Love LA, and Nobody Wants This are tapping LA fashion brands and stores — to reflect the local market and to reap tax benefits.",
+      "published": "Fri, 10 Apr 2026 04:30:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：In LA, TV Shows Are Lifting Up Local Fashion Brands。Euphoria, I Love LA, and Nobody Wants This are tapping LA fashion brands and stores — to reflect the local market and to reap ta。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     }
   ]
 }
