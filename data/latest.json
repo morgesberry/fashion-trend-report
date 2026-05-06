@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-05",
-  "generated_at": "2026-05-05 04:17:06",
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06 04:34:17",
   "lead_text": "今日样本中趋势分布较为分散，建议关注高频词与高分报道的交叉区域。",
   "top_keywords": [],
   "items": [
@@ -18,6 +18,19 @@
       "manual_pick": true,
       "score": 10000,
       "cn_summary": "关注点：Miu Miu 2026春夏秀场中的复古运动风重构。聚焦廓形、材质与商业化潜力。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Dior, Versace, Bob Mackie, Oh My! Sabrina Carpenter Goes Old Hollywood Glam at the 2026 Met Gala",
+      "link": "https://www.vogue.com/article/sabrina-carpenter-old-hollywood-dior-2026-met-gala",
+      "summary": "Sabrina Carpenter loves to switch it up at the Met Gala. This year she channeled vintage starlet, making not one but two outfit changes during the evening.",
+      "published": "Tue, 05 May 2026 18:56:31 +000",
+      "source": "Vogue",
+      "tags": [
+        "品牌:Dior",
+        "品牌:Versace"
+      ],
+      "score": 2,
+      "cn_summary": "关注点：Dior, Versace, Bob Mackie, Oh My! Sabrina Carpenter Goes Old Hollywood Glam at the 2026 Met Gala。Sabrina Carpenter loves to switch it up at the Met Gala. This year she channeled vi。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
       "title": "Everyone Wants a Piece of ‘The Devil Wears Prada 2′",
@@ -59,112 +72,64 @@
       "cn_summary": "关注点：Prada Posts Modest Q1 Growth as Miu Miu Cools。Revenue advanced 3% as broader sector softness and geopolitical pressures weighed on performance.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Carey Mulligan Reached for a 1998 Prada Print at the 2026 Met Gala",
-      "link": "https://www.vogue.com/article/carey-mulligan-1998-prada-2026-met-gala",
-      "summary": "On Monday night, “Beef” star Carey Mulligan returned to the Met Gala for the first time since 2022, once again enlisting Miuccia Prada and Raf Simons to design the look.",
-      "published": "Tue, 05 May 2026 02:35:19 +000",
-      "source": "Vogue",
-      "tags": [
-        "品牌:Prada"
-      ],
-      "score": 1,
-      "cn_summary": "关注点：Carey Mulligan Reached for a 1998 Prada Print at the 2026 Met Gala。On Monday night, “Beef” star Carey Mulligan returned to the Met Gala for the first time since 2022, once again en。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Rosie Huntington-Whiteley’s 2026 Met Gala Look Was Inspired by a Scandalous Portrait",
-      "link": "https://www.vogue.com/article/rosie-huntington-whiteley-met-gala-2026",
-      "summary": "Working with Burberry’s chief creative officer Daniel Lee, Rosie Huntington Whiteley was keen to capture a “sense of quiet confidence and sensuality” at the 2026 Met Gala.",
-      "published": "Tue, 05 May 2026 02:31:34 +000",
-      "source": "Vogue",
-      "tags": [
-        "品牌:Burberry"
-      ],
-      "score": 1,
-      "cn_summary": "关注点：Rosie Huntington-Whiteley’s 2026 Met Gala Look Was Inspired by a Scandalous Portrait。Working with Burberry’s chief creative officer Daniel Lee, Rosie Huntington Whiteley was keen t。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Loli Bahia Went for Ultra-Sleek Saint Laurent Tailoring at the Met Gala 2026",
-      "link": "https://www.vogue.com/article/loli-bahia-met-gala-2026",
-      "summary": "French model and actress Loli Bahia cut a sharp figure on the 2026 Met Gala red carpet in menswear-inspired suiting by Anthony Vaccarello for Saint Laurent.",
-      "published": "Tue, 05 May 2026 02:19:38 +000",
+      "title": "All the Looks That Went From the Runway to the Red Carpet at the 2026 Met Gala",
+      "link": "https://www.vogue.com/article/see-all-the-looks-that-went-from-the-runway-to-the-red-carpet-at-the-2026-met-gala",
+      "summary": "From Emma Chamberlain in Mugler, to Connor Storrie in Saint Laurent, guests took catwalk fashions for a spin at the “Costume Art” exhibition opening.",
+      "published": "Tue, 05 May 2026 19:52:52 +000",
       "source": "Vogue",
       "tags": [
         "品牌:Saint Laurent"
       ],
       "score": 1,
-      "cn_summary": "关注点：Loli Bahia Went for Ultra-Sleek Saint Laurent Tailoring at the Met Gala 2026。French model and actress Loli Bahia cut a sharp figure on the 2026 Met Gala red carpet in menswear-insp。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：All the Looks That Went From the Runway to the Red Carpet at the 2026 Met Gala。From Emma Chamberlain in Mugler, to Connor Storrie in Saint Laurent, guests took catwalk fashions for。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Anok Yai Sent a Message at the Met Gala 2026 With Her Balenciaga “Black Madonna” Look",
-      "link": "https://www.vogue.com/article/anok-yai-2026-met-gala-black-madonna-beauty-balenciaga",
-      "summary": "When Anok Yai heard the Met Gala 2026 theme, her first thought was, “I have to be a statue.” The model wore Balenciaga to the event.",
-      "published": "Tue, 05 May 2026 02:05:45 +000",
+      "title": "“You’re in Your Body. You Can Do This”—Lena Dunham on Returning to the Met Gala After 7 Years",
+      "link": "https://www.vogue.com/article/lena-dunham-2026-met-gala",
+      "summary": "Seven years after her last Met Gala, Lena Dunham is returning on her own terms—and in custom Valentino by Alessandro Michele.",
+      "published": "Tue, 05 May 2026 17:02:11 +000",
       "source": "Vogue",
       "tags": [
-        "品牌:Balenciaga"
+        "品牌:Valentino"
       ],
       "score": 1,
-      "cn_summary": "关注点：Anok Yai Sent a Message at the Met Gala 2026 With Her Balenciaga “Black Madonna” Look。When Anok Yai heard the Met Gala 2026 theme, her first thought was, “I have to be a statue.” T。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：“You’re in Your Body. You Can Do This”—Lena Dunham on Returning to the Met Gala After 7 Years。Seven years after her last Met Gala, Lena Dunham is returning on her own terms—and in 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Blake Lively Chose Archival Versace—and a 13-Foot Train!—for Her 2026 Met Gala Return",
-      "link": "https://www.vogue.com/article/blake-lively-2026-met-gala-archival-atelier-versace",
-      "summary": "The star, who has not attended the Met since 2022, chose a pastel Versace number from spring 2006 that was inspired by 18th century Venetian Rococo paintings.",
-      "published": "Tue, 05 May 2026 02:00:05 +000",
+      "title": "It Took 761 Hours to Make Margot Robbie’s 2026 Met Gala Dress",
+      "link": "https://www.vogue.com/article/margot-robbie-2026-met-gala",
+      "summary": "Margot Robbie hasn’t attended the Met Gala since 2023, when she wore a chain-trimmed Chanel gown by Karl Lagerfeld. Now she’s back in Matthieu Blazy’s Chanel.",
+      "published": "Tue, 05 May 2026 16:53:03 +000",
       "source": "Vogue",
-      "tags": [
-        "品牌:Versace"
-      ],
-      "score": 1,
-      "cn_summary": "关注点：Blake Lively Chose Archival Versace—and a 13-Foot Train!—for Her 2026 Met Gala Return。The star, who has not attended the Met since 2022, chose a pastel Versace number from spring 2。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Alexa Chung’s Dior Met Gala 2026 Look Is Her Most Daring to Date",
-      "link": "https://www.vogue.com/article/alexa-chung-dior-met-gala-2026",
-      "summary": "Alexa Chung enlisted a stylist–Danielle Goldberg–for the first time ever at the Met Gala 2026: “It turns out everyone else was up to this!”",
-      "published": "Tue, 05 May 2026 01:46:38 +000",
-      "source": "Vogue",
-      "tags": [
-        "品牌:Dior"
-      ],
-      "score": 1,
-      "cn_summary": "关注点：Alexa Chung’s Dior Met Gala 2026 Look Is Her Most Daring to Date。Alexa Chung enlisted a stylist–Danielle Goldberg–for the first time ever at the Met Gala 2026: “It turns out everyo。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Romeo Beckham Just Made His 2026 Met Gala Debut in Kink-Inspired Burberry Tailoring",
-      "link": "https://www.vogue.com/article/romeo-beckham-met-gala-2026",
-      "summary": "Romeo Beckham is fast following in his parent’s footsteps, making his debut appearance at the 2026 Met Gala, courtesy of Burberry. Here, an exclusive look at his 2026 Met Gala look.",
-      "published": "Tue, 05 May 2026 01:37:19 +000",
-      "source": "Vogue",
-      "tags": [
-        "品牌:Burberry"
-      ],
-      "score": 1,
-      "cn_summary": "关注点：Romeo Beckham Just Made His 2026 Met Gala Debut in Kink-Inspired Burberry Tailoring。Romeo Beckham is fast following in his parent’s footsteps, making his debut appearance at the 20。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Blue Ivy Carter Keeps It Cool in Balenciaga for Her 2026 Met Gala Debut",
-      "link": "https://www.vogue.com/article/blue-ivy-carter-met-gala-2026",
-      "summary": "Tonight, Beyoncé is serving as one of the 2026 Met Gala co-chairs, so it was only natural that the superstar’s 14-year-old daughter Blue Ivy Carter also hit the carpet—making it a high-fashion family affair.",
-      "published": "Tue, 05 May 2026 00:52:23 +000",
-      "source": "Vogue",
-      "tags": [
-        "品牌:Balenciaga"
-      ],
-      "score": 1,
-      "cn_summary": "关注点：Blue Ivy Carter Keeps It Cool in Balenciaga for Her 2026 Met Gala Debut。Tonight, Beyoncé is serving as one of the 2026 Met Gala co-chairs, so it was only natural that the superstar。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Margot Robbie Goes Gilded in Gold Chanel for Met Gala 2026 Red Carpet",
-      "link": "https://wwd.com/pop-culture/celebrity-news/margot-robbie-met-gala-2026-chanel-dress-1238935642/",
-      "summary": "The 'Wuthering Heights' star serves as an ambassador to the French luxury fashion house.",
-      "published": "Tue, 05 May 2026 03:08:58 +000",
-      "source": "WWD",
       "tags": [
         "品牌:Chanel"
       ],
       "score": 1,
-      "cn_summary": "关注点：Margot Robbie Goes Gilded in Gold Chanel for Met Gala 2026 Red Carpet。The 'Wuthering Heights' star serves as an ambassador to the French luxury fashion house.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：It Took 761 Hours to Make Margot Robbie’s 2026 Met Gala Dress。Margot Robbie hasn’t attended the Met Gala since 2023, when she wore a chain-trimmed Chanel gown by Karl Lagerfeld. No。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Sombr Makes His Met Gala Debut in a Valentino Cape Requiring 500 Hours of Work",
+      "link": "https://www.vogue.com/article/sombr-2026-met-gala-red-carpet",
+      "summary": "The singer marked his first time attending the Met Gala this year in a sweeping tulle and chiffon cape. Get all the details behind his custom look.",
+      "published": "Tue, 05 May 2026 16:40:48 +000",
+      "source": "Vogue",
+      "tags": [
+        "品牌:Valentino"
+      ],
+      "score": 1,
+      "cn_summary": "关注点：Sombr Makes His Met Gala Debut in a Valentino Cape Requiring 500 Hours of Work。The singer marked his first time attending the Met Gala this year in a sweeping tulle and chiffon cap。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Katy Perry Takes Stella McCartney’s Crystal Mesh Pumps From the Met Gala to the After Party",
+      "link": "https://wwd.com/footwear-news/shoe-trends/katy-perry-stella-mccartney-crystal-pumps-met-after-party-1238943871/",
+      "summary": "The singer kept the spring 2026 slingbacks in rotation, pairing them with the exact pale pink runway mini from the designer at Saint Laurent’s late-night event.",
+      "published": "Tue, 05 May 2026 20:48:09 +000",
+      "source": "WWD",
+      "tags": [
+        "品牌:Saint Laurent"
+      ],
+      "score": 1,
+      "cn_summary": "关注点：Katy Perry Takes Stella McCartney’s Crystal Mesh Pumps From the Met Gala to the After Party。The singer kept the spring 2026 slingbacks in rotation, pairing them with the exact pale。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
       "title": "How Chanel Became the Hottest Brand in Fashion",
@@ -179,164 +144,194 @@
       "cn_summary": "关注点：How Chanel Became the Hottest Brand in Fashion。As the French couture giant cruised into Biarritz this week, surging interest in its revamp under designer Matthieu Blazy scored it t。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "The Best Met Gala Jewelry—A 550-Carat Tanzanite! Beyoncé’s Crown!",
-      "link": "https://www.vogue.com/article/best-met-gala-jewelry-2026",
-      "summary": "With a guest list that included Isha Ambani, Lauren Sanchez, and Anne Hathaway, the Met Gala red carpet was always going to glitter—but this year, the carat count tipped into something closer to spectacle.",
-      "published": "Tue, 05 May 2026 04:14:25 +000",
+      "title": "I Tried to Go to Every Single 2026 Met Gala After-Party",
+      "link": "https://www.vogue.com/article/i-tried-to-go-to-every-single-2026-met-gala-after-party",
+      "summary": "Vogue columnist Eileen Kelly hit the New York City streets on Monday night in search of the liveliest late-night action—and lived to tell the tale.",
+      "published": "Tue, 05 May 2026 22:08:52 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：The Best Met Gala Jewelry—A 550-Carat Tanzanite! Beyoncé’s Crown!。With a guest list that included Isha Ambani, Lauren Sanchez, and Anne Hathaway, the Met Gala red carpet was always。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：I Tried to Go to Every Single 2026 Met Gala After-Party。Vogue columnist Eileen Kelly hit the New York City streets on Monday night in search of the liveliest late-night action—and 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Julianne Moore Offered a Lesson in Mature, Sexy Dressing at the 2026 Met Gala",
-      "link": "https://www.vogue.com/article/julianne-moore-met-gala-2026",
-      "summary": "Julianne Moore attended the 2026 Met Gala with Tom Ford, asserting herself as the designer’s long-standing muse.",
-      "published": "Tue, 05 May 2026 04:09:01 +000",
+      "title": "Take an Exclusive Look at Photographer Francesc Planes’s Photos From Inside the Met Gala 2026",
+      "link": "https://www.vogue.com/slideshow/inside-the-met-gala-2026-francesc-planes",
+      "summary": "Aside from the rare, forbidden bathroom selfie, photos from inside the Met Gala are hard to come by—luckily, Vogue had a photographer on the scene, capturing all the candid moments you won’t see anywhere else.",
+      "published": "Tue, 05 May 2026 22:04:09 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Julianne Moore Offered a Lesson in Mature, Sexy Dressing at the 2026 Met Gala。Julianne Moore attended the 2026 Met Gala with Tom Ford, asserting herself as the designer’s long-stan。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Take an Exclusive Look at Photographer Francesc Planes’s Photos From Inside the Met Gala 2026。Aside from the rare, forbidden bathroom selfie, photos from inside the Met Gala are ha。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "2026 Met Gala: Behold! The Male Urge to Wear Leather? For Spring? Genuinely Groundbreaking",
-      "link": "https://www.vogue.com/slideshow/2026-met-gala-mens-leather-trend",
-      "summary": "On the 2026 Met Gala Red Carpet Men Wore Leather -- Like, A Lot of Leather",
-      "published": "Tue, 05 May 2026 03:50:26 +000",
+      "title": "Freaky Monday! The Most Uncanny Moments on the 2026 Met Gala Red Carpet",
+      "link": "https://www.vogue.com/slideshow/freaky-moments-2026-met-gala-red-carpet",
+      "summary": "From Gwendoline Christie’s mask to Jordan Roth’s 3D-printed friend, surreal accessories and strange bodily details animated the 2026 Met Gala’s red carpet.",
+      "published": "Tue, 05 May 2026 21:46:47 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：2026 Met Gala: Behold! The Male Urge to Wear Leather? For Spring? Genuinely Groundbreaking。On the 2026 Met Gala Red Carpet Men Wore Leather -- Like, A Lot of Leather。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Freaky Monday! The Most Uncanny Moments on the 2026 Met Gala Red Carpet。From Gwendoline Christie’s mask to Jordan Roth’s 3D-printed friend, surreal accessories and strange bodily d。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Don’t Get Too Handsy—The 2026 Met Gala Was All About the Hand",
-      "link": "https://www.vogue.com/slideshow/dont-get-too-handsy-the-2026-met-gala-was-all-about-the-hand",
-      "summary": "A certain part of the body was suddenly everywhere on the red carpet.",
-      "published": "Tue, 05 May 2026 03:48:00 +000",
+      "title": "Beauty Was Art, Too, at the 2026 Met Gala",
+      "link": "https://www.vogue.com/article/beauty-was-art-too-at-the-2026-met-gala",
+      "summary": "Experts from MAC Cosmetics and Glamsquad created artful beauty looks.",
+      "published": "Tue, 05 May 2026 21:30:00 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Don’t Get Too Handsy—The 2026 Met Gala Was All About the Hand。A certain part of the body was suddenly everywhere on the red carpet.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Beauty Was Art, Too, at the 2026 Met Gala。Experts from MAC Cosmetics and Glamsquad created artful beauty looks.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "13 Small Beauty Details You May Have Missed at the 2026 Met Gala",
-      "link": "https://www.vogue.com/slideshow/all-the-small-beauty-details-you-missed-at-the-2026-met-gala",
-      "summary": "From Ashley Graham’s metallic manicure to Angela Bassett’s shocking pink makeup look, here are all the small beauty details you may have missed on the 2026 Met Gala red carpet.",
-      "published": "Tue, 05 May 2026 03:14:23 +000",
+      "title": "Every Artwork Referenced on the 2026 Met Gala Red Carpet, Explained",
+      "link": "https://www.vogue.com/article/art-references-2026-met-gala-explained",
+      "summary": "On a night devoted to “Fashion Is Art,” these were the looks that didn’t just nod to art history—they cited it.",
+      "published": "Tue, 05 May 2026 21:00:02 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：13 Small Beauty Details You May Have Missed at the 2026 Met Gala。From Ashley Graham’s metallic manicure to Angela Bassett’s shocking pink makeup look, here are all the small beauty。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Every Artwork Referenced on the 2026 Met Gala Red Carpet, Explained。On a night devoted to “Fashion Is Art,” these were the looks that didn’t just nod to art history—they cited it.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "The Best Dressed Stars at the 2026 Met Gala: Beyoncé, Kylie Jenner, and More",
-      "link": "https://www.vogue.com/slideshow/best-dressed-stars-met-gala-2026",
-      "summary": "Unsurprisingly, the night’s best looks came from A-listers who closely considered the theme and dress code. See Vogue's 2026 Met Gala best dressed list here.",
-      "published": "Tue, 05 May 2026 03:08:46 +000",
+      "title": "Janelle Monáe and Odessa A’zion’s Met Gala After-Party Was All About the ‘Sun-Up’ Glow",
+      "link": "https://www.vogue.com/slideshow/janelle-monae-odessa-azion-public-hotel-met-gala-after-party-2026",
+      "summary": "At Public Hotel, Monáe and A’zion gathered their closest friends and celebrity pals for the aptly-titled After Glow fete.",
+      "published": "Tue, 05 May 2026 20:52:55 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：The Best Dressed Stars at the 2026 Met Gala: Beyoncé, Kylie Jenner, and More。Unsurprisingly, the night’s best looks came from A-listers who closely considered the theme and dress c。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Janelle Monáe and Odessa A’zion’s Met Gala After-Party Was All About the ‘Sun-Up’ Glow。At Public Hotel, Monáe and A’zion gathered their closest friends and celebrity pals for the a。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Everybody Had Extra-Long Hair at the 2026 Met Gala",
-      "link": "https://www.vogue.com/slideshow/exta-long-hair-met-gala-2026",
-      "summary": "Stars like Nicole Kidman and Charli xcx opted for extra-long tresses at the 2026 Met Gala.",
-      "published": "Tue, 05 May 2026 02:54:27 +000",
+      "title": "Breaking Down K-Beauty’s Slow Aging Philosophy",
+      "link": "https://www.vogue.com/article/korean-slow-aging-philosophy",
+      "summary": "Instead of preventing and erasing wrinkles, dark spots, and more, K-beauty’s slow aging philosophy is designed to keep skin balanced, luminous, and functioning well as one ages.",
+      "published": "Tue, 05 May 2026 20:01:42 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Everybody Had Extra-Long Hair at the 2026 Met Gala。Stars like Nicole Kidman and Charli xcx opted for extra-long tresses at the 2026 Met Gala.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Breaking Down K-Beauty’s Slow Aging Philosophy。Instead of preventing and erasing wrinkles, dark spots, and more, K-beauty’s slow aging philosophy is designed to keep skin balanced,。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Go Greek! The Stars Channeled Classical Sculptures at the 2026 Met Gala",
-      "link": "https://www.vogue.com/slideshow/classical-sculptures-2026-met-gala-trend",
-      "summary": "The 2026 Met Gala attendees proved that there was plenty of room to get creative with classical art, from Kendall Jenner to Chase Infiniti.",
-      "published": "Tue, 05 May 2026 02:53:59 +000",
+      "title": "Shop the Pandora Jewelry Odessa A’Zion and Dree Hemingway Wore to the Met Gala",
+      "link": "https://www.vogue.com/article/pandora-jewelry-met-gala-2026",
+      "summary": "Shop the affordable fine jewelry pieces that walked the Met Gala red carpet, worn by Odessa A’Zion and Dree Hemingway.",
+      "published": "Tue, 05 May 2026 20:00:08 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Go Greek! The Stars Channeled Classical Sculptures at the 2026 Met Gala。The 2026 Met Gala attendees proved that there was plenty of room to get creative with classical art, from Ke。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Shop the Pandora Jewelry Odessa A’Zion and Dree Hemingway Wore to the Met Gala。Shop the affordable fine jewelry pieces that walked the Met Gala red carpet, worn by Odessa A’Zion an。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "The 2026 Met Gala Was All About Naked Dressing",
-      "link": "https://www.vogue.com/slideshow/2026-met-gala-was-all-about-naked-dressing",
-      "summary": "Stars from Gigi Hadid to Kendall Jenner and Kate Moss put their own unique spins on naked dresses at the 2026 Met Gala.",
-      "published": "Tue, 05 May 2026 02:48:08 +000",
+      "title": "Behind the Scenes of Instagram’s Met Gala 2026 Class Photo—With Kylie Jenner, Alex Consani, Chase Infiniti, and More",
+      "link": "https://www.vogue.com/article/instagram-met-gala-2026-class-photo",
+      "summary": "Here’s what happened when some of the Met Gala’s starriest attendees—including Alysa Liu, Hudson Williams, and Lisa—gathered for Instagram’s annual class photo.",
+      "published": "Tue, 05 May 2026 19:57:56 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：The 2026 Met Gala Was All About Naked Dressing。Stars from Gigi Hadid to Kendall Jenner and Kate Moss put their own unique spins on naked dresses at the 2026 Met Gala.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Behind the Scenes of Instagram’s Met Gala 2026 Class Photo—With Kylie Jenner, Alex Consani, Chase Infiniti, and More。Here’s what happened when some of the Met Gala’s starriest atte。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Phil Oh Captures the Best Arrivals (and Exits) at the 2026 Met Gala",
-      "link": "https://www.vogue.com/slideshow/phil-oh-captures-the-best-arrivals-and-exits-at-the-2026-met-gala",
-      "summary": "See all the best arrival and exits at the 2026 Met Gala.",
-      "published": "Tue, 05 May 2026 02:21:05 +000",
+      "title": "Gigi Hadid’s Dress Was Built on Her Body—Two Days Before the 2026 Met Gala",
+      "link": "https://www.vogue.com/article/gigi-hadids-2026-met-gala-dress-was-built-on-her-body-two-days-ago",
+      "summary": "“I think the most special moments come when you have to rush it a little bit,” Gigi Hadid says of her 2026 Met Gala look.",
+      "published": "Tue, 05 May 2026 19:50:50 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Phil Oh Captures the Best Arrivals (and Exits) at the 2026 Met Gala。See all the best arrival and exits at the 2026 Met Gala.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Gigi Hadid’s Dress Was Built on Her Body—Two Days Before the 2026 Met Gala。“I think the most special moments come when you have to rush it a little bit,” Gigi Hadid says of her 202。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Adwoa Aboah’s Simone Rocha Look Embraced ‘the Intimacy of the Body’ at the 2026 Met Gala",
-      "link": "https://www.vogue.com/article/adwoa-aboah-simone-rocha-met-gala-2026",
-      "summary": "For her first Met Gala since giving birth to her daughter, the model, actor, and entrepreneur dazzled in a beaded white column gown embodying femininity at its most strong, delicate and subversive.",
-      "published": "Tue, 05 May 2026 02:18:00 +000",
+      "title": "Colorful Wedding Dresses Are the Most Joy-Sparking Bridal Trend",
+      "link": "https://www.vogue.com/article/colorful-wedding-dress-trend",
+      "summary": "With a big, white dress being the key marker of a bride, can you still feel like it’s your wedding day when you’re wearing something else? Vogue unpacks the colorful wedding dress trend.",
+      "published": "Tue, 05 May 2026 19:12:23 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Adwoa Aboah’s Simone Rocha Look Embraced ‘the Intimacy of the Body’ at the 2026 Met Gala。For her first Met Gala since giving birth to her daughter, the model, actor, and entreprene。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Colorful Wedding Dresses Are the Most Joy-Sparking Bridal Trend。With a big, white dress being the key marker of a bride, can you still feel like it’s your wedding day when you’re w。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Bodice, Bodice, Bodice! At the 2026 Met Gala, Molded Busts Ruled the Night",
-      "link": "https://www.vogue.com/slideshow/kardashian-jenner-sculpted-bodice-2026-met-gala",
-      "summary": "While some guests used trompe l'oeil to highlight the body, others, like the Kardashian-Jenners, went for the full sculpted look.",
-      "published": "Tue, 05 May 2026 02:08:17 +000",
+      "title": "The Story Behind Eileen Gu’s Bubble-Blowing Dress at the 2026 Met Gala",
+      "link": "https://www.vogue.com/article/eileen-gu-bubble-dress-2026-met-gala",
+      "summary": "Olympic skier Eileen Gu captivated the 2026 Met Gala red carpet with a diaphanous dress seemingly constructed from bubbles. Designer Iris van Herpen and artists A.A.Murakami break down the fantastical design.",
+      "published": "Tue, 05 May 2026 18:49:15 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Bodice, Bodice, Bodice! At the 2026 Met Gala, Molded Busts Ruled the Night。While some guests used trompe l'oeil to highlight the body, others, like the Kardashian-Jenners, went for。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：The Story Behind Eileen Gu’s Bubble-Blowing Dress at the 2026 Met Gala。Olympic skier Eileen Gu captivated the 2026 Met Gala red carpet with a diaphanous dress seemingly constructed。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Pops of Color Everywhere! The 2026 Met Gala Red Carpet Was Filled With Bold Hues",
-      "link": "https://www.vogue.com/slideshow/2026-met-gala-red-carpet-pops-of-color",
-      "summary": "From Hailey Bieber’s Yves Klein blue to Sarah Pidgeon’s chartreuse and Kim Kardashian’s tangerine, 2026 Met Gala attendees embraced their true colors.",
-      "published": "Tue, 05 May 2026 01:59:44 +000",
+      "title": "The Real VIPs at the 2026 Met Gala? The Train Handlers",
+      "link": "https://www.vogue.com/slideshow/the-real-vips-at-the-2026-met-gala-were-the-train-handlers",
+      "summary": "A moment for all the behind-the-scenes staff at the 2026 Met Gala.",
+      "published": "Tue, 05 May 2026 18:48:52 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Pops of Color Everywhere! The 2026 Met Gala Red Carpet Was Filled With Bold Hues。From Hailey Bieber’s Yves Klein blue to Sarah Pidgeon’s chartreuse and Kim Kardashian’s tangerine, 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：The Real VIPs at the 2026 Met Gala? The Train Handlers。A moment for all the behind-the-scenes staff at the 2026 Met Gala.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Chase Infiniti Channeled a Glammed-Up Venus de Milo at the 2026 Met Gala",
-      "link": "https://www.vogue.com/article/chase-infiniti-venus-de-milo-2026-met-gala",
-      "summary": "Infiniti’s Thom Browne dress was densely layered with embroidery and fringes to mimic brushstrokes.",
-      "published": "Tue, 05 May 2026 01:56:09 +000",
+      "title": "This Kate Moss and Teyana Taylor-Hosted Met Gala After-Party at The Box Went Until 7 A.M.",
+      "link": "https://www.vogue.com/slideshow/richie-akiva-the-box-kate-moss-teyana-taylor-met-gala-after-party",
+      "summary": "Among those who stayed up late for the raucous gathering were Moss’ daughter Lila, Shaboozey, Edward Enninful, Evan Ross, Fai Khadra, and Lisa from Blackpink.",
+      "published": "Tue, 05 May 2026 18:48:44 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Chase Infiniti Channeled a Glammed-Up Venus de Milo at the 2026 Met Gala。Infiniti’s Thom Browne dress was densely layered with embroidery and fringes to mimic brushstrokes.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：This Kate Moss and Teyana Taylor-Hosted Met Gala After-Party at The Box Went Until 7 A.M.。Among those who stayed up late for the raucous gathering were Moss’ daughter Lila, Shabooz。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "See Every Met Gala 2026 Red Carpet Look: Rihanna, A$AP Rocky (Live Updates)",
-      "link": "https://www.vogue.com/slideshow/met-gala-2026-red-carpet-celebrity-arrivals-live",
-      "summary": "See every Met Gala 2026 red carpet look as your favorite celebrities arrive at the Metropolitan Museum of Art for fashion’s biggest night.",
-      "published": "Tue, 05 May 2026 01:51:35 +000",
+      "title": "At GQ’s Met Gala After-Party, Chase Infiniti, Damson Idris, Lisa, and Paul Anthony Kelly Hosted an A+ Crowd",
+      "link": "https://www.vogue.com/slideshow/gq-magazine-met-gala-after-party-2026",
+      "summary": "Unfolding at The Twenty Two, the night brought out a smattering of recent (and likely future) GQ cover stars.",
+      "published": "Tue, 05 May 2026 18:42:54 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：See Every Met Gala 2026 Red Carpet Look: Rihanna, A$AP Rocky (Live Updates)。See every Met Gala 2026 red carpet look as your favorite celebrities arrive at the Metropolitan Museum o。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：At GQ’s Met Gala After-Party, Chase Infiniti, Damson Idris, Lisa, and Paul Anthony Kelly Hosted an A+ Crowd。Unfolding at The Twenty Two, the night brought out a smattering of recen。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Lila Moss Wore a “Mermaid” Gown Made From 3 Antique Dresses to the Met Gala 2026",
-      "link": "https://www.vogue.com/article/lila-moss-conner-ives-met-gala-2026",
-      "summary": "Lila Moss breaks down her Conner Ives Met Gala 2026 dress, from the inspiration to every vintage detail.",
-      "published": "Tue, 05 May 2026 01:25:42 +000",
+      "title": "Beyoncé Doubles the Fun With Two Sparkling Outfits at the 2026 Met Gala",
+      "link": "https://www.vogue.com/article/beyonce-2026-met-gala",
+      "summary": "Inside the high-drama outfits, glamorous headpieces, and Beyoncé’s 2026 Met Gala beauty as she heads into a new era.",
+      "published": "Tue, 05 May 2026 18:35:01 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Lila Moss Wore a “Mermaid” Gown Made From 3 Antique Dresses to the Met Gala 2026。Lila Moss breaks down her Conner Ives Met Gala 2026 dress, from the inspiration to every vintage de。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Beyoncé Doubles the Fun With Two Sparkling Outfits at the 2026 Met Gala。Inside the high-drama outfits, glamorous headpieces, and Beyoncé’s 2026 Met Gala beauty as she heads into a 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Investigating the Style Dichotomy of the 'Heated Rivalry' Heartthrobs",
+      "link": "https://www.vogue.com/article/hudson-williams-connor-storrie-heated-rivalry-met-gala-style",
+      "summary": "Connor Storrie and Hudson Williams are the new darlings of Hollywood (and the Met Gala). But they are both on wildly individual fashion journeys.",
+      "published": "Tue, 05 May 2026 18:25:19 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Investigating the Style Dichotomy of the 'Heated Rivalry' Heartthrobs。Connor Storrie and Hudson Williams are the new darlings of Hollywood (and the Met Gala). But they are both on 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Kendall Jenner Just Declared (Winged) Victory on the 2026 Met Gala Carpet",
+      "link": "https://www.vogue.com/article/kendall-jenner-2026-met-gala",
+      "summary": "On the occasion of her 12th Met Gala, Kendall Jenner turned to Zac Posen to fashion her a GapStudio look inspired by ‘Winged Victory of Samothrace.’",
+      "published": "Tue, 05 May 2026 18:21:27 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Kendall Jenner Just Declared (Winged) Victory on the 2026 Met Gala Carpet。On the occasion of her 12th Met Gala, Kendall Jenner turned to Zac Posen to fashion her a GapStudio look i。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "A Prodigal Son Returns: Willy Chavarria’s Hometown Names a Day in His Honor",
+      "link": "https://www.vogue.com/article/willy-chavarria-huron-day",
+      "summary": "The city of Huron, California, has named May 3 Willy Chavarria Day to honor his contributions to fashion, art, and culture more broadly.",
+      "published": "Tue, 05 May 2026 18:21:06 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：A Prodigal Son Returns: Willy Chavarria’s Hometown Names a Day in His Honor。The city of Huron, California, has named May 3 Willy Chavarria Day to honor his contributions to fashion。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     }
   ]
 }
