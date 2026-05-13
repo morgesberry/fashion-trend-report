@@ -1,8 +1,13 @@
 {
-  "date": "2026-05-12",
-  "generated_at": "2026-05-12 04:36:10",
-  "lead_text": "今日样本中趋势分布较为分散，建议关注高频词与高分报道的交叉区域。",
-  "top_keywords": [],
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13 04:46:56",
+  "lead_text": "从今日样本看，Y2K热度靠前；建议优先跟踪相关品牌动作、秀场叙事与商业转化信号。",
+  "top_keywords": [
+    [
+      "Y2K",
+      1
+    ]
+  ],
   "items": [
     {
       "title": "Miu Miu 2026春夏秀场中的复古运动风重构",
@@ -20,6 +25,19 @@
       "cn_summary": "关注点：Miu Miu 2026春夏秀场中的复古运动风重构。聚焦廓形、材质与商业化潜力。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
+      "title": "Roxy and Juicy Couture Come Together for Y2K-inspired Collection",
+      "link": "https://wwd.com/fashion-news/sportswear/roxy-juicy-couture-swimwear-collection-1238945242/",
+      "summary": "Bikinis, rash guards, bucket hats, tracksuit and board shorts are among the offerings.",
+      "published": "Tue, 12 May 2026 22:01:00 +000",
+      "source": "WWD",
+      "tags": [
+        "趋势:Y2K",
+        "风格:Y2K"
+      ],
+      "score": 4,
+      "cn_summary": "关注点：Roxy and Juicy Couture Come Together for Y2K-inspired Collection。Bikinis, rash guards, bucket hats, tracksuit and board shorts are among the offerings.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
       "title": "Gucci, Dior, Burberry: A Tale of Three Turnarounds",
       "link": "https://www.businessoffashion.com/briefings/luxury/gucci-dior-burberry-a-tale-of-three-turnarounds/",
       "summary": "Cruise shows and earnings this week offer a read on how creative resets are translating — or not — into cultural and commercial traction.",
@@ -34,292 +52,281 @@
       "cn_summary": "关注点：Gucci, Dior, Burberry: A Tale of Three Turnarounds。Cruise shows and earnings this week offer a read on how creative resets are translating — or not — into cultural and commercial t。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "EXCLUSIVE: Burberry Heads to the French Riviera With Summer Takeover at Hôtel Belles Rives",
-      "link": "https://wwd.com/fashion-news/fashion-scoops/burberry-summer-takeover-hotel-belles-rives-1238945692/",
-      "summary": "The British brand is dressing the historic Cap d’Antibes hotel in a blue Burberry check, from the beach club to the Michelin-starred terraces.",
-      "published": "Tue, 12 May 2026 04:01:00 +000",
-      "source": "WWD",
-      "tags": [
-        "品牌:Burberry"
-      ],
-      "score": 1,
-      "cn_summary": "关注点：EXCLUSIVE: Burberry Heads to the French Riviera With Summer Takeover at Hôtel Belles Rives。The British brand is dressing the historic Cap d’Antibes hotel in a blue Burberry check, 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Why Wall Street Prefers Coach to Gucci",
-      "link": "https://www.businessoffashion.com/articles/luxury/why-wall-street-prefers-coach-to-gucci/",
-      "summary": "The stock market now values Coach parent Tapestry almost as highly as Gucci owner Kering. The closing gap reflects a shifting fashion market as well as the state of their respective turnarounds.",
-      "published": "Fri, 08 May 2026 04:28:00 +000",
+      "title": "Fewer, Bigger, Better: How Luxury Brands Are Optimising Their Stores",
+      "link": "https://www.businessoffashion.com/articles/luxury/luxury-brands-store-optimisation/",
+      "summary": "Labels from Dior to Gucci are rethinking their retail networks with a focus on fewer, higher-impact stores in ‘alpha’ cities as they seek better returns amid a prolonged industry downturn.",
+      "published": "Wed, 13 May 2026 04:29:00 +000",
       "source": "The Business of Fashion",
       "tags": [
+        "品牌:Dior",
         "品牌:Gucci"
       ],
-      "score": 1,
-      "cn_summary": "关注点：Why Wall Street Prefers Coach to Gucci。The stock market now values Coach parent Tapestry almost as highly as Gucci owner Kering. The closing gap reflects a shifting fashion market 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "score": 2,
+      "cn_summary": "关注点：Fewer, Bigger, Better: How Luxury Brands Are Optimising Their Stores。Labels from Dior to Gucci are rethinking their retail networks with a focus on fewer, higher-impact stores in ‘。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "How Chanel Became the Hottest Brand in Fashion",
-      "link": "https://www.businessoffashion.com/briefings/luxury/how-chanel-became-the-hottest-brand-in-fashion/",
-      "summary": "As the French couture giant cruised into Biarritz this week, surging interest in its revamp under designer Matthieu Blazy scored it the top spot on the Lyst Index. But could Blazymania go too far?",
-      "published": "Fri, 01 May 2026 19:00:18 +000",
-      "source": "The Business of Fashion",
+      "title": "The Loewe Craft Prize Lands in Singapore",
+      "link": "https://www.vogue.com/article/loewe-prize-winner-2026-jongjin-park",
+      "summary": "The foundation’s top prize went to South Korean ceramicist Jongjin Park, who wins €50,000.",
+      "published": "Tue, 12 May 2026 16:57:23 +000",
+      "source": "Vogue",
       "tags": [
-        "品牌:Chanel"
+        "品牌:Loewe"
       ],
       "score": 1,
-      "cn_summary": "关注点：How Chanel Became the Hottest Brand in Fashion。As the French couture giant cruised into Biarritz this week, surging interest in its revamp under designer Matthieu Blazy scored it t。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：The Loewe Craft Prize Lands in Singapore。The foundation’s top prize went to South Korean ceramicist Jongjin Park, who wins €50,000.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Industry Leaders Gather in London for Exclusive AI Insights from The Business of Fashion",
-      "link": "https://www.businessoffashion.com/articles/technology/london-industry-leaders-ai-insights-briefing/",
-      "summary": "Senior leaders from Bottega Veneta, Harrods, Bvlgari, Selfridges, Manolo Blahnik and Tiffany & Co., among others, attended an intimate aperitivo evening at The Roof Gardens in London to explore the integration of artificial intelligence across the fashion and ",
-      "published": "Thu, 07 May 2026 09:43:48 +000",
-      "source": "The Business of Fashion",
+      "title": "On the Podcast: Loewe’s Jack McCollough and Lazaro Hernandez on Moving to Paris, Their First Menswear Collection, and the Loewe Craft Prize",
+      "link": "https://www.vogue.com/article/podcast-loewe-jack-mccollough-lazaro-hernandez",
+      "summary": "Loewe's Jack McCollough and Lazaro Hernandez on The Run Through podcast talking about craft, their first menswear collection, and life in Paris.",
+      "published": "Tue, 12 May 2026 15:14:58 +000",
+      "source": "Vogue",
       "tags": [
-        "品牌:Bottega Veneta"
+        "品牌:Loewe"
       ],
       "score": 1,
-      "cn_summary": "关注点：Industry Leaders Gather in London for Exclusive AI Insights from The Business of Fashion。Senior leaders from Bottega Veneta, Harrods, Bvlgari, Selfridges, Manolo Blahnik and Tiffan。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：On the Podcast: Loewe’s Jack McCollough and Lazaro Hernandez on Moving to Paris, Their First Menswear Collection, and the Loewe Craft Prize。Loewe's Jack McCollough and Lazaro Herna。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "“Existence Is Resistance”: 5 Key Takeaways From Mercedes-Benz Fashion Week Tbilisi",
-      "link": "https://www.vogue.com/article/existence-is-resistance-5-key-takeaways-from-mercedes-benz-fashion-week-tbilisi",
-      "summary": "Mercedes-Benz Fashion Week Tbilisi returned after a three-year hiatus. But the fashion landscape looks very different.",
-      "published": "Tue, 12 May 2026 04:30:00 +000",
+      "title": "Sunflower Seeds: This Classic Snack Is a Protein Superfood",
+      "link": "https://www.vogue.com/article/sunflower-seeds",
+      "summary": "Snack time is on! Sunflower seeds have more protein than two eggs per serving, along with a lot of other health benefits.",
+      "published": "Wed, 13 May 2026 01:08:40 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：“Existence Is Resistance”: 5 Key Takeaways From Mercedes-Benz Fashion Week Tbilisi。Mercedes-Benz Fashion Week Tbilisi returned after a three-year hiatus. But the fashion landscape 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Sunflower Seeds: This Classic Snack Is a Protein Superfood。Snack time is on! Sunflower seeds have more protein than two eggs per serving, along with a lot of other health benefits.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Do Plumping Creams Really Work? Dermatologists Weigh In",
-      "link": "https://www.vogue.com/article/plumping-moisturizers",
-      "summary": "Plumping moisturizers use hyaluronic acid, peptides, and more to deeply hydrate for gives you an immediate plumping effect. Shop our favorite options by Tatcha, Neutrogena, and more.",
-      "published": "Tue, 12 May 2026 01:37:50 +000",
+      "title": "Take a Look Inside Some of the Dreamiest Homes in the Hamptons",
+      "link": "https://www.vogue.com/slideshow/take-a-look-inside-some-of-the-dreamiest-homes-in-the-hamptons",
+      "summary": "From modern beach houses to Italianate mansions, take a look at exclusive photographs of Hamptons houses from a new book by Jennifer Ash Rudick.",
+      "published": "Tue, 12 May 2026 22:20:10 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Do Plumping Creams Really Work? Dermatologists Weigh In。Plumping moisturizers use hyaluronic acid, peptides, and more to deeply hydrate for gives you an immediate plumping effect. 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Take a Look Inside Some of the Dreamiest Homes in the Hamptons。From modern beach houses to Italianate mansions, take a look at exclusive photographs of Hamptons houses from a new b。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "At The Public Theater, a ‘Girl, Interrupted’ for a New Generation",
-      "link": "https://www.vogue.com/article/girl-interrupted-preview-public-theater",
-      "summary": "“Girl, Interrupted” starring Juliana Canfield, King Princess, and a host of other young performers begins previews on May 13. Its opening night is set for June 4.",
-      "published": "Tue, 12 May 2026 00:51:00 +000",
+      "title": "The Bride Wore Her Own Design to Her Barefoot Beach Wedding in Antigua",
+      "link": "https://www.vogue.com/slideshow/alistair-smallwood-and-liv-rosewood-wedding",
+      "summary": "Model and designer Liv Rosewood created a crochet gown and a vintage-inspired Juliet veil for her laid-back wedding to Alistair Smallwood in the Caribbean.",
+      "published": "Tue, 12 May 2026 21:38:37 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：At The Public Theater, a ‘Girl, Interrupted’ for a New Generation。“Girl, Interrupted” starring Juliana Canfield, King Princess, and a host of other young performers begins previews。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：The Bride Wore Her Own Design to Her Barefoot Beach Wedding in Antigua。Model and designer Liv Rosewood created a crochet gown and a vintage-inspired Juliet veil for her laid-back w。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "The 16 Best Airbnbs for Solo Travel Around the World",
-      "link": "https://www.vogue.com/article/best-airbnbs-for-solo-travel",
-      "summary": "The best Airbnbs for solo travel span everything from fresco-filled apartments in Lisbon to treetop stays in Costa Rica.",
-      "published": "Tue, 12 May 2026 00:30:26 +000",
+      "title": "Sachin & Babi Pre-Fall 2026",
+      "link": "https://www.vogue.com/fashion-shows/pre-fall-2026/sachin-babi",
+      "summary": "",
+      "published": "Wed, 13 May 2026 04:42:01 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：The 16 Best Airbnbs for Solo Travel Around the World。The best Airbnbs for solo travel span everything from fresco-filled apartments in Lisbon to treetop stays in Costa Rica.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Sachin & Babi Pre-Fall 2026。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Golden Goose Unveiled The Forest For The Trees by Playlab Inc. with a Whimsical Dinner Party in Venice",
-      "link": "https://www.vogue.com/slideshow/golden-goose-the-forest-for-the-trees",
-      "summary": "The Forest For The Trees installation was commissioned by Golden Goose for this year's Venice Biennale. On Friday evening, the Italian brand hosted a dinner to celebrate—and true to form, it was magical, fun, and more than a little bit madcap.",
-      "published": "Mon, 11 May 2026 21:32:45 +000",
+      "title": "Does the Bridal Industry Have a Size Inclusivity Problem?",
+      "link": "https://www.vogue.com/article/does-the-bridal-industry-have-a-size-inclusivity-problem",
+      "summary": "The short answer: yes. We dig into the difficult size limitations that brides face when shopping for their wedding dress.",
+      "published": "Tue, 12 May 2026 19:19:46 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Golden Goose Unveiled The Forest For The Trees by Playlab Inc. with a Whimsical Dinner Party in Venice。The Forest For The Trees installation was commissioned by Golden Goose for th。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Does the Bridal Industry Have a Size Inclusivity Problem?。The short answer: yes. We dig into the difficult size limitations that brides face when shopping for their wedding dress.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "The French Highlight Is Summer’s Effortless Color Trend",
-      "link": "https://www.vogue.com/article/the-french-highlight",
-      "summary": "The technique is a low-maintenance take on balayage.",
-      "published": "Mon, 11 May 2026 21:30:00 +000",
+      "title": "Ten-Hut! Margot Robbie’s New Look Has Our Attention",
+      "link": "https://www.vogue.com/article/margot-robbie-napoleon-jacket-trend",
+      "summary": "While the look is largely associated with Kate Moss (and Napoleon), it’s picking up steam on the runway and among celebrities.",
+      "published": "Tue, 12 May 2026 19:16:34 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：The French Highlight Is Summer’s Effortless Color Trend。The technique is a low-maintenance take on balayage.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Ten-Hut! Margot Robbie’s New Look Has Our Attention。While the look is largely associated with Kate Moss (and Napoleon), it’s picking up steam on the runway and among celebrities.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "9 Hairstyles That Celebrate Naturally Curly Hair Over 50",
-      "link": "https://www.vogue.com/slideshow/hairstyles-for-naturally-curly-hair-over-50",
-      "summary": "What's the best way to show off your natural curls? Celebrity hairstylists Clayton Hawkins and Naeemah LaFond break down the 9 best hairstyles for natural curly hair over 50.",
-      "published": "Mon, 11 May 2026 21:15:00 +000",
+      "title": "All the Fashions From the 2026 Cannes Film Festival Red Carpet",
+      "link": "https://www.vogue.com/slideshow/2026-cannes-film-festival-red-carpet-fashion",
+      "summary": "The 79th annual Cannes Film Festival has arrived! See all of the red carpet fashion highlights here.",
+      "published": "Tue, 12 May 2026 18:56:01 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：9 Hairstyles That Celebrate Naturally Curly Hair Over 50。What's the best way to show off your natural curls? Celebrity hairstylists Clayton Hawkins and Naeemah LaFond break down th。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：All the Fashions From the 2026 Cannes Film Festival Red Carpet。The 79th annual Cannes Film Festival has arrived! See all of the red carpet fashion highlights here.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "It’s All Greek to Us! After a Met Gala Debut, Di Petsa Celebrated at Selene in SoHo",
-      "link": "https://www.vogue.com/slideshow/di-petsa-selene-soho-dinner",
-      "summary": "Days after the Met Gala, Di Petsa was adamant that the celebrations should continue—in true Greek fashion. As such, the London-based label teamed up with Selene, a soon-to-open eatery in SoHo, to host a colossal Friday night feast.",
-      "published": "Mon, 11 May 2026 21:03:43 +000",
+      "title": "Marcel Duchamp and His Women",
+      "link": "https://www.vogue.com/article/marcel-duchamp-and-his-women",
+      "summary": "Art historians have often viewed the stylistic transformations in Picasso’s oeuvre as evolving in tandem with his significant amorous encounters. Was the same true for Duchamp?",
+      "published": "Tue, 12 May 2026 18:44:09 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：It’s All Greek to Us! After a Met Gala Debut, Di Petsa Celebrated at Selene in SoHo。Days after the Met Gala, Di Petsa was adamant that the celebrations should continue—in true Gree。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Marcel Duchamp and His Women。Art historians have often viewed the stylistic transformations in Picasso’s oeuvre as evolving in tandem with his significant amorous encounters. Was t。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "How to Style Ballet Flats—7 Unexpectedly Chic Outfits to Try This Summer",
-      "link": "https://www.vogue.com/article/how-to-style-ballet-flats",
-      "summary": "From woven ballerinas to embroidered mesh styles, here are seven outfits for how to style ballet flats—plus our favorite pairs to shop.",
-      "published": "Mon, 11 May 2026 20:59:40 +000",
+      "title": "Rag & Bone Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/rag-bone",
+      "summary": "",
+      "published": "Wed, 13 May 2026 04:42:01 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：How to Style Ballet Flats—7 Unexpectedly Chic Outfits to Try This Summer。From woven ballerinas to embroidered mesh styles, here are seven outfits for how to style ballet flats—plus。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Rag & Bone Resort 2027。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Ayo Edebiri Dresses Down a Fancy Skirt With a Finance Bro Staple",
-      "link": "https://www.vogue.com/article/ayo-edebiri-fancy-skirt-quarter-zip",
-      "summary": "Next time you’re yearning to wear your most fabulous skirt, consider Ayo Edebiri’s trick and pull out your trusty quarter-zip—or your private equity boyfriend’s.",
-      "published": "Mon, 11 May 2026 20:31:08 +000",
+      "title": "Simon Miller Pre-Fall 2026",
+      "link": "https://www.vogue.com/fashion-shows/pre-fall-2026/simon-miller",
+      "summary": "",
+      "published": "Wed, 13 May 2026 04:42:01 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Ayo Edebiri Dresses Down a Fancy Skirt With a Finance Bro Staple。Next time you’re yearning to wear your most fabulous skirt, consider Ayo Edebiri’s trick and pull out your trusty q。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Simon Miller Pre-Fall 2026。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Amal Clooney Goes for (Archival) Gold at the King’s Trust",
-      "link": "https://www.vogue.com/article/amal-clooney-archival-fashion-kings-trust",
-      "summary": "While Amal Clooney embraced a “Pucci Girl Summer” earlier this week, tonight she did a sartorial 180 in a gold sequined Alexander McQueen gown.",
-      "published": "Mon, 11 May 2026 20:16:38 +000",
+      "title": "Sienna Miller Is Now A Mom Of Three",
+      "link": "https://www.vogue.com/article/sienna-miller-is-now-a-mom-of-three",
+      "summary": "After revealing her pregnancy in true boho style last year, the actress recently welcomed her third child.",
+      "published": "Tue, 12 May 2026 16:38:42 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Amal Clooney Goes for (Archival) Gold at the King’s Trust。While Amal Clooney embraced a “Pucci Girl Summer” earlier this week, tonight she did a sartorial 180 in a gold sequined Al。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Sienna Miller Is Now A Mom Of Three。After revealing her pregnancy in true boho style last year, the actress recently welcomed her third child.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "At The Ali Forney Center’s Spring Gala, a Night Full of Sequins and Joy",
-      "link": "https://www.vogue.com/slideshow/ali-forney-center-spring-gala-2026",
-      "summary": "Chappell Roan, Liev and Taylor Schreiber, and Gia Love were honored at the empowering evening which raised over $3 million to champion LGBTQIA+ causes.",
-      "published": "Mon, 11 May 2026 20:06:02 +000",
+      "title": "A Look Back at the 2006 Cannes Film Festival—and the Evolving Red Carpet",
+      "link": "https://www.vogue.com/slideshow/2006-cannes-film-festival-red-carpet-throwback",
+      "summary": "Beyoncé at the beach! Avril Lavigne in pop-punk couture! 20 years ago, the Cannes carpet looked different to today’s high-fashion spectacle.",
+      "published": "Tue, 12 May 2026 16:33:07 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：At The Ali Forney Center’s Spring Gala, a Night Full of Sequins and Joy。Chappell Roan, Liev and Taylor Schreiber, and Gia Love were honored at the empowering evening which raised o。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：A Look Back at the 2006 Cannes Film Festival—and the Evolving Red Carpet。Beyoncé at the beach! Avril Lavigne in pop-punk couture! 20 years ago, the Cannes carpet looked different t。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "10 White Dress Outfits to Master Summer-in-the-City Dressing for 2026",
-      "link": "https://www.vogue.com/article/white-dress-outfits",
-      "summary": "The best white dress outfits for summer 2026 start with Staud, Dôen, and the season’s chicest accessories.",
-      "published": "Mon, 11 May 2026 19:49:31 +000",
+      "title": "Kith Pre-Fall 2026 Menswear",
+      "link": "https://www.vogue.com/fashion-shows/pre-fall-2026-menswear/kith",
+      "summary": "",
+      "published": "Wed, 13 May 2026 04:42:01 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：10 White Dress Outfits to Master Summer-in-the-City Dressing for 2026。The best white dress outfits for summer 2026 start with Staud, Dôen, and the season’s chicest accessories.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Kith Pre-Fall 2026 Menswear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Ellie Bamber on Her Super Transformation for ‘Moss & Freud’",
+      "link": "https://www.vogue.com/article/ellie-bamber-moss-and-freud-interview",
+      "summary": "The 29-year-old actor talks learning to talk, walk, and pose like Kate Moss for James Lucas’s affecting directorial debut.",
+      "published": "Tue, 12 May 2026 16:30:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Ellie Bamber on Her Super Transformation for ‘Moss & Freud’。The 29-year-old actor talks learning to talk, walk, and pose like Kate Moss for James Lucas’s affecting directorial debu。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Raglan Tee Is Having a Moment—Shop the Chicest Ones",
+      "link": "https://www.vogue.com/article/best-raglan-tees",
+      "summary": "The raglan tee is a nostalgic favorite that’s become the cornerstone of one Vogue writer’s wardrobe. Shop her favorite ones, from Cou Cou to Leset.",
+      "published": "Tue, 12 May 2026 16:27:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Raglan Tee Is Having a Moment—Shop the Chicest Ones。The raglan tee is a nostalgic favorite that’s become the cornerstone of one Vogue writer’s wardrobe. Shop her favorite ones,。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
       "title": "The Best of Sydney Street Style: Architectural Silhouettes and a Master Class in Layering from Down Under",
       "link": "https://www.vogue.com/slideshow/sydney-fashion-week-street-style-layering-up-while-down-under",
       "summary": "Rachel Yabsley photographs the best-dressed guests at the Resort 2027 shows in Sydney, where we saw layering, creamy neutrals, and fuzzy textures.",
-      "published": "Mon, 11 May 2026 17:34:36 +000",
+      "published": "Tue, 12 May 2026 16:18:39 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
       "cn_summary": "关注点：The Best of Sydney Street Style: Architectural Silhouettes and a Master Class in Layering from Down Under。Rachel Yabsley photographs the best-dressed guests at the Resort 2027 show。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "In Santa Fe, a Native Fashion Showcase Celebrated Handcraft",
-      "link": "https://www.vogue.com/article/santa-fe-native-fashion-showcase-2026",
-      "summary": "Indigenous designers and jewelers gathered in Santa Fe this weekend to display new works combining traditional craftwork with contemporary twists.",
-      "published": "Mon, 11 May 2026 17:05:45 +000",
+      "title": "Rosie Huntington-Whiteley’s Just-Launched Brand Mémoire Is All About the Art of the Keepsake",
+      "link": "https://www.vogue.com/article/rosie-huntington-whiteley-memoire",
+      "summary": "Rosie Huntington-Whiteley just launched Mémoire, a home decor brand that's all about keepsakes. Read our interview with the model and founder here.",
+      "published": "Tue, 12 May 2026 15:47:02 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：In Santa Fe, a Native Fashion Showcase Celebrated Handcraft。Indigenous designers and jewelers gathered in Santa Fe this weekend to display new works combining traditional craftwork。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Rosie Huntington-Whiteley’s Just-Launched Brand Mémoire Is All About the Art of the Keepsake。Rosie Huntington-Whiteley just launched Mémoire, a home decor brand that's all about ke。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Euphoria’s Chloe Cherry Isn’t Into Makeup Brushes",
-      "link": "https://www.vogue.com/article/beauty-secrets-chloe-cherry",
-      "summary": "The actor on big lips, long lashes, and breaking beauty rules.",
-      "published": "Mon, 11 May 2026 16:00:00 +000",
+      "title": "At the Global Fashion Summit, It Was All About Resilience",
+      "link": "https://www.vogue.com/article/at-the-global-fashion-summit-it-was-all-about-resilience",
+      "summary": "The annual conference in Copenhagen is a microcosm of the industry, offering rare insight into the mood, movements, and madness surrounding sustainable fashion.",
+      "published": "Tue, 12 May 2026 15:29:55 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Euphoria’s Chloe Cherry Isn’t Into Makeup Brushes。The actor on big lips, long lashes, and breaking beauty rules.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：At the Global Fashion Summit, It Was All About Resilience。The annual conference in Copenhagen is a microcosm of the industry, offering rare insight into the mood, movements, and ma。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Marisa Abela’s 2026 BAFTAs Look Has Us Green With Envy",
-      "link": "https://www.vogue.com/article/marisa-abela-2026-baftas-emerald-necklace",
-      "summary": "While Marisa Abela was well within best-dressed territory as is, the gargantuan emerald nestled in her clavicle took the look from sleek to spotlight-stealing.",
-      "published": "Mon, 11 May 2026 15:32:41 +000",
+      "title": "Take It From Taylor Swift: Pop Stars Love a Babydoll Dress",
+      "link": "https://www.vogue.com/article/taylor-swift-babydoll-dress-olivia-rodrigo-sabrina-carpenter",
+      "summary": "Between Olivia Rodrigo’s riot grrrl influences, Sabrina Carpenter’s 1960s throwbacks, and now Taylor Swift’s glitzier take, the babydoll dress is alive and well amongst the pop star set.",
+      "published": "Tue, 12 May 2026 15:25:36 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Marisa Abela’s 2026 BAFTAs Look Has Us Green With Envy。While Marisa Abela was well within best-dressed territory as is, the gargantuan emerald nestled in her clavicle took the look。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Take It From Taylor Swift: Pop Stars Love a Babydoll Dress。Between Olivia Rodrigo’s riot grrrl influences, Sabrina Carpenter’s 1960s throwbacks, and now Taylor Swift’s glitzier tak。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Rachel Antonoff Spring 2026 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2026-ready-to-wear/rachel-antonoff",
+      "title": "The Brooklyn Museum’s Artist’s Ball Honored Iris van Herpen—and Brought Out A Fashion-Obsessed Crowd",
+      "link": "https://www.vogue.com/slideshow/brooklyn-museum-artists-ball-iris-van-herpen",
+      "summary": "On the second Monday in May, it was time for another fashion-filled night at the museum. This time, artists, designers, curators, and art fans hot-footed it to Brooklyn for the annual Artist’s Ball. And once again, the evening was rooted in the truth that fash",
+      "published": "Tue, 12 May 2026 15:19:25 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Brooklyn Museum’s Artist’s Ball Honored Iris van Herpen—and Brought Out A Fashion-Obsessed Crowd。On the second Monday in May, it was time for another fashion-filled night at th。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Francisco Cancino Mexico Fall 2026",
+      "link": "https://www.vogue.com/fashion-shows/mexico-fall-2026/francisco-cancino",
       "summary": "",
-      "published": "Tue, 12 May 2026 04:31:19 +000",
+      "published": "Wed, 13 May 2026 04:42:01 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Rachel Antonoff Spring 2026 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Francisco Cancino Mexico Fall 2026。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "This Mizon Peptide Serum Creates an Instant Glass Skin Effect",
-      "link": "https://www.vogue.com/article/mizon-7-vegan-peptide-booster-serum",
-      "summary": "Combining seven peptides with mixed molecular weight hyaluronic acid, this Korean serum boosts hydration and improves skin texture with a lightweight feel.",
-      "published": "Mon, 11 May 2026 14:32:35 +000",
+      "title": "The Best Off-Duty Looks From the 2026 Cannes Film Festival",
+      "link": "https://www.vogue.com/slideshow/2026-cannes-film-festival-off-duty-looks",
+      "summary": "There is no such thing as an off-duty moment—at least not during the Cannes Film Festival, where paparazzi are stationed in airport arrivals, hotel foyers, and beachfronts.",
+      "published": "Tue, 12 May 2026 13:48:43 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：This Mizon Peptide Serum Creates an Instant Glass Skin Effect。Combining seven peptides with mixed molecular weight hyaluronic acid, this Korean serum boosts hydration and improves 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：The Best Off-Duty Looks From the 2026 Cannes Film Festival。There is no such thing as an off-duty moment—at least not during the Cannes Film Festival, where paparazzi are stationed 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Yet More Proof That Rihanna and A$AP Rocky’s Couple Style Is Unmatched",
-      "link": "https://www.vogue.com/article/rihanna-asap-rocky-couple-style-post-met-gala",
-      "summary": "Even when they keep it relatively casual, Rihanna and A$AP Rocky’s approach to complementary outfits is unmatched.",
-      "published": "Mon, 11 May 2026 14:29:57 +000",
+      "title": "With the Jones Road Foundation Stick, Bobbi Brown Nails the Modern Skin Finish",
+      "link": "https://www.vogue.com/article/jones-road-foundation-stick-launch",
+      "summary": "The latest from Jones Road, the Your Skin Foundation Stick has a satin finish with a breathable, lightweight feel, while still offering medium-to-full coverage.",
+      "published": "Tue, 12 May 2026 13:30:00 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Yet More Proof That Rihanna and A$AP Rocky’s Couple Style Is Unmatched。Even when they keep it relatively casual, Rihanna and A$AP Rocky’s approach to complementary outfits is unmat。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：With the Jones Road Foundation Stick, Bobbi Brown Nails the Modern Skin Finish。The latest from Jones Road, the Your Skin Foundation Stick has a satin finish with a breathable, ligh。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Douglas Stuart's Guide to Scotland",
-      "link": "https://www.vogue.com/article/douglas-stuart-guide-to-glasgow-and-scotland",
-      "summary": "\"There is an old joke that says: ‘You will have more fun at a Glaswegian funeral than you ever will at an Edinburgh wedding.’ I usually laugh and try not get involved in the fight.”",
-      "published": "Mon, 11 May 2026 14:28:30 +000",
+      "title": "Signals: A Consultancy Rethinking How Photographic Work Lives in the World",
+      "link": "https://www.vogue.com/article/signals-a-consultancy-rethinking-how-photographic-work-lives-in-the-world",
+      "summary": "A conversation with Myrtille Beauvert and Elsa Seignol on supporting the life of photographic projects beyond their production.",
+      "published": "Tue, 12 May 2026 13:00:00 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Douglas Stuart's Guide to Scotland。\"There is an old joke that says: ‘You will have more fun at a Glaswegian funeral than you ever will at an Edinburgh wedding.’ I usually laugh and。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "The Gold Gala Honored Priyanka Chopra Jonas and Celebrated Asian Pacific Representation",
-      "link": "https://www.vogue.com/slideshow/gold-house-gala-2026",
-      "summary": "On Saturday evening, over 650 guests donned their heritage-inspired black tie attire to attend the fifth annual Gold House Gala; a resplendent fete that honors impactful Asian and Pacific Islander leaders in entertainment, fashion, sports, and culture.",
-      "published": "Mon, 11 May 2026 13:36:21 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：The Gold Gala Honored Priyanka Chopra Jonas and Celebrated Asian Pacific Representation。On Saturday evening, over 650 guests donned their heritage-inspired black tie attire to atte。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Fashion's Tariff Refund Realities",
-      "link": "https://www.vogue.com/article/fashion-confronts-the-realities-of-tariff-refunds",
-      "summary": "The government’s new tariff refund system is largely functioning — but eligibility gaps, data complexity, legal exposure, and a growing infrastructure divide mean the path to recovery is far from straightforward.",
-      "published": "Mon, 11 May 2026 12:30:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Fashion's Tariff Refund Realities。The government’s new tariff refund system is largely functioning — but eligibility gaps, data complexity, legal exposure, and a growing infrastruc。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "New Tariffs Could Target Forced Labor. Is It a Fix?",
-      "link": "https://www.vogue.com/article/new-tariffs-could-target-forced-labor-is-it-a-fix",
-      "summary": "As Washington weighs new trade measures tied to forced labor, fashion brands may soon face higher import costs — and greater pressure to prove exactly where their products come from.",
-      "published": "Mon, 11 May 2026 12:30:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：New Tariffs Could Target Forced Labor. Is It a Fix?。As Washington weighs new trade measures tied to forced labor, fashion brands may soon face higher import costs — and greater pre。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Signals: A Consultancy Rethinking How Photographic Work Lives in the World。A conversation with Myrtille Beauvert and Elsa Seignol on supporting the life of photographic projects be。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     }
   ]
 }
