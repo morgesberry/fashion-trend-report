@@ -1,8 +1,13 @@
 {
-  "date": "2026-05-30",
-  "generated_at": "2026-05-30 04:53:29",
-  "lead_text": "今日样本中趋势分布较为分散，建议关注高频词与高分报道的交叉区域。",
-  "top_keywords": [],
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31 05:19:41",
+  "lead_text": "从今日样本看，Y2K热度靠前；建议优先跟踪相关品牌动作、秀场叙事与商业转化信号。",
+  "top_keywords": [
+    [
+      "Y2K",
+      1
+    ]
+  ],
   "items": [
     {
       "title": "Miu Miu 2026春夏秀场中的复古运动风重构",
@@ -20,23 +25,23 @@
       "cn_summary": "关注点：Miu Miu 2026春夏秀场中的复古运动风重构。聚焦廓形、材质与商业化潜力。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "BoF Careers Community Event: Meeting Fashion and Beauty Employee Needs",
-      "link": "https://www.businessoffashion.com/articles/workplace-talent/bof-careers-community-event-meeting-fashion-beauty-employee-needs-louis-vuitton-dior-estee-lauder/",
-      "summary": "BoF Careers brought together HR executives from the likes of Louis Vuitton, The Estée Lauder Companies, Christian Dior Couture, Cartier, Pomellato, Polène and Sephora to an intimate presentation and cocktail event in Paris to explore shifting workplace dynamic",
-      "published": "Thu, 16 Oct 2025 15:17:19 +000",
-      "source": "The Business of Fashion",
+      "title": "The Y2K Halter Top Is Officially Grown-up",
+      "link": "https://wwd.com/fashion-news/fashion-trends/y2k-halter-top-trend-elevated-1238986113/",
+      "summary": "From going-out top to polished wardrobe essential, the halter has staged the ultimate makeover.",
+      "published": "Sat, 30 May 2026 12:41:22 +000",
+      "source": "WWD",
       "tags": [
-        "品牌:Dior",
-        "品牌:Louis Vuitton"
+        "趋势:Y2K",
+        "风格:Y2K"
       ],
-      "score": 2,
-      "cn_summary": "关注点：BoF Careers Community Event: Meeting Fashion and Beauty Employee Needs。BoF Careers brought together HR executives from the likes of Louis Vuitton, The Estée Lauder Companies, Chris。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "score": 4,
+      "cn_summary": "关注点：The Y2K Halter Top Is Officially Grown-up。From going-out top to polished wardrobe essential, the halter has staged the ultimate makeover.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
       "title": "Louis Vuitton Resort 2027 Menswear",
       "link": "https://www.vogue.com/fashion-shows/resort-2027-menswear/louis-vuitton",
       "summary": "",
-      "published": "Sat, 30 May 2026 04:50:54 +000",
+      "published": "Sun, 31 May 2026 05:17:23 +000",
       "source": "Vogue",
       "tags": [
         "品牌:Louis Vuitton"
@@ -115,6 +120,66 @@
       ],
       "score": 1,
       "cn_summary": "关注点：Givenchy Names Marco De Vincenzo as Head of Leather Goods Design。The Italian designer will work under creative director Sarah Burton as the house seeks to strengthen one of its mos。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "30 Times Princess Diana Was a Poster Girl for Summer",
+      "link": "https://www.vogue.com/slideshow/princess-diana-summer-style",
+      "summary": "From animal-print pieces, to seasonal florals, and her repertoire of colorful swimwear: Nobody did warm weather dressing quite like Princess Diana.",
+      "published": "Sat, 30 May 2026 15:03:30 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：30 Times Princess Diana Was a Poster Girl for Summer。From animal-print pieces, to seasonal florals, and her repertoire of colorful swimwear: Nobody did warm weather dressing quite 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Kim Kardashian and Kris Jenner Make Family Dinner a Fashion Affair",
+      "link": "https://www.vogue.com/article/kim-kardashian-kris-jenner-make-family-dinner-a-fashion-affair",
+      "summary": "Whatever the occasion, dress code, or season—just know Kim Kardashian stays serious about her archive pulls.",
+      "published": "Sat, 30 May 2026 14:29:17 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Kim Kardashian and Kris Jenner Make Family Dinner a Fashion Affair。Whatever the occasion, dress code, or season—just know Kim Kardashian stays serious about her archive pulls.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "How Often Should You Cut Your Hair? Vogue Asks the Pros",
+      "link": "https://www.vogue.com/article/how-often-should-you-cut-your-hair",
+      "summary": "Whether you have short, long, fine, or curly hair, experts break down how often you should be cutting your hair in this comprehensive guide.",
+      "published": "Sat, 30 May 2026 12:30:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：How Often Should You Cut Your Hair? Vogue Asks the Pros。Whether you have short, long, fine, or curly hair, experts break down how often you should be cutting your hair in this comp。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-may-30",
+      "summary": "From Ellie Bamber’s embrace of the English Rose to the cool tones coveted by Charli XCX: this week in celebrity beauty championed skin.",
+      "published": "Sat, 30 May 2026 10:01:35 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Beauty Marks: The Best Beauty Looks of the Week。From Ellie Bamber’s embrace of the English Rose to the cool tones coveted by Charli XCX: this week in celebrity beauty championed sk。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Rah Rah for Raffia: How to Wear This Summer Staple the Street Style Way",
+      "link": "https://www.vogue.com/article/street-style-fashion-week-rattan-jacquemus-in-street-style-trends",
+      "summary": "Jane Birkin made this humble material symbolic of sunny days.",
+      "published": "Sat, 30 May 2026 10:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Rah Rah for Raffia: How to Wear This Summer Staple the Street Style Way。Jane Birkin made this humble material symbolic of sunny days.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "What Did You Buy in May? The Month’s 7 Top-Shopped Items in Review",
+      "link": "https://www.vogue.com/article/top-of-the-carts-2026",
+      "summary": "What did you buy in May? Vogue takes a look at the brands you loved, the trends you embraced, and the street style looks you recreated.",
+      "published": "Sat, 30 May 2026 10:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：What Did You Buy in May? The Month’s 7 Top-Shopped Items in Review。What did you buy in May? Vogue takes a look at the brands you loved, the trends you embraced, and the street styl。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
       "title": "The Night Belonged To New York For Jacques Marie Mage’s SoHo Gallery Opening",
@@ -265,66 +330,6 @@
       "tags": [],
       "score": 0,
       "cn_summary": "关注点：Cara Delevingne Is Ready to Reintroduce Herself: A Behind-the-Scenes Look at Her New Music。Top model, actor, and now singer: Cara Delevingne is launching her music era with two new。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Butter Nails Are Summer’s Most-Requested Manicure—Again",
-      "link": "https://www.vogue.com/article/butter-nails-trend",
-      "summary": "From lemon decals to chrome butter and a French mani twist—the pale yellow manicure has leveled up to be the perfect companion to your Euro summer.",
-      "published": "Fri, 29 May 2026 14:26:46 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Butter Nails Are Summer’s Most-Requested Manicure—Again。From lemon decals to chrome butter and a French mani twist—the pale yellow manicure has leveled up to be the perfect compani。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Carrie Bradshaw Is (and Always Has Been) the Summer Style Blueprint",
-      "link": "https://www.vogue.com/slideshow/carrie-bradshaw-summer-style-inspiration",
-      "summary": "A look at Carrie Bradshaw's Many Summer Inspired Outfits",
-      "published": "Fri, 29 May 2026 13:45:31 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Carrie Bradshaw Is (and Always Has Been) the Summer Style Blueprint。A look at Carrie Bradshaw's Many Summer Inspired Outfits。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "With Jannik Sinner Out, Who Wins the French Open? Breaking Down the Weekend’s Must-See Matchups",
-      "link": "https://www.vogue.com/article/french-open-2026-first-weekend-matchups",
-      "summary": "With Carlos Alcaraz injured, this was Sinner's easiest-seeming slam; does this make Novak Djokovic's path to a 25th slam any easier?",
-      "published": "Fri, 29 May 2026 13:41:12 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：With Jannik Sinner Out, Who Wins the French Open? Breaking Down the Weekend’s Must-See Matchups。With Carlos Alcaraz injured, this was Sinner's easiest-seeming slam; does this make 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Inside the Otherworldly Lucas Museum of Narrative Art in Los Angeles",
-      "link": "https://www.vogue.com/article/lucas-museum-of-narrative-art-los-angeles",
-      "summary": "George Lucas and Mellody Hobson on the massive new architectural icon—housing their personal collection of art and artifacts—opening in September 2026",
-      "published": "Fri, 29 May 2026 12:00:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Inside the Otherworldly Lucas Museum of Narrative Art in Los Angeles。George Lucas and Mellody Hobson on the massive new architectural icon—housing their personal collection of art 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "'Summer House’s' Ciara Miller Knows Revenge Is a Dress Best Served Hot",
-      "link": "https://www.vogue.com/article/summer-house-ciara-miller-di-petsa-revenge-dress",
-      "summary": "From Princess Diana to Mariah Carey and now the women of Bravo, there's no better sartorial statement than the iconic revenge dress.",
-      "published": "Fri, 29 May 2026 11:27:50 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：'Summer House’s' Ciara Miller Knows Revenge Is a Dress Best Served Hot。From Princess Diana to Mariah Carey and now the women of Bravo, there's no better sartorial statement than th。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "This Traditional Chinese Medicine Hack Clears an Acne Breakout Fast",
-      "link": "https://www.vogue.com/article/treat-acne-breakout-traditional-chinese-medicine-trick",
-      "summary": "Traditional Chinese Medicine practitioner Sandra Lanshin Chiu breaks down a simple and speedy practice for clearing a zit.",
-      "published": "Fri, 29 May 2026 11:08:05 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：This Traditional Chinese Medicine Hack Clears an Acne Breakout Fast。Traditional Chinese Medicine practitioner Sandra Lanshin Chiu breaks down a simple and speedy practice for clear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     }
   ]
 }
