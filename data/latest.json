@@ -1,8 +1,13 @@
 {
-  "date": "2026-06-05",
-  "generated_at": "2026-06-05 05:19:15",
-  "lead_text": "今日样本中趋势分布较为分散，建议关注高频词与高分报道的交叉区域。",
-  "top_keywords": [],
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06 04:54:16",
+  "lead_text": "从今日样本看，Y2K热度靠前；建议优先跟踪相关品牌动作、秀场叙事与商业转化信号。",
+  "top_keywords": [
+    [
+      "Y2K",
+      1
+    ]
+  ],
   "items": [
     {
       "title": "Miu Miu 2026春夏秀场中的复古运动风重构",
@@ -20,30 +25,89 @@
       "cn_summary": "关注点：Miu Miu 2026春夏秀场中的复古运动风重构。聚焦廓形、材质与商业化潜力。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Model Ming Xi Wore a Custom Dior Haute Couture Dress to Marry at Mont Saint-Michel in Northern France",
-      "link": "https://www.vogue.com/slideshow/ming-xi-and-mario-ho-wedding",
-      "summary": "The Chinese model also wore vintage Chanel couture and Givenchy by Sarah Burton to marry entrepreneur Mario Ho at Mont Saint-Michel—marking the first wedding ever to be held in its abbey—in Normandy, France.",
-      "published": "Thu, 04 Jun 2026 14:30:00 +000",
+      "title": "Three New Collaborations Confirm it: 2026 Is the Year of the Y2K Sweatsuit Revival",
+      "link": "https://www.vogue.com/article/is-2026-the-year-of-the-y2k-sweatsuit",
+      "summary": "From Madhappy x FreeCity to Kidill x Juicy Couture, we’re seeing the return of Y2K sweats in terry, velour and more.",
+      "published": "Fri, 05 Jun 2026 15:59:13 +000",
       "source": "Vogue",
       "tags": [
-        "品牌:Chanel",
-        "品牌:Dior",
-        "品牌:Givenchy"
+        "趋势:Y2K",
+        "风格:Y2K"
       ],
-      "score": 3,
-      "cn_summary": "关注点：Model Ming Xi Wore a Custom Dior Haute Couture Dress to Marry at Mont Saint-Michel in Northern France。The Chinese model also wore vintage Chanel couture and Givenchy by Sarah Burto。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "score": 4,
+      "cn_summary": "关注点：Three New Collaborations Confirm it: 2026 Is the Year of the Y2K Sweatsuit Revival。From Madhappy x FreeCity to Kidill x Juicy Couture, we’re seeing the return of Y2K sweats in terr。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Louis Vuitton Revs Up for Monaco Grand Prix",
-      "link": "https://wwd.com/fashion-news/designer-luxury/louis-vuitton-monaco-grand-prix-f1-1238985991/",
-      "summary": "The luxury giant is title sponsor of the prestigious Formula 1 race, and its full-court press includes special windows, a limited-edition capsule collection, trackside signage and a rich program of experiences for VICs.",
-      "published": "Fri, 05 Jun 2026 04:01:00 +000",
-      "source": "WWD",
+      "title": "Chanel and Tribeca Celebrated the Power of Storytelling and Another Year of the Through Her Lens Program",
+      "link": "https://www.vogue.com/slideshow/chanel-tribeca-through-her-lens-luncheon-2026",
+      "summary": "Among those who joined Chanel and Tribeca were Meg Ryan, Maggie Rogers, Katie Holmes, Debi Mazar, Supriya Ganesh, Myha’la, and industry stalwarts including Patty Jenkins and Bryce Norbitz who have been been a lifeline to many during the festival’s long history",
+      "published": "Fri, 05 Jun 2026 21:17:29 +000",
+      "source": "Vogue",
       "tags": [
-        "品牌:Louis Vuitton"
+        "品牌:Chanel"
       ],
       "score": 1,
-      "cn_summary": "关注点：Louis Vuitton Revs Up for Monaco Grand Prix。The luxury giant is title sponsor of the prestigious Formula 1 race, and its full-court press includes special windows, a limited-editio。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Chanel and Tribeca Celebrated the Power of Storytelling and Another Year of the Through Her Lens Program。Among those who joined Chanel and Tribeca were Meg Ryan, Maggie Rogers, Kat。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "And the Bride Wore… Leather! See Dua Lipa’s First Italy Wedding Look",
+      "link": "https://www.vogue.com/article/dua-lipa-first-wedding-look-palermo-italy",
+      "summary": "Dua Lipa and Callum Turner welcomed friends and family to Palermo for the first of a three-day wedding extravaganza. Her first look? Some leathery, feathery Bottega Veneta.",
+      "published": "Fri, 05 Jun 2026 19:33:27 +000",
+      "source": "Vogue",
+      "tags": [
+        "品牌:Bottega Veneta"
+      ],
+      "score": 1,
+      "cn_summary": "关注点：And the Bride Wore… Leather! See Dua Lipa’s First Italy Wedding Look。Dua Lipa and Callum Turner welcomed friends and family to Palermo for the first of a three-day wedding extravag。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "This Musician Couple Took Over a Pioneer Town for Their 1950s-Inspired Texas Wedding",
+      "link": "https://www.vogue.com/slideshow/zella-day-and-jesse-woods-wedding",
+      "summary": "Bride Zella Day wore a vintage ’90s Vera Wang dress and sparkly secondhand Miu Miu heels to marry her Chaparelle bandmate Jesse Woods in Wimberley, Texas.",
+      "published": "Fri, 05 Jun 2026 17:38:03 +000",
+      "source": "Vogue",
+      "tags": [
+        "品牌:Miu Miu"
+      ],
+      "score": 1,
+      "cn_summary": "关注点：This Musician Couple Took Over a Pioneer Town for Their 1950s-Inspired Texas Wedding。Bride Zella Day wore a vintage ’90s Vera Wang dress and sparkly secondhand Miu Miu heels to mar。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Madonna Kicks Off Pride Month With a Surprise Times Square Performance",
+      "link": "https://www.vogue.com/article/madonna-times-square-performance-confessions",
+      "summary": "The queen of pop emerged for a surprise pop-up performance wearing a silver Gucci jacket from her very own archives.",
+      "published": "Fri, 05 Jun 2026 14:45:15 +000",
+      "source": "Vogue",
+      "tags": [
+        "品牌:Gucci"
+      ],
+      "score": 1,
+      "cn_summary": "关注点：Madonna Kicks Off Pride Month With a Surprise Times Square Performance。The queen of pop emerged for a surprise pop-up performance wearing a silver Gucci jacket from her very own ar。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Prada Took Over Katz’s Deli for Pastrami Sandwiches, Caviar, and Dancing",
+      "link": "https://www.vogue.com/slideshow/prada-mode-new-york-katz-deli",
+      "summary": "Not one but two iconic New York locations enjoyed the Prada treatment for the latest edition of the Italian label’s cultural project, Prada Mode.",
+      "published": "Fri, 05 Jun 2026 14:25:37 +000",
+      "source": "Vogue",
+      "tags": [
+        "品牌:Prada"
+      ],
+      "score": 1,
+      "cn_summary": "关注点：Prada Took Over Katz’s Deli for Pastrami Sandwiches, Caviar, and Dancing。Not one but two iconic New York locations enjoyed the Prada treatment for the latest edition of the Italian。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Meg Ryan, Jodie Foster and More Come Out for Chanel and Tribeca’s Through Her Lens Lunch",
+      "link": "https://wwd.com/eye/parties/chanel-tribeca-through-her-lens-2026-meg-ryan-jodie-foster-1238997464/",
+      "summary": "Chanel and Tribeca celebrated women filmmakers at The Greenwich Hotel on Friday.",
+      "published": "Fri, 05 Jun 2026 20:35:11 +000",
+      "source": "WWD",
+      "tags": [
+        "品牌:Chanel"
+      ],
+      "score": 1,
+      "cn_summary": "关注点：Meg Ryan, Jodie Foster and More Come Out for Chanel and Tribeca’s Through Her Lens Lunch。Chanel and Tribeca celebrated women filmmakers at The Greenwich Hotel on Friday.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
       "title": "Who Will Survive Luxury’s Post-Growth Era?",
@@ -70,258 +134,204 @@
       "cn_summary": "关注点：How Italian Fashion Startups Are Making It Work。Milan’s most promising upstarts are emphasising custom orders, embracing cross-cultural dialogue and adopting a high-tech angle on ‘。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "How Books Became Fashion’s Favourite Flex",
-      "link": "https://www.businessoffashion.com/articles/marketing-pr/how-books-became-fashions-favourite-flex/",
-      "summary": "Fashion brands from Coach to Dior are piling into literature as books become key status symbols and markers of knowledge and taste in an age of visual overload and AI slop. Which strategies have substance?",
-      "published": "Mon, 01 Jun 2026 04:30:00 +000",
-      "source": "The Business of Fashion",
-      "tags": [
-        "品牌:Dior"
-      ],
-      "score": 1,
-      "cn_summary": "关注点：How Books Became Fashion’s Favourite Flex。Fashion brands from Coach to Dior are piling into literature as books become key status symbols and markers of knowledge and taste in an a。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Kering Names Gianfranco D’Attis CEO of McQueen",
-      "link": "https://www.businessoffashion.com/news/luxury/kering-names-gianfranco-dattis-ceo-of-mcqueen/",
-      "summary": "The former Prada chief will be charged with piloting the restructuring and repositioning of the label founded by Lee Alexander McQueen as Kering CEO Luca De Meo reviews the group’s portfolio.",
-      "published": "Mon, 01 Jun 2026 18:43:21 +000",
-      "source": "The Business of Fashion",
-      "tags": [
-        "品牌:Prada"
-      ],
-      "score": 1,
-      "cn_summary": "关注点：Kering Names Gianfranco D’Attis CEO of McQueen。The former Prada chief will be charged with piloting the restructuring and repositioning of the label founded by Lee Alexander McQuee。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "The Scoop with Valentina Suárez-Zuloaga: A Change of Location (and Attitude) for Madrid Fashion Week",
-      "link": "https://www.vogue.com/article/the-scoop-with-valentina-suarez-zuloaga-a-change-of-location-and-attitude-for-madrid-fashion-week",
-      "summary": "This week’s guest is Valentina Suárez-Zuloaga, the creative director of Mercedes-Benz Fashion Week Madrid (MBFW Madrid).",
-      "published": "Fri, 05 Jun 2026 04:30:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：The Scoop with Valentina Suárez-Zuloaga: A Change of Location (and Attitude) for Madrid Fashion Week。This week’s guest is Valentina Suárez-Zuloaga, the creative director of Mercede。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Hermès Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/hermes",
+      "title": "Zegna Spring 2027 Menswear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/zegna",
       "summary": "",
-      "published": "Fri, 05 Jun 2026 05:14:45 +000",
+      "published": "Sat, 06 Jun 2026 04:53:36 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Hermès Resort 2027。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Zegna Spring 2027 Menswear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Kenzo Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/kenzo",
+      "title": "Ganni Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/ganni",
       "summary": "",
-      "published": "Fri, 05 Jun 2026 05:14:45 +000",
+      "published": "Sat, 06 Jun 2026 04:53:36 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Kenzo Resort 2027。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Ganni Resort 2027。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "10 Chic City Outfits That Capture the Energy of Summer—with a Modern Twist",
-      "link": "https://www.vogue.com/article/city-outfits",
-      "summary": "Thanks to polished staples from Banana Republic and The Row to Tory Burch and Staud, crafting chic city outfits for summer is effortlessly easy.",
-      "published": "Thu, 04 Jun 2026 21:07:50 +000",
+      "title": "The Best Cotton Dresses to Wear All Summer Long",
+      "link": "https://www.vogue.com/article/best-cotton-dresses",
+      "summary": "Our favorite way to beat the heat? With the best cotton dresses. Shop the edit, with pieces from Toteme, J.Crew, Faithfull, and more.",
+      "published": "Fri, 05 Jun 2026 21:31:44 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：10 Chic City Outfits That Capture the Energy of Summer—with a Modern Twist。Thanks to polished staples from Banana Republic and The Row to Tory Burch and Staud, crafting chic city o。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：The Best Cotton Dresses to Wear All Summer Long。Our favorite way to beat the heat? With the best cotton dresses. Shop the edit, with pieces from Toteme, J.Crew, Faithfull, and more。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Montecito Guide: Where to Stay, Eat, and Play in the Crown Jewel of Santa Barbara County",
-      "link": "https://www.vogue.com/article/montecito-santa-barbara-county-california-travel-guide",
-      "summary": "This affluent Southern California enclave is known for its A-list residents—including Gwyneth Paltrow and Meghan Markle—as well as its laid-back charm and scenic beauty.",
-      "published": "Thu, 04 Jun 2026 20:20:49 +000",
+      "title": "These Japanese Sunscreens Made Me Forget I Was Wearing SPF",
+      "link": "https://www.vogue.com/article/japanese-sunscreen",
+      "summary": "The best Japanese sunscreens feature unique ingredients, sensorial textures, and innovative delivery systems for some of the most weightless, luminous SPFs around.",
+      "published": "Fri, 05 Jun 2026 20:48:39 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Montecito Guide: Where to Stay, Eat, and Play in the Crown Jewel of Santa Barbara County。This affluent Southern California enclave is known for its A-list residents—including Gwyne。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：These Japanese Sunscreens Made Me Forget I Was Wearing SPF。The best Japanese sunscreens feature unique ingredients, sensorial textures, and innovative delivery systems for some of 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Who Is on Taylor Swift’s Wedding Guest List? Here’s What We Know",
-      "link": "https://www.vogue.com/article/taylor-swift-travis-kelce-wedding-guest-list",
-      "summary": "Lately, the internet’s favorite pastime is guessing who is on the guest list for Taylor Swift and Travis Kelce’s upcoming wedding. Here’s what we know so far.",
-      "published": "Thu, 04 Jun 2026 20:07:41 +000",
+      "title": "Shop Our Favorite Celebrity Looks of the Week | Vogue",
+      "link": "https://www.vogue.com/article/best-celebrity-outfits",
+      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
+      "published": "Fri, 05 Jun 2026 20:05:26 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Who Is on Taylor Swift’s Wedding Guest List? Here’s What We Know。Lately, the internet’s favorite pastime is guessing who is on the guest list for Taylor Swift and Travis Kelce’s up。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Shop Our Favorite Celebrity Looks of the Week | Vogue。Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "6 Vegetarian Sources of Omega-3s",
-      "link": "https://www.vogue.com/article/vegetarian-sources-of-omega-3s",
-      "summary": "Typically found in oily fish, omega-3s are important for your heart, brain, eyes, and more. But there are plenty of plant-based sources too.",
-      "published": "Thu, 04 Jun 2026 19:55:04 +000",
+      "title": "‘I Wanted to Start Off Scorching’: Ryan Beatty on His Exhilarating New Video for “Secret Language”",
+      "link": "https://www.vogue.com/article/ryan-beatty-secret-language-music-video-interview",
+      "summary": "The singer-songwriter speaks to Vogue about the romantic story behind the song and video for the debut single from his upcoming fourth album, ‘Sweet Fortune.’",
+      "published": "Fri, 05 Jun 2026 19:47:18 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：6 Vegetarian Sources of Omega-3s。Typically found in oily fish, omega-3s are important for your heart, brain, eyes, and more. But there are plenty of plant-based sources too.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：‘I Wanted to Start Off Scorching’: Ryan Beatty on His Exhilarating New Video for “Secret Language”。The singer-songwriter speaks to Vogue about the romantic story behind the song an。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "The Business of the New York Knicks",
-      "link": "https://www.vogue.com/article/the-business-of-the-new-york-knicks",
-      "summary": "Headed to their first championship final in more than 25 years, the New York Knicks have a deep celebrity following and lots of brand love to cash in on.",
-      "published": "Thu, 04 Jun 2026 19:47:34 +000",
+      "title": "The Aussies Take Antibes: Inside Zimmermann’s Summer Escape to the Côte d’Azur",
+      "link": "https://www.vogue.com/slideshow/zimmermann-antibes-summer-2026",
+      "summary": "As the sky turned a candy-toned pink, a glamorous and international cohort including Jodie Turner-Smith, Poppy Delevingne, Jessie Ware, Gabriella Brooks, Charlotte Rose, Maia Mitchell, Leila George, Blanca Suárez, and Anna Shaffer gathered at Hôtel Belles Rive",
+      "published": "Fri, 05 Jun 2026 19:46:40 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：The Business of the New York Knicks。Headed to their first championship final in more than 25 years, the New York Knicks have a deep celebrity following and lots of brand love to ca。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：The Aussies Take Antibes: Inside Zimmermann’s Summer Escape to the Côte d’Azur。As the sky turned a candy-toned pink, a glamorous and international cohort including Jodie Turner-Smi。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "The 23 Best Hotels on the Greek Islands to Book This Summer",
-      "link": "https://www.vogue.com/article/the-best-hotels-in-greece-to-book-this-summer",
-      "summary": "The best Greek island hotels include buzzy new openings and tiny boutique stays—either way, these 23 are so lovely you'll never want to check out.",
-      "published": "Thu, 04 Jun 2026 19:27:41 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：The 23 Best Hotels on the Greek Islands to Book This Summer。The best Greek island hotels include buzzy new openings and tiny boutique stays—either way, these 23 are so lovely you'l。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "What Does Keke Palmer Wear to Host a Game Show? Fab Skirt Suits and Vintage Gems",
-      "link": "https://www.vogue.com/slideshow/keke-palmer-password-game-show-host-fashion",
-      "summary": "“We were thinking Austin Powers,” says Palmer, who hosts the ‘Password’ game show, of her looks this season. “More color, more patterns—more everything.”",
-      "published": "Thu, 04 Jun 2026 18:38:03 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：What Does Keke Palmer Wear to Host a Game Show? Fab Skirt Suits and Vintage Gems。“We were thinking Austin Powers,” says Palmer, who hosts the ‘Password’ game show, of her looks thi。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Haute & Freddy Are Pop’s Fabulous New Fashion Freaks",
-      "link": "https://www.vogue.com/slideshow/haute-and-freddy-music-fashion-tour",
-      "summary": "The pop duo are hitting the road—and they’re bringing vintage clown suits and showgirl looks to the stage. “Going to a show should feel like your own personal fashion show.”",
-      "published": "Thu, 04 Jun 2026 18:02:31 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Haute & Freddy Are Pop’s Fabulous New Fashion Freaks。The pop duo are hitting the road—and they’re bringing vintage clown suits and showgirl looks to the stage. “Going to a show sho。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "What Happens Now That Resale’s Gone Mainstream?",
-      "link": "https://www.vogue.com/article/what-happens-now-that-resales-gone-mainstream",
-      "summary": "Many shoppers cite sustainability as a core reason they shop secondhand. Does that still hold?",
-      "published": "Thu, 04 Jun 2026 17:33:37 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：What Happens Now That Resale’s Gone Mainstream?。Many shoppers cite sustainability as a core reason they shop secondhand. Does that still hold?。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "How Swimwear Brand Hunza G Is Selling Summer in the City",
-      "link": "https://www.vogue.com/article/how-swimwear-brand-hunza-g-is-selling-summer-in-the-city",
-      "summary": "Ahead of the London brand’s pop-up, founder Georgiana Huddart lays out plans to sell her cult swimwear in the city.",
-      "published": "Thu, 04 Jun 2026 17:17:02 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：How Swimwear Brand Hunza G Is Selling Summer in the City。Ahead of the London brand’s pop-up, founder Georgiana Huddart lays out plans to sell her cult swimwear in the city.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "50 Best Wedding After-Party Dresses for a Night to Remember 2026",
-      "link": "https://www.vogue.com/slideshow/wedding-after-party-dresses",
-      "summary": "From sparkling to embellished to feathered, the best wedding after-party dresses will have you looking and feeling your best all night long.",
-      "published": "Thu, 04 Jun 2026 16:37:33 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：50 Best Wedding After-Party Dresses for a Night to Remember 2026。From sparkling to embellished to feathered, the best wedding after-party dresses will have you looking and feeling 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "How ‘Love Island USA’ Takes Care of Its Contestants’ Mental Health",
-      "link": "https://www.vogue.com/article/love-island-usa-psychologist-2026",
-      "summary": "Can I pull you for a chat? How the mental health team on set takes care of contestants on the viral show",
-      "published": "Thu, 04 Jun 2026 16:32:25 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：How ‘Love Island USA’ Takes Care of Its Contestants’ Mental Health。Can I pull you for a chat? How the mental health team on set takes care of contestants on the viral show。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Summer Blush Hacks That Are Perfect for Mature Skin, According to Bobbi Brown",
-      "link": "https://www.vogue.com/article/bobbi-brown-summer-blush-hacks-for-mature-skin",
-      "summary": "Beauty legend and entrepreneur Bobbi Brown tells Vogue how to nail the perfect summer blush on cheeks of all ages.",
-      "published": "Thu, 04 Jun 2026 16:15:09 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Summer Blush Hacks That Are Perfect for Mature Skin, According to Bobbi Brown。Beauty legend and entrepreneur Bobbi Brown tells Vogue how to nail the perfect summer blush on cheeks 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Central Saint Martins B.A. Fall 2026 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/central-saint-martins-ba",
+      "title": "A.L.C. Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/a-l-c",
       "summary": "",
-      "published": "Fri, 05 Jun 2026 05:14:45 +000",
+      "published": "Sat, 06 Jun 2026 04:53:36 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Central Saint Martins B.A. Fall 2026 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：A.L.C. Resort 2027。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Fresh Juice, Monster Boots, and Purple Glue Stick: 24 Hours With ‘The Rocky Horror Show’ Star Luke Evans",
-      "link": "https://www.vogue.com/article/24-hours-luke-evans",
-      "summary": "The Welsh actor (and first-time Tony nominee) invites Vogue along as he zips from Chelsea to Studio 54 for showtime.",
-      "published": "Thu, 04 Jun 2026 16:00:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Fresh Juice, Monster Boots, and Purple Glue Stick: 24 Hours With ‘The Rocky Horror Show’ Star Luke Evans。The Welsh actor (and first-time Tony nominee) invites Vogue along as he zip。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Everything You Need to Know About the 2026 Tony Awards",
-      "link": "https://www.vogue.com/article/2026-tony-awards-everything-you-need-to-know",
-      "summary": "Broadway’s biggest night is just a few weeks away! See all the contenders at the 79th Tony Awards here.",
-      "published": "Thu, 04 Jun 2026 16:00:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Everything You Need to Know About the 2026 Tony Awards。Broadway’s biggest night is just a few weeks away! See all the contenders at the 79th Tony Awards here.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "The Thoughtful Fashion Details Behind Kate Middleton’s Most Emotional Engagement to Date",
-      "link": "https://www.vogue.com/article/thoughtful-fashion-details-behind-kate-middleton-most-emotional-engagement",
-      "summary": "For a visit to one of Europe’s leading cancer centers, the Princess of Wales’s wardrobe choices were especially meaningful.",
-      "published": "Thu, 04 Jun 2026 15:06:24 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：The Thoughtful Fashion Details Behind Kate Middleton’s Most Emotional Engagement to Date。For a visit to one of Europe’s leading cancer centers, the Princess of Wales’s wardrobe cho。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Everything We Know About Dua Lipa and Callum Turner’s Sicily Wedding",
-      "link": "https://www.vogue.com/article/where-is-dua-lipa-sicily-wedding-taking-place",
-      "summary": "The musician is rumored to be marrying Callum Turner at a historic villa in Palermo. Here’s everything we know about Dua Lipa’s Sicily wedding, and the locations it’s happening in.",
-      "published": "Thu, 04 Jun 2026 15:00:25 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Everything We Know About Dua Lipa and Callum Turner’s Sicily Wedding。The musician is rumored to be marrying Callum Turner at a historic villa in Palermo. Here’s everything we know 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Cult Gaia Pre-Fall 2026",
-      "link": "https://www.vogue.com/fashion-shows/pre-fall-2026/cult-gaia",
+      "title": "By Malene Birger Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/by-malene-birger",
       "summary": "",
-      "published": "Fri, 05 Jun 2026 05:14:45 +000",
+      "published": "Sat, 06 Jun 2026 04:53:36 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Cult Gaia Pre-Fall 2026。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：By Malene Birger Resort 2027。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Olivia Rodrigo’s Latest Look Is Loaded With Fashion History",
-      "link": "https://www.vogue.com/article/olivia-rodrigo-peggy-moffitt-1971-rudi-gernreich",
-      "summary": "Between her Peggy Moffitt and Jane Birkin pulls, Olivia Rodrigo is ramping up her deep-cut fashion fantasia.",
-      "published": "Thu, 04 Jun 2026 14:59:42 +000",
+      "title": "68 Thoughts I Had While Watching Jennifer Lopez and Brett Goldstein in ‘Office Romance’",
+      "link": "https://www.vogue.com/article/68-thoughts-i-had-while-watching-office-romance",
+      "summary": "I keep being like “How are they getting everywhere so fast?” but…right, plane-empire mogul.",
+      "published": "Fri, 05 Jun 2026 19:21:16 +000",
       "source": "Vogue",
       "tags": [],
       "score": 0,
-      "cn_summary": "关注点：Olivia Rodrigo’s Latest Look Is Loaded With Fashion History。Between her Peggy Moffitt and Jane Birkin pulls, Olivia Rodrigo is ramping up her deep-cut fashion fantasia.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：68 Thoughts I Had While Watching Jennifer Lopez and Brett Goldstein in ‘Office Romance’。I keep being like “How are they getting everywhere so fast?” but…right, plane-empire mogul.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Move Over, Tomato Girl—We’re Having a Dotcake Summer",
+      "link": "https://www.vogue.com/article/dotcakes-summer-trend",
+      "summary": "Here’s how to sprinkle color in your wardrobe, inspired by the viral Dotcups phenomenon.",
+      "published": "Fri, 05 Jun 2026 19:04:28 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Move Over, Tomato Girl—We’re Having a Dotcake Summer。Here’s how to sprinkle color in your wardrobe, inspired by the viral Dotcups phenomenon.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Japanese Manicures Are The Perfect No-Polish Treatment For Summer",
+      "link": "https://www.vogue.com/article/japanese-manicures",
+      "summary": "This two-step treatment will leave nails with a glossy shine, experts say.",
+      "published": "Fri, 05 Jun 2026 17:42:55 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Japanese Manicures Are The Perfect No-Polish Treatment For Summer。This two-step treatment will leave nails with a glossy shine, experts say.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Need an Album Cover? Consider an Oil Painting, Like Olivia Rodrigo or Lily Allen",
+      "link": "https://www.vogue.com/article/fine-art-album-covers-olivia-rodrigo-mitski-lily-allen",
+      "summary": "Olivia Rodrigo, Lily Allen, and Mitski have all turned to Old Master-inspired fine artists to illustrate their recent albums.",
+      "published": "Fri, 05 Jun 2026 17:04:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Need an Album Cover? Consider an Oil Painting, Like Olivia Rodrigo or Lily Allen。Olivia Rodrigo, Lily Allen, and Mitski have all turned to Old Master-inspired fine artists to illus。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Alexandra Leclerc’s Jacquemus Bag Is Filled With Strictly Basics",
+      "link": "https://www.vogue.com/article/in-the-bag-alexandra-leclerc",
+      "summary": "From a 4 pm snack to a miniature mannequin, Alexandra Leclerc only brings the “bare minimum.”",
+      "published": "Fri, 05 Jun 2026 16:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Alexandra Leclerc’s Jacquemus Bag Is Filled With Strictly Basics。From a 4 pm snack to a miniature mannequin, Alexandra Leclerc only brings the “bare minimum.”。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "44 Milano Profile - Marcello Maloberti",
+      "link": "https://www.vogue.com/article/44-milano-profile-marcello-maloberti",
+      "summary": "“The beautiful thing about artists is that they live within their own solitude.” Photos and Q&amp;A by Domenica Bucalo.",
+      "published": "Fri, 05 Jun 2026 16:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：44 Milano Profile - Marcello Maloberti。“The beautiful thing about artists is that they live within their own solitude.” Photos and Q&amp;A by Domenica Bucalo.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Princess Diana’s Favorite ’80s Summer Shoe Is Trending Again",
+      "link": "https://www.vogue.com/article/princess-dianas-favorite-80s-summer-shoe-is-trending-again",
+      "summary": "Princess Diana was four decades ahead of this wedge-heeled trend.",
+      "published": "Fri, 05 Jun 2026 15:46:03 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Princess Diana’s Favorite ’80s Summer Shoe Is Trending Again。Princess Diana was four decades ahead of this wedge-heeled trend.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Best Zara New Arrivals to Shop for Spring 2026 | Vogue",
+      "link": "https://www.vogue.com/article/best-zara-finds",
+      "summary": "Summer essentials and a new Bad Bunny collaboration are a few of the best Zara new arrival finds we’re eyeing this week.",
+      "published": "Fri, 05 Jun 2026 15:38:56 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Best Zara New Arrivals to Shop for Spring 2026 | Vogue。Summer essentials and a new Bad Bunny collaboration are a few of the best Zara new arrival finds we’re eyeing this week.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Bevza Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/bevza",
+      "summary": "",
+      "published": "Sat, 06 Jun 2026 04:53:36 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Bevza Resort 2027。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Rabanne Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/paco-rabanne",
+      "summary": "",
+      "published": "Sat, 06 Jun 2026 04:53:36 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Rabanne Resort 2027。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Lincoln Center’s Summer Gala Honored Misty Copeland with a John Legend Serenade",
+      "link": "https://www.vogue.com/slideshow/lincoln-center-summer-gala-2026-misty-copeland",
+      "summary": "On Monday evening, Lincoln Center’s David Geffen Hall was abuzz with artists, philanthropists, and leaders from around the world who turned out to toast honorees Misty Copeland and Stavros Niarchos foundation president Andreas C. Dracopoulos.",
+      "published": "Fri, 05 Jun 2026 13:44:16 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Lincoln Center’s Summer Gala Honored Misty Copeland with a John Legend Serenade。On Monday evening, Lincoln Center’s David Geffen Hall was abuzz with artists, philanthropists, and l。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     }
   ]
 }
