@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-06-05",
-    "top_keywords": []
-  },
-  {
     "date": "2026-06-06",
     "top_keywords": [
       [
@@ -247,6 +243,10 @@
   },
   {
     "date": "2026-08-03",
+    "top_keywords": []
+  },
+  {
+    "date": "2026-08-04",
     "top_keywords": []
   }
 ]
