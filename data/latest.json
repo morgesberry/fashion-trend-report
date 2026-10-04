@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03 06:07:53",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04 06:39:20",
   "lead_text": "今日样本中趋势分布较为分散，建议关注高频词与高分报道的交叉区域。",
   "top_keywords": [],
   "items": [
@@ -20,40 +20,290 @@
       "cn_summary": "关注点：Miu Miu 2026春夏秀场中的复古运动风重构。聚焦廓形、材质与商业化潜力。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Ahead of Celine’s Spring 2027 Show, a Conversation Between @OldCeline and @CurrentCeline",
-      "link": "https://www.vogue.com/article/its-this-way-of-seeing-ahead-of-celines-spring-2027-show-a-conversation-between-fan-accounts-oldceline-and-currentceline",
-      "summary": "“It’s This Way of Seeing:” Ahead of Celine’s Spring 2027 Show, a Conversation Between Fan Accounts @OldCeline and @CurrentCeline",
-      "published": "Fri, 02 Oct 2026 17:33:39 +000",
+      "title": "Celine Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/celine",
+      "summary": "",
+      "published": "Sun, 04 Oct 2026 06:35:06 +000",
       "source": "Vogue",
       "tags": [
         "品牌:Celine"
       ],
       "score": 1,
-      "cn_summary": "关注点：Ahead of Celine’s Spring 2027 Show, a Conversation Between @OldCeline and @CurrentCeline。“It’s This Way of Seeing:” Ahead of Celine’s Spring 2027 Show, a Conversation Between Fan A。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Celine Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Givenchy Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/givenchy",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 06:03:39 +000",
+      "title": "Katseye’s Lara and Megan Bring Bestie Style to Their First-Ever Paris Fashion Week Show",
+      "link": "https://www.vogue.com/slideshow/katseye-lara-raj-megan-skiendiel-loewe-diary-2026-10-03",
+      "summary": "Loewe’s spring 2027 show was a big day for one very special duo. Yes, designers Jack McCullough and Lazaro Hernandez, but also Katseye’s Lara Raj and Megan Skiendiel.",
+      "published": "Sat, 03 Oct 2026 12:31:28 +000",
       "source": "Vogue",
-      "tags": [
-        "品牌:Givenchy"
-      ],
-      "score": 1,
-      "cn_summary": "关注点：Givenchy Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Katseye’s Megan Skiendiel and Lara Raj Coordinate at Loewe in Slitted Mules and Bell-Cuffed Sandals",
-      "link": "https://wwd.com/footwear-news/shoe-trends/katseye-megan-lara-loewe-paris-fashion-week-shoes-1239305520/",
-      "summary": "Skiendiel’s black-and-yellow mules featured individual openings for each toe, while Raj wore sandals finished with dangling bells.",
-      "published": "Fri, 02 Oct 2026 20:15:04 +000",
-      "source": "WWD",
       "tags": [
         "品牌:Loewe"
       ],
       "score": 1,
-      "cn_summary": "关注点：Katseye’s Megan Skiendiel and Lara Raj Coordinate at Loewe in Slitted Mules and Bell-Cuffed Sandals。Skiendiel’s black-and-yellow mules featured individual openings for each toe, wh。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Katseye’s Lara and Megan Bring Bestie Style to Their First-Ever Paris Fashion Week Show。Loewe’s spring 2027 show was a big day for one very special duo. Yes, designers Jack McCullo。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Celine Spring 2027: Real Clothes, Worn Spontaneously",
+      "link": "https://wwd.com/runway/spring-2027/paris/celine/review/",
+      "summary": "“We're pretty intuitive, and I think that's how we roll,\" Michael Rider said about his creative method.",
+      "published": "Sat, 03 Oct 2026 16:47:24 +000",
+      "source": "WWD",
+      "tags": [
+        "品牌:Celine"
+      ],
+      "score": 1,
+      "cn_summary": "关注点：Celine Spring 2027: Real Clothes, Worn Spontaneously。“We're pretty intuitive, and I think that's how we roll,\" Michael Rider said about his creative method.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Alaïa Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/azzedine-alaia",
+      "summary": "",
+      "published": "Sun, 04 Oct 2026 06:35:06 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Alaïa Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Guests Raised a Martini to Maestro Gustavo Dudamel’s Arrival at the New York Philharmonic",
+      "link": "https://www.vogue.com/slideshow/gustavo-dudamels-new-york-philharmonic-gala-dinner-september-2026",
+      "summary": "The changing of the guard at the New York Philharmonic, the oldest of America’s “Big Five” orchestras, is always a momentous occasion for the city, all the more so when the incoming music director is among the most celebrated conductors of his generation. On W",
+      "published": "Sat, 03 Oct 2026 20:34:23 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Guests Raised a Martini to Maestro Gustavo Dudamel’s Arrival at the New York Philharmonic。The changing of the guard at the New York Philharmonic, the oldest of America’s “Big Five”。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "At the New York City Ballet Fall Fashion Gala, Stevie Nicks and Sarah Jessica Parker Brought Down the House",
+      "link": "https://www.vogue.com/slideshow/nyc-ballet-fall-fashion-gala-2026",
+      "summary": "In the 14 years since Sarah Jessica Parker established the New York City Ballet’s Fall Fashion Gala, the benefit has raised more than $40 million, drawing the biggest names across the arts, fashion, and entertainment together in support of the world-renowned d",
+      "published": "Sat, 03 Oct 2026 19:23:28 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：At the New York City Ballet Fall Fashion Gala, Stevie Nicks and Sarah Jessica Parker Brought Down the House。In the 14 years since Sarah Jessica Parker established the New York City。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "At the Victoria Beckham Spring ’27 Show, a New Product Is Revealed",
+      "link": "https://www.vogue.com/article/at-the-victoria-beckham-spring-27-show-a-new-product-is-revealed",
+      "summary": "Coming in (red) hot: a new lipstick from Victoria Beckham.",
+      "published": "Sat, 03 Oct 2026 19:11:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：At the Victoria Beckham Spring ’27 Show, a New Product Is Revealed。Coming in (red) hot: a new lipstick from Victoria Beckham.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "For Her Fashion Week Debut, Heidi Klum’s Daughter Lou Takes a Style Cue From Mom",
+      "link": "https://www.vogue.com/article/heidi-klum-daughter-lou-vivienne-westwood-paris-fashion-week",
+      "summary": "Heidi Klum and daughter Lou put their own spins on the peplum for a mother-daughter moment at Vivienne Westwood.",
+      "published": "Sat, 03 Oct 2026 19:08:10 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：For Her Fashion Week Debut, Heidi Klum’s Daughter Lou Takes a Style Cue From Mom。Heidi Klum and daughter Lou put their own spins on the peplum for a mother-daughter moment at Vivie。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "“A Bunch of Designers” Bows in Paris",
+      "link": "https://www.vogue.com/article/a-bunch-of-designers-bows-in-paris",
+      "summary": "Richemont unveils a pop-up in the Marais for six emerging talents.",
+      "published": "Sat, 03 Oct 2026 18:14:58 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：“A Bunch of Designers” Bows in Paris。Richemont unveils a pop-up in the Marais for six emerging talents.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Marine Serre Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/marine-serre",
+      "summary": "",
+      "published": "Sun, 04 Oct 2026 06:35:06 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Marine Serre Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Best Street Style Photos From the Spring 2027 Shows in Paris",
+      "link": "https://www.vogue.com/slideshow/the-best-street-style-photos-from-the-spring-2027-shows-in-paris",
+      "summary": "Phil Oh photographs the best dressed guests at the spring 2027 shows in Paris.",
+      "published": "Sat, 03 Oct 2026 17:50:01 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Best Street Style Photos From the Spring 2027 Shows in Paris。Phil Oh photographs the best dressed guests at the spring 2027 shows in Paris.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Ann Demeulemeester Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ann-demeulemeester",
+      "summary": "",
+      "published": "Sun, 04 Oct 2026 06:35:06 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Ann Demeulemeester Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Americans in Paris: Inside the Annual CFDA/Vogue Fashion Fund Celebration of Homegrown Talent",
+      "link": "https://www.vogue.com/slideshow/americans-in-paris-cfda-vogue-fashion-fund-celebration-2026",
+      "summary": "Vogue’s head of editorial content Chloe Malle, model Paloma Elsesser, and newly appointed Chair of Friends of the CFDA Allison Sarofim hosted a cocktail reception to inaugurate the latest edition of Americans in Paris, welcoming guests to the showroom’s new ho",
+      "published": "Sat, 03 Oct 2026 17:16:37 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Americans in Paris: Inside the Annual CFDA/Vogue Fashion Fund Celebration of Homegrown Talent。Vogue’s head of editorial content Chloe Malle, model Paloma Elsesser, and newly appoin。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Best Behind-the-Scenes Photos From the Spring 2027 Shows in Paris",
+      "link": "https://www.vogue.com/slideshow/the-best-behind-the-scenes-photos-from-the-spring-2027-shows-in-paris",
+      "summary": "Acielle Tanbetova photographs the best backstage moments from the spring 2027 shows in Paris.",
+      "published": "Sat, 03 Oct 2026 17:09:50 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Best Behind-the-Scenes Photos From the Spring 2027 Shows in Paris。Acielle Tanbetova photographs the best backstage moments from the spring 2027 shows in Paris.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Comme des Garçons Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/comme-des-garcons",
+      "summary": "",
+      "published": "Sun, 04 Oct 2026 06:35:06 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Comme des Garçons Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Elie Saab Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/elie-saab",
+      "summary": "",
+      "published": "Sun, 04 Oct 2026 06:35:06 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Elie Saab Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "After a Decade-Plus of Chasing Trends, I Finally Found My Uniform on Savile Row",
+      "link": "https://www.vogue.com/article/savile-row-suit-woman-uniform-10-03-2026",
+      "summary": "My goal: a single garment to get me through formal occasions during the festive season, rather than multiple evening dresses which take up precious New York City closet real estate.",
+      "published": "Sat, 03 Oct 2026 15:13:10 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：After a Decade-Plus of Chasing Trends, I Finally Found My Uniform on Savile Row。My goal: a single garment to get me through formal occasions during the festive season, rather than 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "032c Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/032c",
+      "summary": "",
+      "published": "Sun, 04 Oct 2026 06:35:06 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：032c Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Hermès Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/hermes",
+      "summary": "",
+      "published": "Sun, 04 Oct 2026 06:35:06 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Hermès Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Andreas Kronthaler for Vivienne Westwood Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/andreas-kronthaler-for-vivienne-westwood",
+      "summary": "",
+      "published": "Sun, 04 Oct 2026 06:35:06 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Andreas Kronthaler for Vivienne Westwood Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Could “Dry Conditioning” Give You Healthier, Shinier Hair?",
+      "link": "https://www.vogue.com/article/dry-conditioning-healthier-shinier-hair",
+      "summary": "Hairstylist Xavier Velasquez is a fan of the trend—which can help maintain color on dyed hair and cause less frizz!—but says it’s not for everybody.",
+      "published": "Sat, 03 Oct 2026 12:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Could “Dry Conditioning” Give You Healthier, Shinier Hair?。Hairstylist Xavier Velasquez is a fan of the trend—which can help maintain color on dyed hair and cause less frizz!—but s。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Noir Kei Ninomiya Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/noir-kei-ninomiya",
+      "summary": "",
+      "published": "Sun, 04 Oct 2026 06:35:06 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Noir Kei Ninomiya Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Queen Letizia of Spain’s Engagement Ring Is Perfect for the Non-Traditional Bride",
+      "link": "https://www.vogue.com/article/queen-letizia-of-spain-engagement-ring",
+      "summary": "Queen Letizia of Spain’s engagement ring goes against tradition thanks to its channel-set design. Here’s everything to know about the royal’s rarely seen ring.",
+      "published": "Sat, 03 Oct 2026 11:38:24 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Queen Letizia of Spain’s Engagement Ring Is Perfect for the Non-Traditional Bride。Queen Letizia of Spain’s engagement ring goes against tradition thanks to its channel-set design. 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Hailey Bieber Finally Gets the ‘French Show With the Good Lighting’ Treatment",
+      "link": "https://www.vogue.com/article/hailey-bieber-quotidien-appearance",
+      "summary": "Hailey Bieber put Quotidien’s famously flattering lighting to the ultimate test—with a first look at what might be Rhode’s next big beauty launch.",
+      "published": "Sat, 03 Oct 2026 11:28:56 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Hailey Bieber Finally Gets the ‘French Show With the Good Lighting’ Treatment。Hailey Bieber put Quotidien’s famously flattering lighting to the ultimate test—with a first look at w。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Selena Gomez Gives the Merlot Manicure an Edgy Upgrade for Fall",
+      "link": "https://www.vogue.com/article/selena-gomez-merlot-manicure-fall",
+      "summary": "Fall’s trending nail shade gets a punky edge care of Selena Gomez and her longtime nail artist Tom Bachik.",
+      "published": "Sat, 03 Oct 2026 11:02:43 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Selena Gomez Gives the Merlot Manicure an Edgy Upgrade for Fall。Fall’s trending nail shade gets a punky edge care of Selena Gomez and her longtime nail artist Tom Bachik.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-october-3",
+      "summary": "From Daisy Edgar-Jones’s cool ’90s inspired lip to Paloma Elsesser’s terracotta eye—this week, the best of the beauty world played with all sides of the color wheel.",
+      "published": "Sat, 03 Oct 2026 10:22:46 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Beauty Marks: The Best Beauty Looks of the Week。From Daisy Edgar-Jones’s cool ’90s inspired lip to Paloma Elsesser’s terracotta eye—this week, the best of the beauty world played w。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The 26 Best Throw Blankets for Every Style",
+      "link": "https://www.vogue.com/article/best-throw-blanket",
+      "summary": "Alpaca, wool, cashmere, cotton—the best throw blankets can change a room. Shop our favorites from West Elm, Jenni Kayne, Tekla, and more.",
+      "published": "Sat, 03 Oct 2026 10:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The 26 Best Throw Blankets for Every Style。Alpaca, wool, cashmere, cotton—the best throw blankets can change a room. Shop our favorites from West Elm, Jenni Kayne, Tekla, and more.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Junya Watanabe Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/junya-watanabe",
+      "summary": "",
+      "published": "Sun, 04 Oct 2026 06:35:06 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Junya Watanabe Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
       "title": "23 Thoughts I Had About Season 13, Episode 6 of ‘American Horror Story’",
@@ -64,256 +314,6 @@
       "tags": [],
       "score": 0,
       "cn_summary": "关注点：23 Thoughts I Had About Season 13, Episode 6 of ‘American Horror Story’。Ugh, I love witchcraft.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "26 Thoughts I Had About Season 13, Episode 5 of ‘American Horror Story’",
-      "link": "https://www.vogue.com/article/26-thoughts-i-had-about-season-13-episode-5-of-american-horror-story",
-      "summary": "We love a cursed surprise tramp stamp, don’t we, folks?",
-      "published": "Fri, 02 Oct 2026 23:45:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：26 Thoughts I Had About Season 13, Episode 5 of ‘American Horror Story’。We love a cursed surprise tramp stamp, don’t we, folks?。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "37 Thoughts I Had About Season 13, Episode 4 of 'American Horror Story'",
-      "link": "https://www.vogue.com/article/37-thoughts-i-had-about-season-13-episode-4-of-american-horror-story",
-      "summary": "Not the Constance/Cordelia mother-off!",
-      "published": "Fri, 02 Oct 2026 23:30:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：37 Thoughts I Had About Season 13, Episode 4 of 'American Horror Story'。Not the Constance/Cordelia mother-off!。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Marin Ireland Went Deep With Her Play ‘Pre-Existing Condition’",
-      "link": "https://www.vogue.com/article/marin-ireland-pre-existing-condition-play-interview",
-      "summary": "Now in its second New York run, “Pre-Existing Condition” is set to play at the Greenwich House Theater through January 8.",
-      "published": "Fri, 02 Oct 2026 22:32:11 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Marin Ireland Went Deep With Her Play ‘Pre-Existing Condition’。Now in its second New York run, “Pre-Existing Condition” is set to play at the Greenwich House Theater through Januar。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Polo Ralph Lauren Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/polo-ralph-lauren",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 06:03:39 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Polo Ralph Lauren Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "On the Podcast: Julian Klausner on Designing His Best Dries Van Noten Collection Yet",
-      "link": "https://www.vogue.com/article/on-the-podcast-julian-klausner-on-designing-his-best-dries-van-noten-collection-yet",
-      "summary": "About 48 hours ago in Paris, Julian Klausner presented his spring 2027 Dries Van Noten ready-to-wear collection. For this Friday’s episode of “The Run-Through,” Nicole meets Klausner in the Vogue France offices to discuss the inspiration behind the show, his j",
-      "published": "Fri, 02 Oct 2026 21:30:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：On the Podcast: Julian Klausner on Designing His Best Dries Van Noten Collection Yet。About 48 hours ago in Paris, Julian Klausner presented his spring 2027 Dries Van Noten ready-to。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Caroline Hu Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/caroline-hu",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 06:03:39 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Caroline Hu Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "10 Paris Fashion Week Outfits to Recreate Now",
-      "link": "https://www.vogue.com/article/fashion-week-trends",
-      "summary": "From cool everyday looks to statement ensembles, recreate the season’s top fashion week outfits, inspired by the street style scene at Paris Fashion Week.",
-      "published": "Fri, 02 Oct 2026 20:58:28 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：10 Paris Fashion Week Outfits to Recreate Now。From cool everyday looks to statement ensembles, recreate the season’s top fashion week outfits, inspired by the street style scene at。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Off the Runway, Into Sneakers: The Model Off-Duty Shoe Seen Across Fashion Month",
-      "link": "https://www.vogue.com/article/sneaker-outfits-model-off-duty",
-      "summary": "Off the runway, sneakers take the lead. Take a cue from how models off-duty style the classic shoe.",
-      "published": "Fri, 02 Oct 2026 19:41:59 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Off the Runway, Into Sneakers: The Model Off-Duty Shoe Seen Across Fashion Month。Off the runway, sneakers take the lead. Take a cue from how models off-duty style the classic shoe.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Léa Seydoux on ‘The Unknown,’ Beauty, Fame, and Acting",
-      "link": "https://www.vogue.com/article/lea-seydoux-the-unknown-premiere-interview",
-      "summary": "Léa Seydoux talks Arthur Harari’s “The Unknown,” her approach to acting, and why she’s drawn to films about identity, mystery, and the unknowable.",
-      "published": "Fri, 02 Oct 2026 19:23:58 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Léa Seydoux on ‘The Unknown,’ Beauty, Fame, and Acting。Léa Seydoux talks Arthur Harari’s “The Unknown,” her approach to acting, and why she’s drawn to films about identity, mystery。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Gifts Under $100: Vogue-Worthy Presents for Any Occasion",
-      "link": "https://www.vogue.com/article/best-gifts-under-100",
-      "summary": "These are the best gifts under $100 to give loved ones this season. Shop gift ideas from fashion to luxury beauty products to home decor, all under $100.",
-      "published": "Fri, 02 Oct 2026 19:19:12 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Gifts Under $100: Vogue-Worthy Presents for Any Occasion。These are the best gifts under $100 to give loved ones this season. Shop gift ideas from fashion to luxury beauty products 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "This DIY Boardwalk Style Is Getting the High-Fashion Treatment on the Spring 2027 Runways",
-      "link": "https://www.vogue.com/article/airbrushing-spring-2027-runways",
-      "summary": "Fashion loves an unexpected subversion. On the spring 2027 runways, airbrushing—usually reserved for chintzy tourist T-shirts—is the crafty technique of the season.",
-      "published": "Fri, 02 Oct 2026 19:05:53 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：This DIY Boardwalk Style Is Getting the High-Fashion Treatment on the Spring 2027 Runways。Fashion loves an unexpected subversion. On the spring 2027 runways, airbrushing—usually re。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Jerome Robbins’s Opus Jazz Gets a Miami Makeover",
-      "link": "https://www.vogue.com/article/miami-city-ballet-opuz-jazz-gapstudio",
-      "summary": "For Gonzalo Garcia’s first fully programmed season at Miami City Ballet, the 1958 classic is getting a new look courtesy of GapStudio’s Zac Posen—complete with denim, sneakers, and plenty of New York swagger.",
-      "published": "Fri, 02 Oct 2026 19:00:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Jerome Robbins’s Opus Jazz Gets a Miami Makeover。For Gonzalo Garcia’s first fully programmed season at Miami City Ballet, the 1958 classic is getting a new look courtesy of GapStud。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Victoria Beckham Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/victoria-beckham",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 06:03:39 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Victoria Beckham Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Discover the Best Dresses for Every October Occasion",
-      "link": "https://www.vogue.com/article/dresses",
-      "summary": "Explore the best dresses of the month, from slip dresses to practical everyday knit styles. Shop a wide selection of handpicked Vogue dresses.",
-      "published": "Fri, 02 Oct 2026 18:28:01 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Discover the Best Dresses for Every October Occasion。Explore the best dresses of the month, from slip dresses to practical everyday knit styles. Shop a wide selection of handpicked。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "20+ Best Gifts for Men Who Have Everything, From Tech to Fashion",
-      "link": "https://www.vogue.com/article/gifts-for-men",
-      "summary": "Take the stress out of holiday shopping with the best gifts for men. Shop timeless gifts to find the perfect gift for the homebodies and chefs in your life.",
-      "published": "Fri, 02 Oct 2026 18:26:55 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：20+ Best Gifts for Men Who Have Everything, From Tech to Fashion。Take the stress out of holiday shopping with the best gifts for men. Shop timeless gifts to find the perfect gift f。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Giuseppe Di Morabito Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/giuseppe-di-morabito",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 06:03:39 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Giuseppe Di Morabito Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Brooke Eby Chronicled Her Own Death Online to Find a Cure",
-      "link": "https://www.vogue.com/article/brooke-eby-als-tribute",
-      "summary": "The content creator, who was diagnosed with ALS, has passed away at age 37. She shared her own devastating decline—all with a sense of humor—on social media with the hopes of finding a cure for the untreatable disease.",
-      "published": "Fri, 02 Oct 2026 17:50:16 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Brooke Eby Chronicled Her Own Death Online to Find a Cure。The content creator, who was diagnosed with ALS, has passed away at age 37. She shared her own devastating decline—all wit。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Yohji Yamamoto Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/yohji-yamamoto",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 06:03:39 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Yohji Yamamoto Spring 2027 Ready-to-Wear。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Shop Our Favorite Celebrity Looks of the Week",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "published": "Fri, 02 Oct 2026 17:32:24 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Shop Our Favorite Celebrity Looks of the Week。Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "In Their ‘Much Ado About Nothing,’ Tom Hiddleston and Hayley Atwell Take the Bard to the Dancefloor",
-      "link": "https://www.vogue.com/article/much-ado-about-nothing-broadway-revival",
-      "summary": "It’s been more than four decades since Shakespeare’s comedy of errors graced a major New York stage, and Lloyd’s revival arrives at Winter Garden Theatre this autumn from a sellout run in London.",
-      "published": "Fri, 02 Oct 2026 17:01:21 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：In Their ‘Much Ado About Nothing,’ Tom Hiddleston and Hayley Atwell Take the Bard to the Dancefloor。It’s been more than four decades since Shakespeare’s comedy of errors graced a m。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "The Best Behind-the-Scenes Photos From the Spring 2027 Shows in Paris",
-      "link": "https://www.vogue.com/slideshow/the-best-behind-the-scenes-photos-from-the-spring-2027-shows-in-paris",
-      "summary": "Acielle Tanbetova photographs the best backstage moments from the spring 2027 shows in Paris.",
-      "published": "Fri, 02 Oct 2026 17:00:09 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：The Best Behind-the-Scenes Photos From the Spring 2027 Shows in Paris。Acielle Tanbetova photographs the best backstage moments from the spring 2027 shows in Paris.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "The Vogue Business People Moves Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-      "published": "Fri, 02 Oct 2026 16:52:20 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：The Vogue Business People Moves Tracker。Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "This Wedding Weekend at an Irish Manor Featured Bespoke Looks, Plenty of Vintage, and a Pajama Party",
-      "link": "https://www.vogue.com/slideshow/lauren-huff-and-zach-grablich-wedding",
-      "summary": "Noah Zgralich and Lauren Huff held an Adare Manor wedding weekend filled with golf and pub crawls. The bride wore looks from House of Gilles, Ralph Lauren, Elie Saab, and Alexander McQueen throughout the celebration.",
-      "published": "Fri, 02 Oct 2026 16:47:03 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：This Wedding Weekend at an Irish Manor Featured Bespoke Looks, Plenty of Vintage, and a Pajama Party。Noah Zgralich and Lauren Huff held an Adare Manor wedding weekend filled with g。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Trending ’80s Haircuts, As Seen on Celebrities",
-      "link": "https://www.vogue.com/article/80s-hair-inspiration",
-      "summary": "The 1980s are coming back! Here, Vogue has collected some of the most glamorous looks from the decade.",
-      "published": "Fri, 02 Oct 2026 16:42:50 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Trending ’80s Haircuts, As Seen on Celebrities。The 1980s are coming back! Here, Vogue has collected some of the most glamorous looks from the decade.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Is Getting Back With an Ex Ever a Good Idea?",
-      "link": "https://www.vogue.com/article/is-getting-back-with-an-ex-ever-a-good-idea",
-      "summary": "Don’t do it because you’re lonely, or because dating has become exhausting—and certainly not because your time on the apps has convinced you humanity is doomed.",
-      "published": "Fri, 02 Oct 2026 16:15:08 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Is Getting Back With an Ex Ever a Good Idea?。Don’t do it because you’re lonely, or because dating has become exhausting—and certainly not because your time on the apps has convince。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     }
   ]
 }
