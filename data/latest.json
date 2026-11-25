@@ -1,8 +1,13 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24 10:42:59",
-  "lead_text": "今日样本中趋势分布较为分散，建议关注高频词与高分报道的交叉区域。",
-  "top_keywords": [],
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25 09:37:52",
+  "lead_text": "从今日样本看，Y2K热度靠前；建议优先跟踪相关品牌动作、秀场叙事与商业转化信号。",
+  "top_keywords": [
+    [
+      "Y2K",
+      1
+    ]
+  ],
   "items": [
     {
       "title": "Miu Miu 2026春夏秀场中的复古运动风重构",
@@ -20,6 +25,19 @@
       "cn_summary": "关注点：Miu Miu 2026春夏秀场中的复古运动风重构。聚焦廓形、材质与商业化潜力。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
+      "title": "How the Stars of Netflix Hit ‘The Body’ Perfected Their Y2K Aesthetic",
+      "link": "https://wwd.com/pop-culture/celebrity-news/the-body-netflix-y2k-hair-makeup-beauty-1239462770/",
+      "summary": "Makeup department head Kristin Wayne and hair department head Francine Francis-Lee tell WWD how they created the show's early 2000s beauty looks, from bouncy blowouts to glossy lips.",
+      "published": "Wed, 25 Nov 2026 07:00:00 +000",
+      "source": "WWD",
+      "tags": [
+        "趋势:Y2K",
+        "风格:Y2K"
+      ],
+      "score": 4,
+      "cn_summary": "关注点：How the Stars of Netflix Hit ‘The Body’ Perfected Their Y2K Aesthetic。Makeup department head Kristin Wayne and hair department head Francine Francis-Lee tell WWD how they created t。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
       "title": "The Year Fashion Fakes Became Too Real",
       "link": "https://www.vogue.com/article/the-year-fashion-fakes-became-too-real",
       "summary": "From Jensen Huang’s imaginary Saint Laurent jacket to AI-distorted designer clothes on Ssense, fashion’s synthetic reality problem is becoming impossible to ignore. For luxury brands, the stakes extend far beyond a viral joke.",
@@ -32,28 +50,266 @@
       "cn_summary": "关注点：The Year Fashion Fakes Became Too Real。From Jensen Huang’s imaginary Saint Laurent jacket to AI-distorted designer clothes on Ssense, fashion’s synthetic reality problem is becomin。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Miley Cyrus and Maxx Morando Are Married! See All the Photos Here",
-      "link": "https://www.vogue.com/article/miley-cyrus-and-maxx-morando-are-married",
-      "summary": "Miley Cyrus just shared a new drop of photos from her wedding to Maxx Morando, including a sparkly black Saint Laurent mini dress—see all the photos here.",
-      "published": "Mon, 23 Nov 2026 19:34:53 +000",
-      "source": "Vogue",
+      "title": "Meet Frida, Milan’s New Address for Vintage Findings",
+      "link": "https://wwd.com/business-news/retail/frida-vintage-store-milan-archival-fashion-accessories-design-art-1239463703/",
+      "summary": "After a decade at Prada under her belt, Daiana Giorgi is expanding her network of Frida stores with a new Wunderkammer hidden in plain sight.",
+      "published": "Wed, 25 Nov 2026 05:00:00 +000",
+      "source": "WWD",
       "tags": [
-        "品牌:Saint Laurent"
+        "品牌:Prada"
       ],
       "score": 1,
-      "cn_summary": "关注点：Miley Cyrus and Maxx Morando Are Married! See All the Photos Here。Miley Cyrus just shared a new drop of photos from her wedding to Maxx Morando, including a sparkly black Saint Lau。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：Meet Frida, Milan’s New Address for Vintage Findings。After a decade at Prada under her belt, Daiana Giorgi is expanding her network of Frida stores with a new Wunderkammer hidden i。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "Author Josh Silver’s Brooch Game? It’s Strong",
-      "link": "https://www.vogue.com/article/author-josh-silver-celine-national-book-awards",
-      "summary": "“I don’t get to clean up like this very often,” says the author, who attended the National Book Awards in a snazzy Celine suit.",
-      "published": "Mon, 23 Nov 2026 18:36:25 +000",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+      "published": "Wed, 25 Nov 2026 08:30:00 +000",
       "source": "Vogue",
-      "tags": [
-        "品牌:Celine"
-      ],
-      "score": 1,
-      "cn_summary": "关注点：Author Josh Silver’s Brooch Game? It’s Strong。“I don’t get to clean up like this very often,” says the author, who attended the National Book Awards in a snazzy Celine suit.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Vogue Business People Moves Tracker。Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "30 Classic Photos of John F. Kennedy Jr., in Honor of His 66th Birthday",
+      "link": "https://www.vogue.com/slideshow/30-classic-photos-of-john-f-kennedy-jr",
+      "summary": "We’re taking a look back at some of the images that helped define the presidential scion’s public persona.",
+      "published": "Wed, 25 Nov 2026 06:04:56 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：30 Classic Photos of John F. Kennedy Jr., in Honor of His 66th Birthday。We’re taking a look back at some of the images that helped define the presidential scion’s public persona.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Who Topped the 2026 Vogue Business Watch Index?",
+      "link": "https://www.vogue.com/article/who-topped-the-2026-vogue-business-watch-index",
+      "summary": "From K-pop to cultural nuance, standing out in a crowded market requires a granular approach. But who succeeded?",
+      "published": "Wed, 25 Nov 2026 05:30:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Who Topped the 2026 Vogue Business Watch Index?。From K-pop to cultural nuance, standing out in a crowded market requires a granular approach. But who succeeded?。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "K-Pop Stars, Art and Unexpected Collabs: Inside the 2026 Watch Innovation Playbook",
+      "link": "https://www.vogue.com/article/k-pop-stars-art-and-unexpected-collabs-inside-the-2026-watch-innovation-playbook",
+      "summary": "Brands such as Audemars Piguet, Longines, and Montblanc have leveraged collaborations and pop culture this year to reach new audiences.",
+      "published": "Wed, 25 Nov 2026 05:30:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：K-Pop Stars, Art and Unexpected Collabs: Inside the 2026 Watch Innovation Playbook。Brands such as Audemars Piguet, Longines, and Montblanc have leveraged collaborations and pop cul。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Why Luxury Watch Brands Are Still Struggling Online",
+      "link": "https://www.vogue.com/article/why-luxury-watch-brands-are-still-struggling-online",
+      "summary": "Cartier tops the digital ranking, but the brands that outperform on social still lag in online-to-offline integration.",
+      "published": "Wed, 25 Nov 2026 05:30:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Why Luxury Watch Brands Are Still Struggling Online。Cartier tops the digital ranking, but the brands that outperform on social still lag in online-to-offline integration.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Gifting, Resale and the Power of Experiences: The Watch Industry Is in Its Customer Service Era",
+      "link": "https://www.vogue.com/article/gifting-resale-and-the-power-of-experiences-the-watch-industry-is-in-its-customer-service-era",
+      "summary": "Despite pressure from higher gold costs and watchmakers raising prices, consumer sentiment and perceived value around watches are on the rise. How did they do it?",
+      "published": "Wed, 25 Nov 2026 05:30:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Gifting, Resale and the Power of Experiences: The Watch Industry Is in Its Customer Service Era。Despite pressure from higher gold costs and watchmakers raising prices, consumer sen。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "8 Best Gua Sha Tools to Expertly Sculpt, Lift, and Tone",
+      "link": "https://www.vogue.com/article/gua-sha-tools",
+      "summary": "From Lanshin, Osea, and more, the best gua sha tools can contour the skin, boost circulation, and promote lymphatic drainage to reveal a glowing complexion.",
+      "published": "Wed, 25 Nov 2026 02:31:52 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：8 Best Gua Sha Tools to Expertly Sculpt, Lift, and Tone。From Lanshin, Osea, and more, the best gua sha tools can contour the skin, boost circulation, and promote lymphatic drainage。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The New Rules of Complexion Makeup",
+      "link": "https://www.vogue.com/article/complexion-makeup-tints-beauty-board",
+      "summary": "The Vogue Beauty Board weighs in on the new era of complexion makeup. From skin tints to full-coverage foundations, expect better shade ranges, lightweight textures, and your-skin-but-better finishes.",
+      "published": "Tue, 24 Nov 2026 22:57:45 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The New Rules of Complexion Makeup。The Vogue Beauty Board weighs in on the new era of complexion makeup. From skin tints to full-coverage foundations, expect better shade ranges, l。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Garment Pre-Fall 2027",
+      "link": "https://www.vogue.com/fashion-shows/pre-fall-2027/the-garment",
+      "summary": "",
+      "published": "Wed, 25 Nov 2026 09:35:12 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Garment Pre-Fall 2027。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "For Malin Åkerman, ‘The Hunting Wives’ Is (Still) a Dream Come True",
+      "link": "https://www.vogue.com/article/malin-akerman-the-hunting-wives-season-2-interview",
+      "summary": "Ahead of the release of “The Hunting Wives” season two, Åkerman talks to Vogue about the Margo Bankses in her own life, performing with Brittany Snow at the Las Culturistas Culture Awards, and why it’s the perfect time to watch a show about lesbians in Texas.",
+      "published": "Tue, 24 Nov 2026 21:45:33 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：For Malin Åkerman, ‘The Hunting Wives’ Is (Still) a Dream Come True。Ahead of the release of “The Hunting Wives” season two, Åkerman talks to Vogue about the Margo Bankses in her ow。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Baum und Pferdgarten Pre-Fall 2027",
+      "link": "https://www.vogue.com/fashion-shows/pre-fall-2027/baum-und-pferdgarten",
+      "summary": "",
+      "published": "Wed, 25 Nov 2026 09:35:12 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Baum und Pferdgarten Pre-Fall 2027。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "How to Pack for Vegas Like a Vogue Editor",
+      "link": "https://www.vogue.com/article/what-to-wear-in-las-vegas",
+      "summary": "Headed West for the weekend? Here’s what to wear in Vegas, according to Vogue’s Lisa Aiken—from red velvet to sequins.",
+      "published": "Tue, 24 Nov 2026 21:36:26 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：How to Pack for Vegas Like a Vogue Editor。Headed West for the weekend? Here’s what to wear in Vegas, according to Vogue’s Lisa Aiken—from red velvet to sequins.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Is Jensen Huang’s Humble Cotton Coat His Way of Saying ‘I’m Sorry’?",
+      "link": "https://www.vogue.com/article/jensen-huang-nvidia-return-jacket",
+      "summary": "When the tech CEO Jensen Huang returned to his beleaguered company, he ditched his former uniform to convey a softer image.",
+      "published": "Tue, 24 Nov 2026 20:52:31 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Is Jensen Huang’s Humble Cotton Coat His Way of Saying ‘I’m Sorry’?。When the tech CEO Jensen Huang returned to his beleaguered company, he ditched his former uniform to convey a so。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "“Do You Like It? Would You Wear It? Would You Buy It?”—An Oral History of Marc by Marc Jacobs",
+      "link": "https://www.vogue.com/article/marc-by-marc-jacobs-oral-history-2026",
+      "summary": "On the 25th anniversary of the now-shuttered label, we look at the influence and lasting legacy of Marc by Marc Jacobs, told by the people who shaped it.",
+      "published": "Tue, 24 Nov 2026 19:54:13 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：“Do You Like It? Would You Wear It? Would You Buy It?”—An Oral History of Marc by Marc Jacobs。On the 25th anniversary of the now-shuttered label, we look at the influence and lasti。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Inside WNBA Star Cameron Brink and Ben Felter’s Stanford Wedding—and Her Four Bridal Looks",
+      "link": "https://www.vogue.com/slideshow/cameron-brink-and-ben-felter-wedding",
+      "summary": "Six years after an “athlete mingle survey” brought them together during Covid, the WNBA star Cameron Brink and the robotics founder Ben Felter tied the knot at Stanford’s Memorial Church before celebrating along the California coast in Half Moon Bay.",
+      "published": "Tue, 24 Nov 2026 19:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Inside WNBA Star Cameron Brink and Ben Felter’s Stanford Wedding—and Her Four Bridal Looks。Six years after an “athlete mingle survey” brought them together during Covid, the WNBA s。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Best Everyday Sneakers, According to Vogue Editors",
+      "link": "https://www.vogue.com/article/vogue-editors-everyday-sneakers",
+      "summary": "Looking for a new pair of sneakers? Vogue editors share their favorite pairs, from Adidas to Nike to Dries Van Noten.",
+      "published": "Tue, 24 Nov 2026 18:48:08 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Best Everyday Sneakers, According to Vogue Editors。Looking for a new pair of sneakers? Vogue editors share their favorite pairs, from Adidas to Nike to Dries Van Noten.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Vogue Book Club’s Next Read Is ‘Mrs. Dalloway’",
+      "link": "https://www.vogue.com/article/vogue-book-club-mrs-dalloway-announcement",
+      "summary": "We’ll be celebrating Virginia Woolf’s classic novel from December 14–18...otherwise known as Woolf Week.",
+      "published": "Tue, 24 Nov 2026 18:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Vogue Book Club’s Next Read Is ‘Mrs. Dalloway’。We’ll be celebrating Virginia Woolf’s classic novel from December 14–18...otherwise known as Woolf Week.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Demellier Black Friday Sale 2026, Buy A-Lister Handbags for Less",
+      "link": "https://www.vogue.com/article/black-friday-demellier-11-24-2026",
+      "summary": "Celeb-favorite handbag brand Demellier is offering 20% off all its bestsellers this Black Friday. Shop styles seen on EmRata, Katie Holmes, and Kate Middleton.",
+      "published": "Tue, 24 Nov 2026 17:54:21 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Demellier Black Friday Sale 2026, Buy A-Lister Handbags for Less。Celeb-favorite handbag brand Demellier is offering 20% off all its bestsellers this Black Friday. Shop styles seen 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "For Geena Meszaros, ‘The Body’ Has Been a Revelation",
+      "link": "https://www.vogue.com/article/geena-meszaros-the-body-interview",
+      "summary": "The star of Netflix’s latest hit show talks fandom, bleached brows, and what’s to come after “The Body.”",
+      "published": "Tue, 24 Nov 2026 17:46:01 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：For Geena Meszaros, ‘The Body’ Has Been a Revelation。The star of Netflix’s latest hit show talks fandom, bleached brows, and what’s to come after “The Body.”。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Katy Perry and Justin Trudeau Bring California and Canada to Venice",
+      "link": "https://www.vogue.com/article/katy-perry-justin-trudeau-opposites-attract-venice",
+      "summary": "Today, the California Gurl and Mr. Canada walked through the Italian city in their prime minister-and-the-showgirl best.",
+      "published": "Tue, 24 Nov 2026 16:42:56 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Katy Perry and Justin Trudeau Bring California and Canada to Venice。Today, the California Gurl and Mr. Canada walked through the Italian city in their prime minister-and-the-showgi。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "This Creative Couple Hosted a New Orleans Wedding Complete With a Crawfish Boil and a Masquerade After-Party",
+      "link": "https://www.vogue.com/slideshow/lily-monbouquette-and-eric-bach-wedding",
+      "summary": "Jewelry designer Lily Monbouquette wore her own bridal jewelry line and designs by Wed Studio and Wiederhoeft for her wedding to Eric Bach, which featured a sculpture garden ceremony, a candlelit reception, and a second-line parade through the New Orleans stre",
+      "published": "Tue, 24 Nov 2026 13:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：This Creative Couple Hosted a New Orleans Wedding Complete With a Crawfish Boil and a Masquerade After-Party。Jewelry designer Lily Monbouquette wore her own bridal jewelry line and。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Big Bag Theory: 2026 Was for the Schleppers",
+      "link": "https://www.vogue.com/slideshow/2026-big-bag-revival-celebrity-style",
+      "summary": "This year was for those of us who need a purse that fits everything you could ever need and more: a book or two, a water bottle, perhaps a sweater, and, of course, a bottom lined with emotional support receipts.",
+      "published": "Tue, 24 Nov 2026 11:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Big Bag Theory: 2026 Was for the Schleppers。This year was for those of us who need a purse that fits everything you could ever need and more: a book or two, a water bottle, per。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "How to Style Straight-Leg Jeans This Winter",
+      "link": "https://www.vogue.com/article/straight-leg-jeans-outfits",
+      "summary": "Straight-leg jeans are a longtime street style favorite, but they also happen to be trending on the runways. Here’s how to style straight-leg jeans for winter.",
+      "published": "Tue, 24 Nov 2026 11:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：How to Style Straight-Leg Jeans This Winter。Straight-leg jeans are a longtime street style favorite, but they also happen to be trending on the runways. Here’s how to style straigh。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "52 Best Wedding After-Party Dresses for a Night to Remember 2026",
+      "link": "https://www.vogue.com/slideshow/wedding-after-party-dresses",
+      "summary": "From sparkling to embellished to feathered, the best wedding after-party dresses will have you looking and feeling your best all night long.",
+      "published": "Tue, 24 Nov 2026 11:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：52 Best Wedding After-Party Dresses for a Night to Remember 2026。From sparkling to embellished to feathered, the best wedding after-party dresses will have you looking and feeling 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "25+ Best Bucket Bags Perfect for Everyday Wear",
+      "link": "https://www.vogue.com/slideshow/best-bucket-bags",
+      "summary": "On the hunt for a new handbag? The best bucket bags of the season deliver. Shop elevated everyday options from J.Crew, Coach, Cuyana, The Row, and more.",
+      "published": "Tue, 24 Nov 2026 11:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：25+ Best Bucket Bags Perfect for Everyday Wear。On the hunt for a new handbag? The best bucket bags of the season deliver. Shop elevated everyday options from J.Crew, Coach, Cuyana,。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
       "title": "The Vogue Business AI Tracker",
@@ -64,256 +320,6 @@
       "tags": [],
       "score": 0,
       "cn_summary": "关注点：The Vogue Business AI Tracker。Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Meet ‘Dune: Part Three’’s Ida Brooke, the Young Brit Denis Villeneuve Picked to Play Zendaya’s Daughter",
-      "link": "https://www.vogue.com/article/ida-brooke-dune-3-interview",
-      "summary": "Vogue talks to the 18-year-old starlet about going for broke in her audition, receiving on-set advice from Zendaya, and what’s coming down the pike post-“Dune.”",
-      "published": "Tue, 24 Nov 2026 06:28:06 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Meet ‘Dune: Part Three’’s Ida Brooke, the Young Brit Denis Villeneuve Picked to Play Zendaya’s Daughter。Vogue talks to the 18-year-old starlet about going for broke in her audition。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Inside Fashion’s $276 Billion Succession Shakeup",
-      "link": "https://www.vogue.com/article/inside-fashions-dollar276-billion-succession-shakeup",
-      "summary": "Of the world’s 100 largest fashion companies, 46 are family-owned, and 30 of these face succession challenges, Achim Berg’s FashionSights highlights in a new report.",
-      "published": "Tue, 24 Nov 2026 05:30:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Inside Fashion’s $276 Billion Succession Shakeup。Of the world’s 100 largest fashion companies, 46 are family-owned, and 30 of these face succession challenges, Achim Berg’s Fashion。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Is This Department Stores’ Big Comeback Christmas?",
-      "link": "https://www.vogue.com/article/is-this-department-stores-big-comeback-christmas",
-      "summary": "From brand collabs to amped up gifting opportunities, department stores are gearing up for a big holiday season.",
-      "published": "Tue, 24 Nov 2026 05:30:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Is This Department Stores’ Big Comeback Christmas?。From brand collabs to amped up gifting opportunities, department stores are gearing up for a big holiday season.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Setting Up Shop in Istanbul",
-      "link": "https://www.vogue.com/article/setting-up-shop-in-istanbul",
-      "summary": "The burgeoning luxury retail sector in Istanbul is competitive, led by a handful of players. Consumers remain hungry for established department store retail, but they’re also craving new formats.",
-      "published": "Tue, 24 Nov 2026 05:30:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Setting Up Shop in Istanbul。The burgeoning luxury retail sector in Istanbul is competitive, led by a handful of players. Consumers remain hungry for established department store re。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "The Best Boots Under $500—From Everyday Classics to Seasonal Statements",
-      "link": "https://www.vogue.com/article/best-boots-under-500",
-      "summary": "Shop the best boots under $500, whether you want a versatile ankle boot, a chic knee-high, or a grippy, weather-proof style.",
-      "published": "Tue, 24 Nov 2026 02:23:51 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：The Best Boots Under $500—From Everyday Classics to Seasonal Statements。Shop the best boots under $500, whether you want a versatile ankle boot, a chic knee-high, or a grippy, weat。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "A Visit to the Heart of Accra’s Thriving Art Scene",
-      "link": "https://www.vogue.com/article/accra-cultural-week-2026-dispatch",
-      "summary": "Earlier this autumn, artists, institutional leaders, collectors, and curators descended on Accra to celebrate a decade of Gallery 1957—and to attend the studio visits, exhibition tours, talks, and social events that make up Accra Cultural Week.",
-      "published": "Tue, 24 Nov 2026 01:00:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：A Visit to the Heart of Accra’s Thriving Art Scene。Earlier this autumn, artists, institutional leaders, collectors, and curators descended on Accra to celebrate a decade of Gallery。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Experts on How to Brighten Under Eyes",
-      "link": "https://www.vogue.com/article/how-to-brighten-lift-under-eyes",
-      "summary": "From five-minute makeup tricks to subtle ‘tweakments,’ here’s what the pros recommend for looking more awake.",
-      "published": "Mon, 23 Nov 2026 22:13:18 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Experts on How to Brighten Under Eyes。From five-minute makeup tricks to subtle ‘tweakments,’ here’s what the pros recommend for looking more awake.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Anthony Boyle and Julia Garner Reunited at the Paris Theater as The Altruists Hits Netflix",
-      "link": "https://www.vogue.com/slideshow/anthony-boyle-julia-garner-the-paris-theatre-the-altruists-netflix",
-      "summary": "“The first rule of acting is that you don’t judge your character,” Julia Garner told an enthralled audience on Thursday evening at Manhattan’s Paris Theater, moments after the credits rolled following the world premiere of The Altruists.",
-      "published": "Mon, 23 Nov 2026 22:09:40 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Anthony Boyle and Julia Garner Reunited at the Paris Theater as The Altruists Hits Netflix。“The first rule of acting is that you don’t judge your character,” Julia Garner told an e。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Justin Jefferson’s Latest Tunnel-Walk Fit Is an Homage to Mexican Fashion",
-      "link": "https://www.vogue.com/slideshow/justin-jefferson-patricio-campillo-game-day-outfit",
-      "summary": "The Minnesota Vikings wide receiver tapped Patricio Campillo for his latest game-day look.",
-      "published": "Mon, 23 Nov 2026 22:05:16 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Justin Jefferson’s Latest Tunnel-Walk Fit Is an Homage to Mexican Fashion。The Minnesota Vikings wide receiver tapped Patricio Campillo for his latest game-day look.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "74 Thoughts I Had While Watching Clashing ‘Through the Snow’",
-      "link": "https://www.vogue.com/article/74-thoughts-i-had-while-watching-clashing-through-the-snow",
-      "summary": "Briney and Vespa are those coworkers who think they’re Jim and Pam, but they’re actualy the subject of many hateful office group chats.",
-      "published": "Mon, 23 Nov 2026 21:50:21 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：74 Thoughts I Had While Watching Clashing ‘Through the Snow’。Briney and Vespa are those coworkers who think they’re Jim and Pam, but they’re actualy the subject of many hateful off。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "10+ Winter Looks to Re-create From Fashion’s Beloved Style Icons",
-      "link": "https://www.vogue.com/article/style-icons-winter-outfit-ideas",
-      "summary": "From Lee Radziwill to Carolyn Bessette-Kennedy and Audrey Hepburn, 5+ winter outfit ideas to steal from fashion’s favorite muses.",
-      "published": "Mon, 23 Nov 2026 21:31:56 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：10+ Winter Looks to Re-create From Fashion’s Beloved Style Icons。From Lee Radziwill to Carolyn Bessette-Kennedy and Audrey Hepburn, 5+ winter outfit ideas to steal from fashion’s f。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Rihanna and A$AP Rocky Are in Physical and Sartorial Lockstep",
-      "link": "https://www.vogue.com/article/rihanna-asap-rocky-outfit-formula-2026-11-23",
-      "summary": "Today in Beverly Hills, Rihanna and A$AP Rocky showed us that time apart didn’t keep them from dressing in sync.",
-      "published": "Mon, 23 Nov 2026 21:29:14 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Rihanna and A$AP Rocky Are in Physical and Sartorial Lockstep。Today in Beverly Hills, Rihanna and A$AP Rocky showed us that time apart didn’t keep them from dressing in sync.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Inside the Season’s Best Friendsgiving Parties",
-      "link": "https://www.vogue.com/article/friendsgiving-parties-november-2026",
-      "summary": "Somewhere between Halloween and the holiday party bonanza, Friendsgiving has become fashion’s favorite excuse for a long and unhurried soirée. This year, hosts went all out with candlelit suppers, art gallery takeovers, and apartment hangouts. Here’s a glimpse",
-      "published": "Mon, 23 Nov 2026 21:04:47 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Inside the Season’s Best Friendsgiving Parties。Somewhere between Halloween and the holiday party bonanza, Friendsgiving has become fashion’s favorite excuse for a long and unhurrie。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "The Best Sunscreens for Mature Skin Are Your First Line of Defense Against Aging",
-      "link": "https://www.vogue.com/article/sunscreens-for-mature-skin",
-      "summary": "What to look for in the best sunscreen for mature skin and how to choose a formula for smooth, protected skin at any age.",
-      "published": "Mon, 23 Nov 2026 20:34:19 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：The Best Sunscreens for Mature Skin Are Your First Line of Defense Against Aging。What to look for in the best sunscreen for mature skin and how to choose a formula for smooth, prot。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Stine Goya Pre-Fall 2027",
-      "link": "https://www.vogue.com/fashion-shows/pre-fall-2027/stine-goya",
-      "summary": "",
-      "published": "Tue, 24 Nov 2026 10:39:33 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Stine Goya Pre-Fall 2027。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Gwyneth Paltrow Gave Us Two Holiday Outfits for the Price of One",
-      "link": "https://www.vogue.com/article/gwyneth-paltrow-two-holiday-outfits-2026-11-23",
-      "summary": "Whether it’s adding a little sparkle or feathers to your New Year’s Eve outfit, or dressing up a comfy Thanksgiving ’fit with a statement leather jacket, Gwyneth Paltrow has all the answers to our holiday dressing woes.",
-      "published": "Mon, 23 Nov 2026 19:43:03 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Gwyneth Paltrow Gave Us Two Holiday Outfits for the Price of One。Whether it’s adding a little sparkle or feathers to your New Year’s Eve outfit, or dressing up a comfy Thanksgiving。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Who Is Miley Cyrus’s New Husband, Maxx Morando?",
-      "link": "https://www.vogue.com/article/who-is-miley-cyrus-boyfriend-2025-oscars",
-      "summary": "Cyrus and Morando had discussed getting engaged prior to a 2025 Japan trip, but he pulled off a surprise proposal there—and over the weekend, the two tied the knot.",
-      "published": "Mon, 23 Nov 2026 19:00:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Who Is Miley Cyrus’s New Husband, Maxx Morando?。Cyrus and Morando had discussed getting engaged prior to a 2025 Japan trip, but he pulled off a surprise proposal there—and over the。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Shop the Best Hoop Earrings—No Jewelry Box Is Complete Without a Pair",
-      "link": "https://www.vogue.com/article/best-everyday-hoop-earrings",
-      "summary": "It’s safe to say that no jewelry collection is complete without the best hoop earrings for everyday. Shop our favorites, from gold huggies to sparkly styles.",
-      "published": "Mon, 23 Nov 2026 18:18:11 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Shop the Best Hoop Earrings—No Jewelry Box Is Complete Without a Pair。It’s safe to say that no jewelry collection is complete without the best hoop earrings for everyday. Shop our 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "The Best Bridal Shops in NYC to Find Your Dream Wedding Dress",
-      "link": "https://www.vogue.com/article/the-best-bridal-shops-in-nyc",
-      "summary": "Need to find your wedding dress? We rounded up the best bridal shops in NYC to help you find your dream gown to walk down the aisle.",
-      "published": "Mon, 23 Nov 2026 18:03:40 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：The Best Bridal Shops in NYC to Find Your Dream Wedding Dress。Need to find your wedding dress? We rounded up the best bridal shops in NYC to help you find your dream gown to walk d。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Connor Storrie Mixes a “Mezcal Mandy”—and Addresses His Controversial Buzzcut—for Vogue’s Now Serving",
-      "link": "https://www.vogue.com/article/now-serving-connor-storrie",
-      "summary": "The Heated Rivalry actor—and Vogue’s 2026 Best Dressed cover star—prepares his go-to order on a night out: a “Mezcal Mandy.”",
-      "published": "Mon, 23 Nov 2026 17:00:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Connor Storrie Mixes a “Mezcal Mandy”—and Addresses His Controversial Buzzcut—for Vogue’s Now Serving。The Heated Rivalry actor—and Vogue’s 2026 Best Dressed cover star—prepares his。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Katy Perry and Justin Trudeau Have Very Different Approaches to Travel Style",
-      "link": "https://www.vogue.com/article/katy-perry-justin-trudeau-couple-travel-style",
-      "summary": "Trudeau loves a cheeky slogan tee, while Perry’s off-duty wardrobe revolves around quiet luxury.",
-      "published": "Mon, 23 Nov 2026 16:55:28 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Katy Perry and Justin Trudeau Have Very Different Approaches to Travel Style。Trudeau loves a cheeky slogan tee, while Perry’s off-duty wardrobe revolves around quiet luxury.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "27 Luxurious (and Truly Over-the-Top) Beauty and Wellness Gifts",
-      "link": "https://www.vogue.com/article/wellness-beauty-luxurious-gift-guide-2026",
-      "summary": "No budget was considered in the making of this list, which has something for the protein-maxxer, the sleep detoxer, and the barefoot bohemian in your life.",
-      "published": "Mon, 23 Nov 2026 16:43:47 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：27 Luxurious (and Truly Over-the-Top) Beauty and Wellness Gifts。No budget was considered in the making of this list, which has something for the protein-maxxer, the sleep detoxer, 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Chain-Strap Bags Are Back in the Spotlight—The Best to Invest In",
-      "link": "https://www.vogue.com/slideshow/best-chain-handbags",
-      "summary": "Because, hardware can make or break a handbag, shop our edit of the best chain bags.",
-      "published": "Mon, 23 Nov 2026 16:34:45 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Chain-Strap Bags Are Back in the Spotlight—The Best to Invest In。Because, hardware can make or break a handbag, shop our edit of the best chain bags.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "All That Glitters: Jewelry Highlights from Vogue’s Best Dressed List",
-      "link": "https://www.vogue.com/article/jewelry-highlights-from-the-vogue-2026-best-dressed-list",
-      "summary": "What do Margot Robbie, Céline Dion, and Colman Domingo have in common? An eye for extraordinary jewels, and the stories behind them.",
-      "published": "Mon, 23 Nov 2026 16:00:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：All That Glitters: Jewelry Highlights from Vogue’s Best Dressed List。What do Margot Robbie, Céline Dion, and Colman Domingo have in common? An eye for extraordinary jewels, and the。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Meet the 2026 Next Gen Style Stars",
-      "link": "https://www.vogue.com/article/2026-best-dressed-next-gen-style-stars",
-      "summary": "Whether they’re sporting classic American sportswear or funky vintage tees, these 2026 breakout style stars are the ones to watch.",
-      "published": "Mon, 23 Nov 2026 16:00:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Meet the 2026 Next Gen Style Stars。Whether they’re sporting classic American sportswear or funky vintage tees, these 2026 breakout style stars are the ones to watch.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     }
   ]
 }
