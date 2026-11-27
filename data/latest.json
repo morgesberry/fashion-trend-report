@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26 09:13:34",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27 09:28:54",
   "lead_text": "今日样本中趋势分布较为分散，建议关注高频词与高分报道的交叉区域。",
   "top_keywords": [],
   "items": [
@@ -20,16 +20,262 @@
       "cn_summary": "关注点：Miu Miu 2026春夏秀场中的复古运动风重构。聚焦廓形、材质与商业化潜力。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "“I Just Wanted to Feel Like Myself”—Whitney Peak On Her ‘Hunger Games’ Press Fashion",
-      "link": "https://www.vogue.com/slideshow/whitney-peak-the-hunger-games-sunrise-on-the-reaping-press-tour-style",
-      "summary": "Here, Whitney Peak offers Vogue a look back at her Hunger Games press tour style, from Chanel to Robert Wun.",
-      "published": "Wed, 25 Nov 2026 19:40:41 +000",
+      "title": "After Careful Review, These Are the Best Perfumes for Women",
+      "link": "https://www.vogue.com/article/perfumes-for-women",
+      "summary": "Here are the best perfumes for women from brands like Chanel, Byredo, Régime des Fleurs, and much more. From warm vanilla notes to fresh citrus fragrances, find your new favorite scent.",
+      "published": "Thu, 26 Nov 2026 12:00:00 +000",
       "source": "Vogue",
       "tags": [
         "品牌:Chanel"
       ],
       "score": 1,
-      "cn_summary": "关注点：“I Just Wanted to Feel Like Myself”—Whitney Peak On Her ‘Hunger Games’ Press Fashion。Here, Whitney Peak offers Vogue a look back at her Hunger Games press tour style, from Chanel t。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+      "cn_summary": "关注点：After Careful Review, These Are the Best Perfumes for Women。Here are the best perfumes for women from brands like Chanel, Byredo, Régime des Fleurs, and much more. From warm vanill。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "“Focus on Learning”: Career Lessons With Burberry’s Daniel Lee and Anna Wintour",
+      "link": "https://www.vogue.com/article/focus-on-learning-career-lessons-with-burberrys-daniel-lee-and-anna-wintour",
+      "summary": "Burberry’s chief creative officer Daniel Lee and Vogue’s global editorial director Anna Wintour unpack leadership, AI and the future of British fashion at the Vogue Business Global Summit in New York.",
+      "published": "Thu, 26 Nov 2026 11:35:51 +000",
+      "source": "Vogue",
+      "tags": [
+        "品牌:Burberry"
+      ],
+      "score": 1,
+      "cn_summary": "关注点：“Focus on Learning”: Career Lessons With Burberry’s Daniel Lee and Anna Wintour。Burberry’s chief creative officer Daniel Lee and Vogue’s global editorial director Anna Wintour unpa。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Christopher Bailey on His Post-Burberry Reinvention at the Historic Burleigh Pottery",
+      "link": "https://www.vogue.com/article/christopher-bailey-burleigh-pottery",
+      "summary": "It’s been eight years since Christopher Bailey hung up his trench at Burberry. Now he’s set to reinvigorate another historic British maker: Burleigh Pottery. Hamish Bowles meets him in Staffordshire.",
+      "published": "Thu, 26 Nov 2026 10:00:00 +000",
+      "source": "Vogue",
+      "tags": [
+        "品牌:Burberry"
+      ],
+      "score": 1,
+      "cn_summary": "关注点：Christopher Bailey on His Post-Burberry Reinvention at the Historic Burleigh Pottery。It’s been eight years since Christopher Bailey hung up his trench at Burberry. Now he’s set to 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Louis Vuitton Stages a Shanghai Concert With Yuja Wang",
+      "link": "https://wwd.com/fashion-news/designer-luxury/louis-vuitton-the-louis-yuja-wang-concert-1239467077/",
+      "summary": "The pianist and house ambassador performed at the brand's boat-shaped Shanghai landmark, with Hélène Mercier-Arnault, Pietro Beccari, Jacksong Wang and Liu Yifei among the 300 guests.",
+      "published": "Thu, 26 Nov 2026 16:48:55 +000",
+      "source": "WWD",
+      "tags": [
+        "品牌:Louis Vuitton"
+      ],
+      "score": 1,
+      "cn_summary": "关注点：Louis Vuitton Stages a Shanghai Concert With Yuja Wang。The pianist and house ambassador performed at the brand's boat-shaped Shanghai landmark, with Hélène Mercier-Arnault, Pietro 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Best Black Friday Jewelry Deals 2026, Handpicked by Vogue Editors",
+      "link": "https://www.vogue.com/article/best-black-friday-jewelry-deals-11-27-2026",
+      "summary": "The best Black Friday jewelry deals of 2026 have landed—shop Vogue’s curated edit of the best forever pieces up to 50% off, from Mejuri to Agmes and Blue Nile.",
+      "published": "Fri, 27 Nov 2026 09:09:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Best Black Friday Jewelry Deals 2026, Handpicked by Vogue Editors。The best Black Friday jewelry deals of 2026 have landed—shop Vogue’s curated edit of the best forever pieces u。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Black Friday Beauty Deals You Should Know",
+      "link": "https://www.vogue.com/article/best-early-black-friday-beauty-deals-11-27-2026",
+      "summary": "Want to get ahead of holiday shopping? The best Black Friday beauty deals feature markdowns of up to 60%, Dyson, Elemis, & more. Shop before they’re gone.",
+      "published": "Fri, 27 Nov 2026 09:07:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Black Friday Beauty Deals You Should Know。Want to get ahead of holiday shopping? The best Black Friday beauty deals feature markdowns of up to 60%, Dyson, Elemis, & more. Shop 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Best Black Friday Clothing Deals 2026—Net-a-Porter, Nordstrom & More",
+      "link": "https://www.vogue.com/slideshow/best-black-friday-clothing-deals-11-27-2026",
+      "summary": "Update your winter wardrobe with the best Black Friday clothing deals, as the main event rolls out.",
+      "published": "Fri, 27 Nov 2026 09:05:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Best Black Friday Clothing Deals 2026—Net-a-Porter, Nordstrom & More。Update your winter wardrobe with the best Black Friday clothing deals, as the main event rolls out.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Best Black Friday Deals Vogue Editors Are Shopping in 2026",
+      "link": "https://www.vogue.com/article/best-black-friday-deals-11-27-2026",
+      "summary": "From boots to cold-weather accessories, outerwear and denim, these are the Black Friday deals Vogue editors have bookmarked.",
+      "published": "Fri, 27 Nov 2026 09:03:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Best Black Friday Deals Vogue Editors Are Shopping in 2026。From boots to cold-weather accessories, outerwear and denim, these are the Black Friday deals Vogue editors have bookmark。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Scoop with Kolor’s Taro Horiuchi: On His Zara Collab",
+      "link": "https://www.vogue.com/article/the-scoop-with-kolors-taro-horiuchi-on-his-zara-collab",
+      "summary": "This week’s guest is Taro Horiuchi, who took over the creative direction of Japanese brand Kolor from its founder Junichi Abe, a couple of years ago.",
+      "published": "Fri, 27 Nov 2026 06:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Scoop with Kolor’s Taro Horiuchi: On His Zara Collab。This week’s guest is Taro Horiuchi, who took over the creative direction of Japanese brand Kolor from its founder Junichi A。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Zara’s Black Friday Sale Is Here—And the Best Finds Won’t Stay in Stock for Long",
+      "link": "https://www.vogue.com/article/zara-black-friday-sale-11-26-2026",
+      "summary": "From essential knits to oversized outerwear and cold-weather accessories, shop the best-of-the-best of Zara’s Black Friday sale.",
+      "published": "Thu, 26 Nov 2026 22:01:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Zara’s Black Friday Sale Is Here—And the Best Finds Won’t Stay in Stock for Long。From essential knits to oversized outerwear and cold-weather accessories, shop the best-of-the-best。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "How Costume Designer Trish Summerville Reimagined ’70s Hollywood Style for ‘The Further Mis-Adventures of Cliff Booth’",
+      "link": "https://www.vogue.com/article/the-further-mis-adventures-of-cliff-booth-costumes-trish-summerville-interview",
+      "summary": "From custom-printing vintage shirts for Brad Pitt to channeling Lauren Hutton for Elizabeth Debicki, the longtime David Fincher collaborator breaks down the film’s lived-in ’70s wardrobe.",
+      "published": "Thu, 26 Nov 2026 17:45:24 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：How Costume Designer Trish Summerville Reimagined ’70s Hollywood Style for ‘The Further Mis-Adventures of Cliff Booth’。From custom-printing vintage shirts for Brad Pitt to channeli。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Body and The Teen Drama Fashion Machine",
+      "link": "https://www.vogue.com/article/the-body-and-the-teen-drama-fashion-machine",
+      "summary": "Coming-of-age series continue to flood streaming services. For fashion brands and resale platforms, they’re no longer a marketing pillar, but a fully fledged positioning strategy.",
+      "published": "Thu, 26 Nov 2026 17:20:04 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Body and The Teen Drama Fashion Machine。Coming-of-age series continue to flood streaming services. For fashion brands and resale platforms, they’re no longer a marketing pillar。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Art of Being Veruschka: Fashion Pays Tribute to a Legend",
+      "link": "https://www.vogue.com/article/veruschka-tributes",
+      "summary": "Generations of fashion’s image-makers, designers, and models reflect on the late Veruschka: the woman who made modeling an art form of its own.",
+      "published": "Thu, 26 Nov 2026 17:11:22 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Art of Being Veruschka: Fashion Pays Tribute to a Legend。Generations of fashion’s image-makers, designers, and models reflect on the late Veruschka: the woman who made modeling。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Kim and Khloé Kardashian’s Beauty Trip Didn’t Quite Go to Plan—Here’s What to Know Before Booking Yours",
+      "link": "https://www.vogue.com/article/kim-khloe-kardashian-beauty-vacation-tourism-tips",
+      "summary": "From vetting practitioners abroad to treatment stacking, experts weigh in on what to know before you go all-in on beauty tourism like the Kardashians.",
+      "published": "Thu, 26 Nov 2026 17:04:29 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Kim and Khloé Kardashian’s Beauty Trip Didn’t Quite Go to Plan—Here’s What to Know Before Booking Yours。From vetting practitioners abroad to treatment stacking, experts weigh in on。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "The Hardest-Working Jacket in Kate Middleton’s Wardrobe Was the Late Queen’s Favorite, Too",
+      "link": "https://www.vogue.com/article/kate-middleton-barbour-jacket-queens-favorite",
+      "summary": "After a trip to India featuring heirloom jewels and a hand-embroidered anarkali, the Princess of Wales—Kate Middleton—is back in her beloved Barbour.",
+      "published": "Thu, 26 Nov 2026 16:43:36 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：The Hardest-Working Jacket in Kate Middleton’s Wardrobe Was the Late Queen’s Favorite, Too。After a trip to India featuring heirloom jewels and a hand-embroidered anarkali, the Prin。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "This Jewelry Designer Bride Created Her Own Vintage-Inspired Dress for Her Polish Countryside Wedding",
+      "link": "https://www.vogue.com/article/natalia-kopiszka-something-bold-something-new",
+      "summary": "Natalia Kopiszka, a Polish jewelry designer, couldn’t find her dream wedding dress—so she made one.",
+      "published": "Thu, 26 Nov 2026 16:24:22 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：This Jewelry Designer Bride Created Her Own Vintage-Inspired Dress for Her Polish Countryside Wedding。Natalia Kopiszka, a Polish jewelry designer, couldn’t find her dream wedding d。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Meet the Vogue & Condé Nast PhotoVogue Committee",
+      "link": "https://www.vogue.com/article/meet-the-vogue-and-conde-nast-photovogue-committee",
+      "summary": "Discover the expansive creative community of Vogue and Condé Nast talent from around the world collaborating with PhotoVogue",
+      "published": "Thu, 26 Nov 2026 15:10:02 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Meet the Vogue & Condé Nast PhotoVogue Committee。Discover the expansive creative community of Vogue and Condé Nast talent from around the world collaborating with PhotoVogue。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Brave New Visions Creativity as Rebellion",
+      "link": "https://www.vogue.com/article/brave-new-visions-creativity-as-rebellion",
+      "summary": "100 artists from around the world. 100 different ways of questioning, challenging, and reimagining the world. Discover the shortlist of PhotoVogue's Global Open Call, celebrating creativity as an act of freedom, resistance, and possibility.",
+      "published": "Thu, 26 Nov 2026 14:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Brave New Visions Creativity as Rebellion。100 artists from around the world. 100 different ways of questioning, challenging, and reimagining the world. Discover the shortlist of Ph。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "PhotoVogue Presents the Digital Gallery for Brave New Visions: Creativity as Rebellion",
+      "link": "https://www.vogue.com/article/photovogue-presents-the-digital-gallery-for-brave-new-visions-creativity-as-rebellion",
+      "summary": "Explore the full gallery and the amazing work of our creatives from our 2026 global Open Call",
+      "published": "Thu, 26 Nov 2026 14:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：PhotoVogue Presents the Digital Gallery for Brave New Visions: Creativity as Rebellion。Explore the full gallery and the amazing work of our creatives from our 2026 global Open Call。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Warm Up Your Thanksgiving Weekend With Fresh From the Runway Sweet Potato-Orange Dressing",
+      "link": "https://www.vogue.com/article/warm-up-your-thanksgiving-weekend-with-fresh-from-the-runway-sweet-potato-orange-dressing",
+      "summary": "Move over cherry red, this funky orange shade has become the Thanksgiving-themed It color we can't escape.",
+      "published": "Thu, 26 Nov 2026 13:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Warm Up Your Thanksgiving Weekend With Fresh From the Runway Sweet Potato-Orange Dressing。Move over cherry red, this funky orange shade has become the Thanksgiving-themed It color 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "How Meghan Markle Is Hosting Her First Thanksgiving Back in Britain",
+      "link": "https://www.vogue.com/article/how-meghan-markle-is-hosting-her-first-thanksgiving-back-in-britain",
+      "summary": "In a new interview, the Duchess of Sussex shares her philosophy on holiday entertaining as she and her family prepare for a rather different festive season back in Britain.",
+      "published": "Thu, 26 Nov 2026 12:55:57 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：How Meghan Markle Is Hosting Her First Thanksgiving Back in Britain。In a new interview, the Duchess of Sussex shares her philosophy on holiday entertaining as she and her family pr。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Pilates Girls Are Obsessed With This Thanksgiving Staple—Here’s Why",
+      "link": "https://www.vogue.com/article/peas-health-benefits",
+      "summary": "It’s high protein and high fiber with lots of vitamins, and you probably have it in the back of your fridge freezer—consider the humble peas.",
+      "published": "Thu, 26 Nov 2026 11:56:31 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Pilates Girls Are Obsessed With This Thanksgiving Staple—Here’s Why。It’s high protein and high fiber with lots of vitamins, and you probably have it in the back of your fridge free。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "8 Reasons to Eat More Oatmeal",
+      "link": "https://www.vogue.com/article/oatmeal-benefits",
+      "summary": "Oatmeal may not be the most glamorous breakfast food, but it’s one of the healthiest. There’s a reason oats have been eaten for thousands of years, after all.",
+      "published": "Thu, 26 Nov 2026 11:43:44 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：8 Reasons to Eat More Oatmeal。Oatmeal may not be the most glamorous breakfast food, but it’s one of the healthiest. There’s a reason oats have been eaten for thousands of years, af。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Vogue Staffers Debate the Best Pair of Eating Pants",
+      "link": "https://www.vogue.com/article/vogue-staffers-favorite-eating-pants",
+      "summary": "With so many food-centric holidays in the immediate future, the Vogue staff is preparing to enjoy many a meal without sacrificing fashion.",
+      "published": "Thu, 26 Nov 2026 11:00:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Vogue Staffers Debate the Best Pair of Eating Pants。With so many food-centric holidays in the immediate future, the Vogue staff is preparing to enjoy many a meal without sacrificin。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
+    },
+    {
+      "title": "Nature on the Board: Should Brands Opt In?",
+      "link": "https://www.vogue.com/article/should-brands-put-nature-on-the-board",
+      "summary": "A growing number of businesses are recognizing the rights of nature by appointing a proxy for nature on their board. What does best practice look like?",
+      "published": "Thu, 26 Nov 2026 10:30:00 +000",
+      "source": "Vogue",
+      "tags": [],
+      "score": 0,
+      "cn_summary": "关注点：Nature on the Board: Should Brands Opt In?。A growing number of businesses are recognizing the rights of nature by appointing a proxy for nature on their board. What does best pract。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
       "title": "25 Vintage Pictures of the Unbreakable Tina Turner",
@@ -62,16 +308,6 @@
       "cn_summary": "关注点：The Secondhand Gifting Conundrum。Secondhand gifting was once a no-no. But in today’s macroeconomic landscape, resale is seeing a holiday upswing.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     },
     {
-      "title": "15 Places to Donate This Holiday Season",
-      "link": "https://www.vogue.com/article/charitable-gift-guide-2026",
-      "summary": "In recent years, I’ve made the decision to donate to an important cause in a loved one’s name—and I’ve never, ever regretted it.",
-      "published": "Thu, 26 Nov 2026 05:01:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：15 Places to Donate This Holiday Season。In recent years, I’ve made the decision to donate to an important cause in a loved one’s name—and I’ve never, ever regretted it.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
       "title": "45 Thoughts I Had While Watching Season 2, Episode 1 of ‘The Hunting Wives’",
       "link": "https://www.vogue.com/article/45-thoughts-about-season-2-episode-1-of-the-hunting-wives",
       "summary": "If there’s no “Choosin’ Texas” needle drop this season, I’m shutting off the TV and walking away.",
@@ -80,236 +316,6 @@
       "tags": [],
       "score": 0,
       "cn_summary": "关注点：45 Thoughts I Had While Watching Season 2, Episode 1 of ‘The Hunting Wives’。If there’s no “Choosin’ Texas” needle drop this season, I’m shutting off the TV and walking away.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "With ‘A Kidman Carol,’ Marla Mindelle, Josh Sharp, and Kevin Zak Fête Australia’s Two Greatest Exports",
-      "link": "https://www.vogue.com/article/marla-mindelle-josh-sharp-and-kevin-zak-a-kidman-carol",
-      "summary": "Just in time for the holidays, and with awards season just around the corner, Vogue caught up with the comedy trio to discuss Nicole Kidman and Cate Blanchett’s unending star power.",
-      "published": "Thu, 26 Nov 2026 01:00:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：With ‘A Kidman Carol,’ Marla Mindelle, Josh Sharp, and Kevin Zak Fête Australia’s Two Greatest Exports。Just in time for the holidays, and with awards season just around the corner,。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "“The Most Beautitul Woman in the World…”: Richard Avedon’s Ode to Veruschka in 1972",
-      "link": "https://www.vogue.com/article/the-most-beautitul-woman-in-the-world-richard-avedons-ode-to-veruschka-in-1972",
-      "summary": "In a story from the May 1972 of Vogue, Richard Avedon tells—in his own words and an extraordinary series of photographs—what made the late supermodel so unique.",
-      "published": "Thu, 26 Nov 2026 00:39:58 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：“The Most Beautitul Woman in the World…”: Richard Avedon’s Ode to Veruschka in 1972。In a story from the May 1972 of Vogue, Richard Avedon tells—in his own words and an extraordinar。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Photographer Franco Rubartelli Shares the Stories Behind Some of Vogue’s Most Famous ‘60s Shoots",
-      "link": "https://www.vogue.com/article/from-the-archives-fashion-photographer-franco-rubartelli-veruschka-1960s-supermodels",
-      "summary": "For Vogue, Franco Rubartelli took some of the most famous pictures of ‘60s icon Veruschka, “the most beautiful girl in the world.” Here he shares the stories behind the shoots.",
-      "published": "Thu, 26 Nov 2026 00:15:48 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Photographer Franco Rubartelli Shares the Stories Behind Some of Vogue’s Most Famous ‘60s Shoots。For Vogue, Franco Rubartelli took some of the most famous pictures of ‘60s icon Ver。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "The Best Moisturizers for Softer, Smoother, More Resilient Skin After 40",
-      "link": "https://www.vogue.com/article/moisturizer-for-aging-skin",
-      "summary": "Looking for the best moisturizer for aging skin? Experts reveal the best face moisturizer for mature skin over 50 and 60 from Cerave, SkinCeuticals, and more.",
-      "published": "Wed, 25 Nov 2026 22:56:46 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：The Best Moisturizers for Softer, Smoother, More Resilient Skin After 40。Looking for the best moisturizer for aging skin? Experts reveal the best face moisturizer for mature skin o。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Summer’s Coolest Manicure Is Fall-Approved, Too, According To Hailey Bieber",
-      "link": "https://www.vogue.com/article/hailey-bieber-charli-xcx-fall-blue-manicure",
-      "summary": "Charli XCX was spotted with a flash of this shade too.",
-      "published": "Wed, 25 Nov 2026 22:52:57 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Summer’s Coolest Manicure Is Fall-Approved, Too, According To Hailey Bieber。Charli XCX was spotted with a flash of this shade too.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Your Winter Plans Called and They’re Requesting a Fair Isle Knit",
-      "link": "https://www.vogue.com/article/how-to-style-fair-isle-knits",
-      "summary": "Discover five ways to style a Fair Isle knit this winter, from après ski looks to holiday hosting.",
-      "published": "Wed, 25 Nov 2026 21:40:59 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Your Winter Plans Called and They’re Requesting a Fair Isle Knit。Discover five ways to style a Fair Isle knit this winter, from après ski looks to holiday hosting.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "20+ Best Sweatpants for Relaxed (Yet Refined) Lounging",
-      "link": "https://www.vogue.com/article/best-sweatpants-for-women",
-      "summary": "Every wardrobe deserves to include a pair of the best sweatpants for women. Shop cotton, cashmere, and wide-leg options from Nike, Vuori, Toteme, and more.",
-      "published": "Wed, 25 Nov 2026 20:35:51 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：20+ Best Sweatpants for Relaxed (Yet Refined) Lounging。Every wardrobe deserves to include a pair of the best sweatpants for women. Shop cotton, cashmere, and wide-leg options from 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "11 Best Lab-Grown Diamonds 2026: Fine Jewelry to Engagement Rings",
-      "link": "https://www.vogue.com/article/best-lab-grown-diamonds",
-      "summary": "Discover the best lab-grown diamonds from brands like Brilliant Earth, Grown Brilliance, Pandora, Dorsey & more so you can sparkle sustainably.",
-      "published": "Wed, 25 Nov 2026 20:33:48 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：11 Best Lab-Grown Diamonds 2026: Fine Jewelry to Engagement Rings。Discover the best lab-grown diamonds from brands like Brilliant Earth, Grown Brilliance, Pandora, Dorsey & more so。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "6 Jewel-Toned Outfits to Wear to Every Holiday Party This Season",
-      "link": "https://www.vogue.com/article/jewel-toned-outfits",
-      "summary": "From glittering gold and shimmering silver to rich burgundy and royal purple, here’s how to style jewel-toned outfits for every festive occasion on your calendar.",
-      "published": "Wed, 25 Nov 2026 20:13:19 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：6 Jewel-Toned Outfits to Wear to Every Holiday Party This Season。From glittering gold and shimmering silver to rich burgundy and royal purple, here’s how to style jewel-toned outfi。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Liz Hurley’s Wedding Guest Dress Breaks All the Rules (In the Best Way)",
-      "link": "https://www.vogue.com/article/liz-hurley-wedding-guest-dress-breaks-all-the-rules-2026-11-25",
-      "summary": "’90s glamazon Liz Hurley dispensed with the usual conventions of wedding guest etiquette at Miley Cyrus and Maxx Morando’s nuptials this weekend.",
-      "published": "Wed, 25 Nov 2026 17:27:18 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Liz Hurley’s Wedding Guest Dress Breaks All the Rules (In the Best Way)。’90s glamazon Liz Hurley dispensed with the usual conventions of wedding guest etiquette at Miley Cyrus and 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Still, No One Does Thanksgiving Style Quite Like 'Gossip Girl’s' Blair Waldorf",
-      "link": "https://www.vogue.com/article/gossip-girl-thanksgiving-style",
-      "summary": "Pair a Marc by Marc Jacobs babydoll dress with lace tights, a knit capelet, and dainty pumps, and you could be looking at any fashion girl's secondhand wishlist today.",
-      "published": "Wed, 25 Nov 2026 16:48:51 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Still, No One Does Thanksgiving Style Quite Like 'Gossip Girl’s' Blair Waldorf。Pair a Marc by Marc Jacobs babydoll dress with lace tights, a knit capelet, and dainty pumps, and you。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Can Your Home Boost Your Endorphins? 7 Simple Tips for a Healthier, Happier Living Space",
-      "link": "https://www.vogue.com/article/home-endorphin-boost-7-tips",
-      "summary": "Help transform your home into a calm and restorative sanctuary by following these expert recommendations.",
-      "published": "Wed, 25 Nov 2026 15:58:07 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Can Your Home Boost Your Endorphins? 7 Simple Tips for a Healthier, Happier Living Space。Help transform your home into a calm and restorative sanctuary by following these expert re。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Emma Corrin’s Subversive Suiting Game Is Like No Other",
-      "link": "https://www.vogue.com/article/emma-corrin-suiting-style-pride-and-prejudice-2026-11-25",
-      "summary": "On their “Pride and Prejudice” tour, Emma Corrin is leaning into cool, slightly-nineties tailoring that feels fresh.",
-      "published": "Wed, 25 Nov 2026 15:47:22 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Emma Corrin’s Subversive Suiting Game Is Like No Other。On their “Pride and Prejudice” tour, Emma Corrin is leaning into cool, slightly-nineties tailoring that feels fresh.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Veruschka: The Late ’60s Supermodel’s Best Beauty Looks of All Time",
-      "link": "https://www.vogue.com/article/veruschka-60s-supermodel-best-beauty-looks-graphic-eyes-big-hair",
-      "summary": "Following news of her death at 87, a look back at the chameleonic German model Veruschka and her most striking beauty looks.",
-      "published": "Wed, 25 Nov 2026 15:34:32 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Veruschka: The Late ’60s Supermodel’s Best Beauty Looks of All Time。Following news of her death at 87, a look back at the chameleonic German model Veruschka and her most striking b。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Every Time Veruschka Was on the Cover of American Vogue",
-      "link": "https://www.vogue.com/slideshow/veruschka-american-vogue-covers",
-      "summary": "With the news of the legendary German model’s passing at the age of 87, Vogue looks back at the many times she graced the magazine’s cover.",
-      "published": "Wed, 25 Nov 2026 15:15:06 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Every Time Veruschka Was on the Cover of American Vogue。With the news of the legendary German model’s passing at the age of 87, Vogue looks back at the many times she graced the ma。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Veruschka, the Shape-Shifting Supermodel Who Defined an Era, Has Died at 87",
-      "link": "https://www.vogue.com/article/veruschka-obituary",
-      "summary": "A favorite of Richard Avedon and Diana Vreeland, German countess turned supermodel and artist Veruschka approached beauty, fashion, and identity with verve.",
-      "published": "Wed, 25 Nov 2026 15:14:10 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Veruschka, the Shape-Shifting Supermodel Who Defined an Era, Has Died at 87。A favorite of Richard Avedon and Diana Vreeland, German countess turned supermodel and artist Veruschka 。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Ballerina Farm Is Opening a Restaurant, Farm Store, and Cooking School—Here’s a First Look",
-      "link": "https://www.vogue.com/article/ballerina-farm-restaurant-farm-store-cookery-school-utah-exclusive",
-      "summary": "From fall 2027, visitors to Utah’s Kamas Valley will be able to step directly into the world of Ballerina Farm via a farm-to-table restaurant, market, and cooking school. Here’s an exclusive first look at Daniel and Hannah Neeleman’s new venture.",
-      "published": "Wed, 25 Nov 2026 15:07:09 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Ballerina Farm Is Opening a Restaurant, Farm Store, and Cooking School—Here’s a First Look。From fall 2027, visitors to Utah’s Kamas Valley will be able to step directly into the wo。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Vogue’s Best Dressed List of 2026 Is Live! Here’s How to Recreate Our Favorite Looks of the Year",
-      "link": "https://www.vogue.com/article/best-dressed-2026-outfits-style",
-      "summary": "We’re breaking down their style signifiers, one shoppable piece at a time.",
-      "published": "Wed, 25 Nov 2026 15:01:49 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Vogue’s Best Dressed List of 2026 Is Live! Here’s How to Recreate Our Favorite Looks of the Year。We’re breaking down their style signifiers, one shoppable piece at a time.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "How Women Weavers Are Preserving Indigenous Amazigh Culture in Morocco",
-      "link": "https://www.vogue.com/article/how-women-weavers-are-preserving-indigenous-amazigh-culture-in-morocco",
-      "summary": "As global demand for Moroccan rugs surges, a new generation is working directly with rural artisans to keep centuries-old textile traditions alive.",
-      "published": "Wed, 25 Nov 2026 14:59:11 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：How Women Weavers Are Preserving Indigenous Amazigh Culture in Morocco。As global demand for Moroccan rugs surges, a new generation is working directly with rural artisans to keep c。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "Meghan Markle’s Two Favorite Staples Survived Her Move to the UK",
-      "link": "https://www.vogue.com/article/meghan-markle-british-wardrobe-staples-2026-11-25",
-      "summary": "A breezy slip dress and a sharp black blazer: the Duchess of Sussex’s wardrobe essentials have made the transatlantic trip.",
-      "published": "Wed, 25 Nov 2026 12:09:52 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：Meghan Markle’s Two Favorite Staples Survived Her Move to the UK。A breezy slip dress and a sharp black blazer: the Duchess of Sussex’s wardrobe essentials have made the transatlant。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "These Are the 6 Luckiest Zodiac Signs This Sagittarius Season",
-      "link": "https://www.vogue.com/article/luckiest-star-signs-sagittarius-season-2026",
-      "summary": "Scorpio season might have felt intense, but Sagittarius season is all about bringing the party. Here are the signs set to soar over the next month.",
-      "published": "Wed, 25 Nov 2026 11:05:32 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：These Are the 6 Luckiest Zodiac Signs This Sagittarius Season。Scorpio season might have felt intense, but Sagittarius season is all about bringing the party. Here are the signs set。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "The 17 Best Airbnbs in Copenhagen Embrace Hygge",
-      "link": "https://www.vogue.com/article/best-airbnbs-in-copenhagen",
-      "summary": "Book one of the best Airbnbs in Copenhagen ahead of your trip to the Danish capital—and get ready for tons of Scandinavian design inspiration.",
-      "published": "Wed, 25 Nov 2026 11:00:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：The 17 Best Airbnbs in Copenhagen Embrace Hygge。Book one of the best Airbnbs in Copenhagen ahead of your trip to the Danish capital—and get ready for tons of Scandinavian design in。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
-    },
-    {
-      "title": "These Were the Breakout Red Carpet Stars of 2026",
-      "link": "https://www.vogue.com/article/breakout-red-carpet-stars-2026",
-      "summary": "These rising stars had a splashy, career-making year in Hollywood—and they all come armed with unique red carpet style to match.",
-      "published": "Wed, 25 Nov 2026 11:00:00 +000",
-      "source": "Vogue",
-      "tags": [],
-      "score": 0,
-      "cn_summary": "关注点：These Were the Breakout Red Carpet Stars of 2026。These rising stars had a splashy, career-making year in Hollywood—and they all come armed with unique red carpet style to match.。该议题可能对未来两周的单品企划与视觉风格产生外溢影响。"
     }
   ]
 }
